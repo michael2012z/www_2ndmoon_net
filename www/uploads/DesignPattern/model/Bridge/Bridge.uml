@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="2.1" xmlns:xmi="http://schema.omg.org/spec/XMI/2.1" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmi:id="_lIR_cepmEeCyvZrFssnf6g" name="Bridge">
+  <elementImport xmi:id="_lMBP8OpmEeCyvZrFssnf6g">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+  </elementImport>
+  <elementImport xmi:id="_lMa4kOpmEeCyvZrFssnf6g">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+  </elementImport>
+  <elementImport xmi:id="_lMa4kepmEeCyvZrFssnf6g">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#UnlimitedNatural"/>
+  </elementImport>
+  <elementImport xmi:id="_lMa4kupmEeCyvZrFssnf6g">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+  </elementImport>
+  <packagedElement xmi:type="uml:Class" xmi:id="_osee8OpmEeCyvZrFssnf6g" name="Abstraction">
+    <ownedOperation xmi:id="_6w2qYOpmEeCyvZrFssnf6g" name="operation"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_q5GukOpmEeCyvZrFssnf6g" name="RefinedAbstraction">
+    <generalization xmi:id="_STNhcOpnEeCyvZrFssnf6g" general="_osee8OpmEeCyvZrFssnf6g"/>
+    <ownedOperation xmi:id="_7HK4oOpmEeCyvZrFssnf6g" name="operation"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_utoJEOpmEeCyvZrFssnf6g" name="Implementor">
+    <ownedOperation xmi:id="_1YDZsOpmEeCyvZrFssnf6g" name="operationImp">
+      <ownedParameter xmi:id="_3P7hUOpmEeCyvZrFssnf6g" direction="return"/>
+    </ownedOperation>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_w0WlAOpmEeCyvZrFssnf6g" name="ConcreteImplementorA" clientDependency="_QhSQ0OpnEeCyvZrFssnf6g">
+    <ownedOperation xmi:id="_3y32UOpmEeCyvZrFssnf6g" name="operationImp">
+      <ownedParameter xmi:id="_46bUQOpmEeCyvZrFssnf6g" direction="return"/>
+    </ownedOperation>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_zsOxEOpmEeCyvZrFssnf6g" name="ConcreteImplementorB" clientDependency="_RZ0bUOpnEeCyvZrFssnf6g">
+    <ownedOperation xmi:id="_5fo6IOpmEeCyvZrFssnf6g" name="operationImp">
+      <ownedParameter xmi:id="_6BgREOpmEeCyvZrFssnf6g" direction="return"/>
+    </ownedOperation>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Usage" xmi:id="_QhSQ0OpnEeCyvZrFssnf6g" supplier="_utoJEOpmEeCyvZrFssnf6g" client="_w0WlAOpmEeCyvZrFssnf6g"/>
+  <packagedElement xmi:type="uml:Usage" xmi:id="_RZ0bUOpnEeCyvZrFssnf6g" supplier="_utoJEOpmEeCyvZrFssnf6g" client="_zsOxEOpmEeCyvZrFssnf6g"/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_VO-vAOpnEeCyvZrFssnf6g" memberEnd="_VO_WEOpnEeCyvZrFssnf6g _VO_9IupnEeCyvZrFssnf6g">
+    <ownedEnd xmi:id="_VO_WEOpnEeCyvZrFssnf6g" name="src" type="_osee8OpmEeCyvZrFssnf6g" association="_VO-vAOpnEeCyvZrFssnf6g">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_VO_9IepnEeCyvZrFssnf6g" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_VO_9IOpnEeCyvZrFssnf6g" value="1"/>
+    </ownedEnd>
+    <ownedEnd xmi:id="_VO_9IupnEeCyvZrFssnf6g" name="dst" type="_utoJEOpmEeCyvZrFssnf6g" aggregation="composite" association="_VO-vAOpnEeCyvZrFssnf6g">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_VO_9JOpnEeCyvZrFssnf6g" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_VO_9I-pnEeCyvZrFssnf6g" value="1"/>
+    </ownedEnd>
+  </packagedElement>
+</uml:Model>

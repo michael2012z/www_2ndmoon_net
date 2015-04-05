@@ -1,0 +1,39 @@
+<opml version="1.0">
+	<head>
+		<title>Google News</title>
+	</head>
+	<body>
+		<outline 
+			title="Google News" 
+			type="rss"
+			xmlUrl="http://news.google.com/news?pz=1&amp;ned=us&amp;hl=en&amp;output=rss"/>
+		<outline 
+			title="Google News - World" 
+			type="rss"
+			xmlUrl="http://news.google.com/news?pz=1&amp;ned=us&amp;hl=en&amp;topic=w&amp;output=rss"/>
+		<outline 
+			title="Google News - U.S." 
+			type="rss"
+			xmlUrl="http://news.google.com/news?pz=1&amp;ned=us&amp;hl=en&amp;topic=n&amp;output=rss"/>
+		<outline 
+			title="Google News - Business" 
+			type="rss"
+			xmlUrl="http://news.google.com/news?pz=1&amp;ned=us&amp;hl=en&amp;topic=b&amp;output=rss"/>
+		<outline 
+			title="Google News - Sci/Tech" 
+			type="rss"
+			xmlUrl="http://news.google.com/news?pz=1&amp;ned=us&amp;hl=en&amp;topic=t&amp;output=rss"/>
+		<outline 
+			title="Google News - Entertainment" 
+			type="rss"
+			xmlUrl="http://news.google.com/news?pz=1&amp;ned=us&amp;hl=en&amp;topic=e&amp;output=rss"/>
+		<outline 
+			title="Google News - Sports" 
+			type="rss"
+			xmlUrl="http://news.google.com/news?pz=1&amp;ned=us&amp;hl=en&amp;topic=s&amp;output=rss"/>
+		<outline 
+			title="Google News - Health" 
+			type="rss"
+			xmlUrl="http://news.google.com/news?pz=1&amp;ned=us&amp;hl=en&amp;topic=m&amp;output=rss"/>
+	</body>
+</opml>

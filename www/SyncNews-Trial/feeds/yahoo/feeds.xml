@@ -1,0 +1,87 @@
+<opml version="1.0">
+	<head>
+		<title>Yahoo! News</title>
+	</head>
+	<body>
+		<outline 
+			title="Yahoo! News: Top Stories" 
+			type="rss"
+			xmlUrl="http://rss.news.yahoo.com/rss/topstories"/>
+		<outline 
+			title="Yahoo! News: U.S. News" 
+			type="rss"
+			xmlUrl="http://rss.news.yahoo.com/rss/us"/>
+		<outline 
+			title="Yahoo! News: Elections" 
+			type="rss"
+			xmlUrl="http://rss.news.yahoo.com/rss/elections"/>
+		<outline 
+			title="Yahoo! News: Terrorism" 
+			type="rss"
+			xmlUrl="http://rss.news.yahoo.com/rss/terrorism"/>
+		<outline 
+			title="Yahoo! News: World News" 
+			type="rss"
+			xmlUrl="http://rss.news.yahoo.com/rss/world"/>
+		<outline 
+			title="Yahoo! News: Mideast Conflict" 
+			type="rss"
+			xmlUrl="http://rss.news.yahoo.com/rss/mideast"/>
+		<outline 
+			title="Yahoo! News: Iraq" 
+			type="rss"
+			xmlUrl="http://rss.news.yahoo.com/rss/iraq"/>
+		<outline 
+			title="Yahoo! News: Politics News" 
+			type="rss"
+			xmlUrl="http://rss.news.yahoo.com/rss/politics"/>
+		<outline 
+			title="Yahoo! News: Business" 
+			type="rss"
+			xmlUrl="http://rss.news.yahoo.com/rss/business"/>
+		<outline 
+			title="Yahoo! News: Technology News" 
+			type="rss"
+			xmlUrl="http://rss.news.yahoo.com/rss/tech"/>
+		<outline 
+			title="Yahoo! News: Sports News" 
+			type="rss"
+			xmlUrl="http://rss.news.yahoo.com/rss/sports"/>
+		<outline 
+			title="Yahoo! News: Entertainment News" 
+			type="rss"
+			xmlUrl="http://rss.news.yahoo.com/rss/entertainment"/>
+		<outline 
+			title="Yahoo! News: Health News" 
+			type="rss"
+			xmlUrl="http://rss.news.yahoo.com/rss/health"/>
+		<outline 
+			title="Yahoo! News: Odd News" 
+			type="rss"
+			xmlUrl="http://rss.news.yahoo.com/rss/oddlyenough"/>
+		<outline 
+			title="Yahoo! News: Science News" 
+			type="rss"
+			xmlUrl="http://rss.news.yahoo.com/rss/science"/>
+		<outline 
+			title="Yahoo! News: Opinion" 
+			type="rss"
+			xmlUrl="http://rss.news.yahoo.com/rss/oped"/>
+		<outline 
+			title="Yahoo! News: Obituaries" 
+			type="rss"
+			xmlUrl="http://rss.news.yahoo.com/rss/obits"/>
+		<outline 
+			title="Yahoo! News: Most Popular" 
+			type="rss"
+			xmlUrl="http://rss.news.yahoo.com/rss/mostemailed"/>
+		<outline 
+			title="Yahoo! News: Most Viewed" 
+			type="rss"
+			xmlUrl="http://rss.news.yahoo.com/rss/mostviewed"/>
+		<outline 
+			title="Yahoo! News: Most Recommended" 
+			type="rss"
+			xmlUrl="http://rss.news.yahoo.com/rss/highestrated"/>
+	</body>
+</opml>

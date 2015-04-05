@@ -1,0 +1,136 @@
+<opml version="1.0">
+	<head>
+		<title>NYTimes</title>
+	</head>
+	<body>
+		<outline 
+			title="NYT > Global Home" 
+			type="rss"
+			xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/GlobalHome.xml"/>
+		<outline 
+			title="World > World" 
+			type="rss"
+			xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/World.xml"/>
+		<outline 
+			title="World > Americas" 
+			type="rss"
+			xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/Americas.xml"/>
+		<outline 
+			title="World > Europe" 
+			type="rss"
+			xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/Europe.xml"/>
+		<outline 
+			title="World > Africa" 
+			type="rss"
+			xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/Africa.xml"/>
+		<outline 
+			title="World > AsiaPacific" 
+			type="rss"
+			xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/AsiaPacific.xml"/>
+		<outline 
+			title="World > MiddleEast" 
+			type="rss"
+			xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/MiddleEast.xml"/>
+		<outline 
+			title="U.S. > US" 
+			type="rss"
+			xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/US.xml"/>
+		<outline 
+			title="U.S. > Politics" 
+			type="rss"
+			xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/Politics.xml"/>
+		<outline 
+			title="U.S. > Washington" 
+			type="rss"
+			xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/Washington.xml"/>
+		<outline 
+			title="U.S. > Education" 
+			type="rss"
+			xmlUrl="http://feeds.nytimes.com/nyt/rss/Education"/>
+		<outline 
+			title="N.Y./Region" 
+			type="rss"
+			xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/NYRegion.xml"/>
+		<outline 
+			title="N.Y./Region > Connecticut" 
+			type="rss"
+			xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/Connecticut.xml"/>
+		<outline 
+			title="N.Y./Region > New Jersey" 
+			type="rss"
+			xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/New-Jersey.xml"/>
+		<outline 
+			title="N.Y./Region > The City" 
+			type="rss"
+			xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/TheCity.xml"/>
+		<outline 
+			title="N.Y./Region > Long Island" 
+			type="rss"
+			xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/Long-Island.xml"/>
+		<outline 
+			title="N.Y./Region > Westchester" 
+			type="rss"
+			xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/Westchester.xml"/>
+		<outline 
+			title="Business" 
+			type="rss"
+			xmlUrl="http://feeds.nytimes.com/nyt/rss/Business"/>
+		<outline 
+			title="Business > World Business" 
+			type="rss"
+			xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/WorldBusiness.xml"/>
+		<outline 
+			title="Business > Economy" 
+			type="rss"
+			xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/Economy.xml"/>
+		<outline 
+			title="Business > Media &amp; Advertising" 
+			type="rss"
+			xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/MediaandAdvertising.xml"/>
+		<outline 
+			title="Business > Your Money" 
+			type="rss"
+			xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/YourMoney.xml"/>
+
+		<outline 
+			title="Technology" 
+			type="rss"
+			xmlUrl="http://feeds.nytimes.com/nyt/rss/Technology"/>
+		<outline 
+			title="Sports" 
+			type="rss"
+			xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/Sports.xml"/>
+		<outline 
+			title="Science" 
+			type="rss"
+			xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/Science.xml"/>
+		<outline 
+			title="Health" 
+			type="rss"
+			xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/Health.xml"/>
+		<outline 
+			title="Arts" 
+			type="rss"
+			xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/Arts.xml"/>
+		<outline 
+			title="Fashion &amp; Style" 
+			type="rss"
+			xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml"/>
+		<outline 
+			title="Travel" 
+			type="rss"
+			xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/Travel.xml"/>
+		<outline 
+			title="Magazine" 
+			type="rss"
+			xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/Magazine.xml"/>
+		<outline 
+			title="JobMarket" 
+			type="rss"
+			xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/JobMarket.xml"/>
+		<outline 
+			title="Real Estate" 
+			type="rss"
+			xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/RealEstate.xml"/>
+	</body>
+</opml>

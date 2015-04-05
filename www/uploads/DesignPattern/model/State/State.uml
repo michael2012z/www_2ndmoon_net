@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="2.1" xmlns:xmi="http://schema.omg.org/spec/XMI/2.1" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmi:id="_qp1nYPCkEeCaJtkbSZkVhg" name="State">
+  <elementImport xmi:id="_qzsG8PCkEeCaJtkbSZkVhg">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+  </elementImport>
+  <elementImport xmi:id="_qzsuAPCkEeCaJtkbSZkVhg">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+  </elementImport>
+  <elementImport xmi:id="_qztVEPCkEeCaJtkbSZkVhg">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#UnlimitedNatural"/>
+  </elementImport>
+  <elementImport xmi:id="_qztVEfCkEeCaJtkbSZkVhg">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+  </elementImport>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_ud4gwPCkEeCaJtkbSZkVhg" name="State">
+    <ownedOperation xmi:id="_vz1AAPCkEeCaJtkbSZkVhg" name="operation"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_wfZFgPCkEeCaJtkbSZkVhg" name="ConcreteState" clientDependency="_EjDBEPClEeCaJtkbSZkVhg">
+    <interfaceRealization xmi:id="_EjDBEPClEeCaJtkbSZkVhg" supplier="_ud4gwPCkEeCaJtkbSZkVhg" client="_wfZFgPCkEeCaJtkbSZkVhg" contract="_ud4gwPCkEeCaJtkbSZkVhg"/>
+    <ownedOperation xmi:id="_xpgvQPCkEeCaJtkbSZkVhg" name="operation"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_yKjm0PCkEeCaJtkbSZkVhg" name="Context">
+    <ownedAttribute xmi:id="_zRy7sPCkEeCaJtkbSZkVhg" name="state" type="_ud4gwPCkEeCaJtkbSZkVhg" aggregation="composite"/>
+    <ownedOperation xmi:id="_zGHQIPCkEeCaJtkbSZkVhg" name="operation"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_GMg5QPClEeCaJtkbSZkVhg" memberEnd="_GMhgUPClEeCaJtkbSZkVhg _GMj8kPClEeCaJtkbSZkVhg">
+    <ownedEnd xmi:id="_GMhgUPClEeCaJtkbSZkVhg" name="src" type="_yKjm0PCkEeCaJtkbSZkVhg" association="_GMg5QPClEeCaJtkbSZkVhg">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_GMjVgfClEeCaJtkbSZkVhg" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_GMjVgPClEeCaJtkbSZkVhg" value="1"/>
+    </ownedEnd>
+    <ownedEnd xmi:id="_GMj8kPClEeCaJtkbSZkVhg" name="dst" type="_ud4gwPCkEeCaJtkbSZkVhg" aggregation="composite" association="_GMg5QPClEeCaJtkbSZkVhg">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_GMj8kvClEeCaJtkbSZkVhg" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_GMj8kfClEeCaJtkbSZkVhg" value="1"/>
+    </ownedEnd>
+  </packagedElement>
+</uml:Model>

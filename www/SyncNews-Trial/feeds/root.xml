@@ -1,0 +1,13 @@
+<opml version="1.0">
+	<head>
+		<title>SyncNews Feeds Collection</title>
+	</head>
+	<body>
+		<outline 
+			title="Yahoo! News" 
+			type="opml"
+			xmlUrl="http://www.the2ndmoon.net/SyncNews-Trial/feeds/yahoo/feeds.xml" 
+			htmlUrl="http://www.the2ndmoon.net/SyncNews-Trial/feeds/yahoo/feeds.xml"/>
+	</body>
+	
+</opml>

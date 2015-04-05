@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="2.1" xmlns:xmi="http://schema.omg.org/spec/XMI/2.1" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmi:id="_qSsrsONcEeCEZPzJAxqGRQ" name="SimpleFlyweight">
+  <elementImport xmi:id="_qTjnUONcEeCEZPzJAxqGRQ">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+  </elementImport>
+  <elementImport xmi:id="_qTjnUeNcEeCEZPzJAxqGRQ">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+  </elementImport>
+  <elementImport xmi:id="_qTjnUuNcEeCEZPzJAxqGRQ">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#UnlimitedNatural"/>
+  </elementImport>
+  <elementImport xmi:id="_qTjnU-NcEeCEZPzJAxqGRQ">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+  </elementImport>
+  <packagedElement xmi:type="uml:Class" xmi:id="_u-UtUONcEeCEZPzJAxqGRQ" name="Client">
+    <ownedAttribute xmi:id="_ddfeYONdEeCEZPzJAxqGRQ" name="factory" aggregation="composite"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_z9QsgONcEeCEZPzJAxqGRQ" name="FlyweightFactory">
+    <ownedAttribute xmi:id="_bqDx4ONdEeCEZPzJAxqGRQ" name="maps" aggregation="composite"/>
+    <ownedOperation xmi:id="_Rm5D0ONdEeCEZPzJAxqGRQ" name="factory">
+      <ownedParameter xmi:id="_WB2zQONdEeCEZPzJAxqGRQ" direction="return"/>
+    </ownedOperation>
+    <ownedOperation xmi:id="_XtnxgONdEeCEZPzJAxqGRQ" name="checkFlyweight">
+      <ownedParameter xmi:id="_aoGloONdEeCEZPzJAxqGRQ" direction="return"/>
+    </ownedOperation>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_4RhXAONcEeCEZPzJAxqGRQ" name="Flyweight">
+    <ownedOperation xmi:id="_AFfCkONdEeCEZPzJAxqGRQ" name="operation"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_7CqB4ONcEeCEZPzJAxqGRQ" name="ConcreteFlyweight" clientDependency="_Q_fQIONeEeCEZPzJAxqGRQ">
+    <ownedAttribute xmi:id="_HT2twONdEeCEZPzJAxqGRQ" name="state" aggregation="composite"/>
+    <ownedOperation xmi:id="_GXBSEONdEeCEZPzJAxqGRQ" name="operation"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_yrnB8ONdEeCEZPzJAxqGRQ" memberEnd="_yrnB8eNdEeCEZPzJAxqGRQ _yroQEONdEeCEZPzJAxqGRQ">
+    <ownedEnd xmi:id="_yrnB8eNdEeCEZPzJAxqGRQ" name="src" type="_u-UtUONcEeCEZPzJAxqGRQ" association="_yrnB8ONdEeCEZPzJAxqGRQ">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_yrnpAeNdEeCEZPzJAxqGRQ" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_yrnpAONdEeCEZPzJAxqGRQ" value="1"/>
+    </ownedEnd>
+    <ownedEnd xmi:id="_yroQEONdEeCEZPzJAxqGRQ" name="dst" type="_z9QsgONcEeCEZPzJAxqGRQ" association="_yrnB8ONdEeCEZPzJAxqGRQ">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_yroQEuNdEeCEZPzJAxqGRQ" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_yroQEeNdEeCEZPzJAxqGRQ" value="1"/>
+    </ownedEnd>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_Nsl8AONeEeCEZPzJAxqGRQ" memberEnd="_NsmjEONeEeCEZPzJAxqGRQ _NsnKIuNeEeCEZPzJAxqGRQ">
+    <ownedEnd xmi:id="_NsmjEONeEeCEZPzJAxqGRQ" name="src" type="_z9QsgONcEeCEZPzJAxqGRQ" association="_Nsl8AONeEeCEZPzJAxqGRQ">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_NsnKIeNeEeCEZPzJAxqGRQ" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_NsnKIONeEeCEZPzJAxqGRQ" value="1"/>
+    </ownedEnd>
+    <ownedEnd xmi:id="_NsnKIuNeEeCEZPzJAxqGRQ" name="dst" type="_4RhXAONcEeCEZPzJAxqGRQ" aggregation="composite" association="_Nsl8AONeEeCEZPzJAxqGRQ">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_NsnxMeNeEeCEZPzJAxqGRQ" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_NsnxMONeEeCEZPzJAxqGRQ" value="1"/>
+    </ownedEnd>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Usage" xmi:id="_Q_fQIONeEeCEZPzJAxqGRQ" supplier="_4RhXAONcEeCEZPzJAxqGRQ" client="_7CqB4ONcEeCEZPzJAxqGRQ"/>
+</uml:Model>

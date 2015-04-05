@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="2.1" xmlns:xmi="http://schema.omg.org/spec/XMI/2.1" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmi:id="_TYoQMdk2EeCXevqHBCBKbg" name="Proxy">
+  <elementImport xmi:id="_TdlBoNk2EeCXevqHBCBKbg">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+  </elementImport>
+  <elementImport xmi:id="_TiJYkNk2EeCXevqHBCBKbg">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+  </elementImport>
+  <elementImport xmi:id="_TiJYkdk2EeCXevqHBCBKbg">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#UnlimitedNatural"/>
+  </elementImport>
+  <elementImport xmi:id="_TiJYktk2EeCXevqHBCBKbg">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+  </elementImport>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_dASuANk2EeCXevqHBCBKbg" name="Subject">
+    <ownedOperation xmi:id="_mxT8INk2EeCXevqHBCBKbg" name="request">
+      <ownedParameter xmi:id="_oA1qUNk2EeCXevqHBCBKbg" direction="return"/>
+    </ownedOperation>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_fRxBYNk2EeCXevqHBCBKbg" name="RealSubject" clientDependency="_5ZyTINk2EeCXevqHBCBKbg">
+    <interfaceRealization xmi:id="_5ZyTINk2EeCXevqHBCBKbg" supplier="_dASuANk2EeCXevqHBCBKbg" client="_fRxBYNk2EeCXevqHBCBKbg" contract="_dASuANk2EeCXevqHBCBKbg"/>
+    <ownedOperation xmi:id="_oj57INk2EeCXevqHBCBKbg" name="request">
+      <ownedParameter xmi:id="_qJBe0Nk2EeCXevqHBCBKbg" direction="return"/>
+    </ownedOperation>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_iWnScNk2EeCXevqHBCBKbg" name="ProxySubject" clientDependency="_6OOn0Nk2EeCXevqHBCBKbg">
+    <interfaceRealization xmi:id="_6OOn0Nk2EeCXevqHBCBKbg" supplier="_dASuANk2EeCXevqHBCBKbg" client="_iWnScNk2EeCXevqHBCBKbg" contract="_dASuANk2EeCXevqHBCBKbg"/>
+    <ownedOperation xmi:id="_qr6wgNk2EeCXevqHBCBKbg" name="request">
+      <ownedParameter xmi:id="_r6v7INk2EeCXevqHBCBKbg" direction="return"/>
+    </ownedOperation>
+    <ownedOperation xmi:id="_sidbYNk2EeCXevqHBCBKbg" name="preRequest">
+      <ownedParameter xmi:id="_u4gFsNk2EeCXevqHBCBKbg" direction="return"/>
+    </ownedOperation>
+    <ownedOperation xmi:id="_snmaENk2EeCXevqHBCBKbg" name="postRequest">
+      <ownedParameter xmi:id="_trrGMNk2EeCXevqHBCBKbg" direction="return"/>
+    </ownedOperation>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_7vXqcNk2EeCXevqHBCBKbg" memberEnd="_7vZfoNk2EeCXevqHBCBKbg _7vatwdk2EeCXevqHBCBKbg">
+    <ownedEnd xmi:id="_7vZfoNk2EeCXevqHBCBKbg" name="src" type="_iWnScNk2EeCXevqHBCBKbg" association="_7vXqcNk2EeCXevqHBCBKbg">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_7vatwNk2EeCXevqHBCBKbg" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_7vaGsNk2EeCXevqHBCBKbg" value="1"/>
+    </ownedEnd>
+    <ownedEnd xmi:id="_7vatwdk2EeCXevqHBCBKbg" name="dst" type="_fRxBYNk2EeCXevqHBCBKbg" association="_7vXqcNk2EeCXevqHBCBKbg">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_7vbU0dk2EeCXevqHBCBKbg" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_7vbU0Nk2EeCXevqHBCBKbg" value="1"/>
+    </ownedEnd>
+  </packagedElement>
+</uml:Model>

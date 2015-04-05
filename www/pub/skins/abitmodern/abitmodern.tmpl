@@ -1,0 +1,53 @@
+<!DOCTYPE html
+    PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<!--
+// 
+// 2005-12-01  ksc  Initial release
+//  
+-->
+
+<html>
+<head>
+	<title>$WikiTitle | $Group / $Title $Action</title>
+	<meta http-equiv='Content-Style-Type' content='text/css' />
+    <!--HeaderText-->
+    <link rel='stylesheet' title="A Bit Modern" href='$SkinDirUrl/abitmodern.css' type='text/css' />
+	<script type="text/javascript">
+	<!-- //
+	browser_type = navigator.appName;
+	if (browser_type == "Microsoft Internet Explorer") { 
+		document.write("<link href='$SkinDirUrl/abitmodern-ie.css' rel='stylesheet' type='text/css' />");
+	}
+	//-->
+	</script>
+</head>
+
+<body>
+    <div id='wrapper'>
+        <div id='head'>
+            <div id='page-title'>$title</div>
+            <div id='page-subtitle'>$currentpage</div>
+            <div id='page-actions'><!--wiki:$Group.PageActions $SiteGroup.PageActions--></div>
+        </div>
+
+        <div id='content'>
+            <div id='col-left'>
+                <!--PageLeftFmt-->
+                <div id='sidebar'><!--wiki:$Group.SideBar $SiteGroup.SideBar--></div>
+                <!--/PageLeftFmt-->
+            </div>
+            <div id='col-right'>
+                <!--PageText-->
+                <!--PageFooterFmt-->
+                <div id='footer'>$SkinCopyright</div>
+                <!--/PageFooterFmt-->
+            </div>
+            <div class='clearfix'></div>
+        </div>
+        <div class='clearfix'></div>
+    </div>
+    <div class='clearfix'></div>
+</body>
+</html>

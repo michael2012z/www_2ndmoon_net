@@ -1,0 +1,399 @@
+/*
+Theme Name: Easy
+Theme URI: http://d5creation.com/theme/easy/
+
+Author: D5 Creation
+Author URI: http://d5creation.com/
+
+Description: HTML 5 and CSS3 powered Easy Theme is a simple easy way for your website. Easy is super elegant and Professional Theme which will expand you widely. The Slider will show the featured images and contents of posts automatically.  Front Page, Right and Footer Sidebar will be usable for showing the Widgets and Plugins items. Full Wide page can be used for showing showcase or other pages. 
+
+Version: 1.1
+
+Tags: gray, light, black, yellow, white, two-columns, right-sidebar, fixed-width, custom-header, custom-menu, threaded-comments, sticky-post, rtl-language-support, front-page-post-form, full-width-template, theme-options  
+
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+Easy WordPress Theme, Copyright 2013: D5 Creation (www.d5creation.com)
+Easy is distributed under the terms of the GNU GPL
+
+
+Text Domain: easy
+
+*/
+/* =Reset default browser CSS. Based on work by Eric Meyer: http://meyerweb.com/eric/tools/css/reset/index.html
+-------------------------------------------------------------- */
+
+caption, th, td {
+	text-align: right;
+}
+
+/* =WordPress Core and Addition
+-------------------------------------------------------------- */
+.alignnone,
+#content .alignnone,
+#content-full .alignnone,
+div .alignnone {
+	margin: 5px 0 20px 20px;
+}
+
+.alignleft,
+#content .alignleft,
+#content-full .alignleft,
+div .alignleft {
+	float:left;
+	margin: 5px 20px 20px 0;
+}
+
+.alignright,
+#content .alignright,
+#content-full .alignright,
+div .alignright {
+	float:right;
+	margin: 5px 0 20px 20px;
+}
+
+a img.alignleft {
+	float:left;
+	margin: 5px 20px 20px 0;
+}
+
+a img.alignnone {
+	margin: 5px 0 20px 20px;
+}
+
+a img.alignright {
+	float:right;
+	margin: 5px 0 20px 20px;
+}
+
+a img.aligncenter {
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.wp-caption.alignnone {
+	margin: 5px 0 20px 20px;
+}
+
+.wp-caption.alignright {
+	margin: 5px 0 20px 20px;
+}
+
+.wp-caption.alignleft {
+	margin: 5px 20px 20px 0;
+}
+
+/* =Structure
+----------------------------------------------- */
+
+#left-sidebar input#s {
+	background: url("images/search.png") no-repeat scroll left 50% rgba(51, 51, 51, 0.7);
+	float: left;
+	padding: 10px 10px 10px 25px;
+}
+
+img.site-logo, h1.site-title {
+	float: right;
+}
+
+#content {
+	border-left: 260px solid #424242;
+	float: right;
+	margin: 0 0 0 -300px;
+	padding: 0 0 0 50px;
+	border-right: none;
+}
+
+#left-sidebar {
+	float: left;
+	margin: -30px 0 0 -30px;
+}
+
+.facebook-link, 
+.twitter-link, 
+.gplus-link, 
+.li-link, 
+.feed-link {
+	float: right;
+}
+
+#creditline {
+	text-align: right;
+}
+
+/* Common Elements 
+------------------------------------------------------------- */
+ol, 
+ul {
+	padding: 0 20px 10px 0;
+}
+
+address {
+	text-align: right;
+}
+
+/* Menu Elements 
+------------------------------------------------------------- */
+#main-menu {
+	float: left;
+}
+
+.m-menu {
+	float: right;
+}
+
+.m-menu li {
+	float: right;
+}
+
+.m-menu li:parent {
+	float: right;
+}
+
+.m-menu .menu-parent-item {
+	background: url("images/listiconfb.png") no-repeat scroll left center / 10px 12px transparent;
+}
+
+.m-menu ul .menu-parent-item {
+	background: url("images/listiconf.png") no-repeat scroll left center / 10px 12px transparent;
+}
+
+/* IE6 */
+
+.m-menu ul li:hover > ul {
+	right: 189px;
+	left: auto;
+}
+
+/* Sub-menu */
+
+.m-menu ul {
+	right: 0px;
+	left: auto;
+}
+
+.m-menu ul ul {
+	right: 250px;
+	left: auto;
+}
+
+.m-menu ul a {
+	text-align:right;
+}
+
+/* IE6 */
+
+/* IE7 */
+
+.m-menu ul li:first-child > a:after {
+	right: 30px;
+	border-right: 5px solid transparent;
+	border-left: 5px solid transparent;
+	left: auto;
+}
+
+.m-menu ul ul li:first-child > a:after {
+	right: -8px;
+	border-right: 0;
+	border-left: 8px solid #444;
+	left: auto;
+}
+
+.m-menu ul ul li:first-child a:hover:after {
+	border-left-color: #9a7600;
+}
+
+/* Clear floated elements */
+
+/* IE6 */
+
+/* IE7 */
+
+.f-menu li {
+	float: right;
+}
+
+/* Wedget Elements 
+------------------------------------------------------------- */
+
+#left-sidebar .widget {
+	float: left;
+}
+
+#left-sidebar .widget li {
+	padding: 5px 17px 5px 0;
+}
+
+.footer-widget1, .footer-widget2, .footer-widget3, .footer-widget4 {
+	float:right;
+	background: url("images/wline.png") no-repeat scroll right top transparent;
+}
+
+.footer-widget1 {
+	padding: 0px 0 0 20px;
+}
+
+.footer-widget4 {
+	padding: 0px 20px 0 0px;
+}
+
+#footer-sidebar .widget li {
+	padding: 3px 17px 3px 0;
+}
+
+/* Design Elements 
+------------------------------------------------------------- */
+
+button,
+input[type="reset"],
+input[type="button"],
+input[type="submit"] {
+	background: url("images/btn.png") repeat-x scroll left top #28b7eb;
+}
+
+input[type="text"], 
+textarea, input#s, 
+input[type="password"] {
+	border-right:1px solid #999999;
+	border-left:1px solid #FFFFFF;
+}
+
+.post.sticky, 
+.sticky {
+	background: url("images/sticky.png") no-repeat scroll left top #F2F2F2;
+}
+
+#heading {
+	margin: 25px -30px 25px -50px;
+	padding: 10px 30px 10px 50px;
+}
+
+.page-link {
+	float: left;
+	text-align: left;
+}
+
+/* ------------------------------------------------------------------------------------------ */
+
+#slideshow div.post-slide {
+	margin: 70px 465px 0 0;
+	text-align: right;
+	left: 0;
+	right: auto;
+}
+
+ol.bjqs-markers li {
+	float:right;
+}
+
+ul.bjqs-controls li a.bjqs-prev {
+	background: url("images/prev.png") no-repeat scroll right center transparent;
+	right: -20px;
+	left: auto;
+}
+
+ul.bjqs-controls li a.bjqs-next {
+	background: url("images/next.png") no-repeat scroll left center transparent;
+	left: -20px;
+	right: auto;
+}
+
+/* ------------------------------------------------------------------------------------------ */
+
+blockquote:before,
+q:before {
+	margin-left:.20em;
+	margin-right: auto;
+}
+
+blockquote:after,
+q:after {
+	margin-right:.20em;
+	margin-left: auto;
+}
+
+.fpage-quote {
+	border-right: 10px solid #f6cb3f;
+	border-left: 10px solid #f6cb3f;
+}
+
+#container .attachment-thumbnail,
+#container .attachment-category-thumb {
+	float: right;
+	margin: 5px 0 10px 15px;
+}
+
+h1.page-title, 
+h1.arc-post-title {
+	text-align: right;
+}
+
+h2.post-title, 
+h2.comments, 
+h3#reply-title, 
+h2.post-title-color {
+	text-align: right;
+}
+
+.read-more {
+	background: url("images/go.png") no-repeat scroll left center transparent;
+	padding: 5px 0 5px 30px;
+}
+
+.floatright {
+	float: right;
+	text-align:right;
+}
+
+.floatleft {
+	float: left;
+	text-align:left;
+}
+
+#page-nav .alignleft {
+	text-align:left;
+	background: url("images/go.png") no-repeat scroll left center transparent;
+	padding: 0 0 0 30px;
+}
+
+#page-nav .alignright {
+	text-align:right;
+	background: url("images/back.png") no-repeat scroll right center transparent;
+	padding: 0 30px 0 0;
+}
+
+#commentsbox .commentlist {
+	margin: 0 -25px 0 0;
+}
+
+#commentsbox img.avatar {
+	left: -5px;
+	right: auto;
+}
+
+#commentsbox ul.children {
+	padding: 5px 20px 0 0;
+}
+
+#client li {
+	float: right;
+}
+
+.simply-scroll-btn-right {
+	background: url("images/prev.png") no-repeat scroll right center transparent;
+	right: -20px;
+	left: auto;
+}
+
+.simply-scroll-btn-left {
+	left: -45px;
+	right: auto;
+}
+
+.conwidth  a, .conwidth  a:hover {
+	margin-left: 5px;
+	margin-right: auto;
+}
+
+

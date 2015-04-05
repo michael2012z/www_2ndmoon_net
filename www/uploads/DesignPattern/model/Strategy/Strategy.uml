@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="2.1" xmlns:xmi="http://schema.omg.org/spec/XMI/2.1" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmi:id="_edDuQesOEeCUZ8HFRIxdUw" name="Strategy">
+  <elementImport xmi:id="_ehbQ4OsOEeCUZ8HFRIxdUw">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+  </elementImport>
+  <elementImport xmi:id="_ehvZ8OsOEeCUZ8HFRIxdUw">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+  </elementImport>
+  <elementImport xmi:id="_ehwBAOsOEeCUZ8HFRIxdUw">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#UnlimitedNatural"/>
+  </elementImport>
+  <elementImport xmi:id="_ehwBAesOEeCUZ8HFRIxdUw">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+  </elementImport>
+  <packagedElement xmi:type="uml:Class" xmi:id="_izzsEOsOEeCUZ8HFRIxdUw" name="Context">
+    <ownedOperation xmi:id="_0TZvcOsOEeCUZ8HFRIxdUw" name="strategy">
+      <ownedParameter xmi:id="_51RckOsOEeCUZ8HFRIxdUw" direction="return"/>
+    </ownedOperation>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_rSd6cOsOEeCUZ8HFRIxdUw" name="Strategy">
+    <ownedOperation xmi:id="_7I19QOsOEeCUZ8HFRIxdUw" name="strategy">
+      <ownedParameter xmi:id="_-38FMOsOEeCUZ8HFRIxdUw" direction="return"/>
+    </ownedOperation>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_s8404OsOEeCUZ8HFRIxdUw" name="ConcreteStrategyA" clientDependency="_ODOjoOsPEeCUZ8HFRIxdUw">
+    <ownedOperation xmi:id="__vCFQOsOEeCUZ8HFRIxdUw" name="strategy">
+      <ownedParameter xmi:id="_B5S9YOsPEeCUZ8HFRIxdUw" direction="return"/>
+    </ownedOperation>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_udRCgOsOEeCUZ8HFRIxdUw" name="ConcreteStrategyB" clientDependency="_OlXAUOsPEeCUZ8HFRIxdUw">
+    <ownedOperation xmi:id="_CtlhEOsPEeCUZ8HFRIxdUw" name="strategy">
+      <ownedParameter xmi:id="_DbjaUOsPEeCUZ8HFRIxdUw" direction="return"/>
+    </ownedOperation>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_NO6x0OsPEeCUZ8HFRIxdUw" memberEnd="_NO-cMOsPEeCUZ8HFRIxdUw _NO_qUOsPEeCUZ8HFRIxdUw">
+    <ownedEnd xmi:id="_NO-cMOsPEeCUZ8HFRIxdUw" name="src" type="_izzsEOsOEeCUZ8HFRIxdUw" association="_NO6x0OsPEeCUZ8HFRIxdUw">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_NO_DQesPEeCUZ8HFRIxdUw" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_NO_DQOsPEeCUZ8HFRIxdUw" value="1"/>
+    </ownedEnd>
+    <ownedEnd xmi:id="_NO_qUOsPEeCUZ8HFRIxdUw" name="dst" type="_rSd6cOsOEeCUZ8HFRIxdUw" aggregation="composite" association="_NO6x0OsPEeCUZ8HFRIxdUw">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_NO_qUusPEeCUZ8HFRIxdUw" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_NO_qUesPEeCUZ8HFRIxdUw" value="1"/>
+    </ownedEnd>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Usage" xmi:id="_ODOjoOsPEeCUZ8HFRIxdUw" supplier="_rSd6cOsOEeCUZ8HFRIxdUw" client="_s8404OsOEeCUZ8HFRIxdUw"/>
+  <packagedElement xmi:type="uml:Usage" xmi:id="_OlXAUOsPEeCUZ8HFRIxdUw" supplier="_rSd6cOsOEeCUZ8HFRIxdUw" client="_udRCgOsOEeCUZ8HFRIxdUw"/>
+</uml:Model>

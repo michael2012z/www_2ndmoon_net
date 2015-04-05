@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="2.1" xmlns:xmi="http://schema.omg.org/spec/XMI/2.1" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmi:id="_-hC-UMgTEeCtJI0P3U8iLg" name="DefaultAdapter">
+  <elementImport xmi:id="_-iZCZMgTEeCtJI0P3U8iLg">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+  </elementImport>
+  <elementImport xmi:id="_-iiMEMgTEeCtJI0P3U8iLg">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+  </elementImport>
+  <elementImport xmi:id="_-iiMEcgTEeCtJI0P3U8iLg">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#UnlimitedNatural"/>
+  </elementImport>
+  <elementImport xmi:id="_-iiMEsgTEeCtJI0P3U8iLg">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+  </elementImport>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_CQkkEMgUEeCtJI0P3U8iLg" name="Target">
+    <ownedOperation xmi:id="_fIoUgMgUEeCtJI0P3U8iLg" name="operation1">
+      <ownedParameter xmi:id="_gGrRIMgUEeCtJI0P3U8iLg" direction="return"/>
+    </ownedOperation>
+    <ownedOperation xmi:id="_heAQcMgUEeCtJI0P3U8iLg" name="operation2"/>
+    <ownedOperation xmi:id="_hjzWcMgUEeCtJI0P3U8iLg" name="operation3"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_GpAj8MgUEeCtJI0P3U8iLg" name="Adapter" clientDependency="_aeO0wMh-EeC2jv71JM_BZA">
+    <interfaceRealization xmi:id="_aeO0wMh-EeC2jv71JM_BZA" supplier="_CQkkEMgUEeCtJI0P3U8iLg" client="_GpAj8MgUEeCtJI0P3U8iLg" contract="_CQkkEMgUEeCtJI0P3U8iLg"/>
+    <ownedOperation xmi:id="_khfPkMgUEeCtJI0P3U8iLg" name="operation1"/>
+    <ownedOperation xmi:id="_kqaiEMgUEeCtJI0P3U8iLg" name="operation2"/>
+    <ownedOperation xmi:id="_ljsTcMgUEeCtJI0P3U8iLg" name="operation3"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_W1Xd0MgUEeCtJI0P3U8iLg" name="User">
+    <generalization xmi:id="_4vXeIMgUEeCtJI0P3U8iLg" general="_GpAj8MgUEeCtJI0P3U8iLg"/>
+    <ownedOperation xmi:id="_nJmhUMgUEeCtJI0P3U8iLg" name="operation2">
+      <ownedParameter xmi:id="_odz7MMgUEeCtJI0P3U8iLg" direction="return"/>
+    </ownedOperation>
+  </packagedElement>
+</uml:Model>

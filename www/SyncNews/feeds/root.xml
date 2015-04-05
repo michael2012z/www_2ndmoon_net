@@ -1,0 +1,28 @@
+<opml version="1.0">
+	<head>
+		<title>SyncNews Feeds Collection</title>
+	</head>
+	<body>
+		<outline 
+			title="Wikipedia" 
+			type="opml"
+			xmlUrl="http://www.the2ndmoon.net/SyncNews/feeds/wikipedia/feeds.xml" 
+			htmlUrl="http://www.the2ndmoon.net/SyncNews/feeds/wikipedia/feeds.xml"/>
+		<outline 
+			title="Yahoo! News" 
+			type="opml"
+			xmlUrl="http://www.the2ndmoon.net/SyncNews/feeds/yahoo/feeds.xml" 
+			htmlUrl="http://www.the2ndmoon.net/SyncNews/feeds/yahoo/feeds.xml"/>
+		<outline 
+			title="Google News" 
+			type="opml"
+			xmlUrl="http://www.the2ndmoon.net/SyncNews/feeds/google/feeds.xml" 
+			htmlUrl="http://www.the2ndmoon.net/SyncNews/feeds/google/feeds.xml"/>
+		<outline 
+			title="NY Times" 
+			type="opml"
+			xmlUrl="http://www.the2ndmoon.net/SyncNews/feeds/nytimes/feeds.xml" 
+			htmlUrl="http://www.the2ndmoon.net/SyncNews/feeds/nytimes/feeds.xml"/>
+	</body>
+	
+</opml>
