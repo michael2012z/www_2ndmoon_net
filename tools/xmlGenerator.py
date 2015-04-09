@@ -17,8 +17,8 @@ def getIndex(id):
     return index
 
 
-def generalStampsXmlFiles(prefix, excelFile):
-    #print "generalStampsXmlFiles: " + prefix
+def generateStampsXmlFile(prefix, excelFile):
+    #print "generateStampsXmlFile: " + prefix
     workbook = xlrd.open_workbook(excelFile)
     nSheets = workbook.nsheets
     # go through each sheet/stamp
@@ -223,10 +223,10 @@ def generalStampsXmlFiles(prefix, excelFile):
         f.close()
 
 
-generalStampsXmlFiles("C", "xls/C.xls")
-generalStampsXmlFiles("S", "xls/S.xls")
-generalStampsXmlFiles("W", "xls/W.xls")
-generalStampsXmlFiles("N", "xls/N.xls")
-generalStampsXmlFiles("J", "xls/J.xls")
-generalStampsXmlFiles("T", "xls/T.xls")
+generateStampsXmlFile("C", "xls/C.xls")
+generateStampsXmlFile("S", "xls/S.xls")
+generateStampsXmlFile("W", "xls/W.xls")
+generateStampsXmlFile("N", "xls/N.xls")
+generateStampsXmlFile("J", "xls/J.xls")
+generateStampsXmlFile("T", "xls/T.xls")
 
