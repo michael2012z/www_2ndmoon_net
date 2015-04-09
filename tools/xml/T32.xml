@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>T32</reference>
+  <id>T32</id>
   <name>向硬骨头六连学习</name>
   <format>影写版</format>
   <nSuite>3</nSuite>
@@ -13,7 +14,7 @@
   <layout>50(10×5)</layout>
   <keyStamps></keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>3-1</stampIndex>
       <stampName>反修防修的铁拳</stampName>
@@ -38,6 +39,6 @@
       <stampPerforation>P11.5×11</stampPerforation>
       <stampAmount>1500.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>S73</reference>
+  <id>特73</id>
   <name>革命摇篮--井冈山</name>
   <format>影写版</format>
   <nSuite>8</nSuite>
@@ -13,7 +14,7 @@
   <layout>50(5×10)</layout>
   <keyStamps>(8-1)30.0-40.0元/枚(旧), (8-7)40.0-50.0元/枚(旧), (8-8)25.0-35.0元/枚(旧)</keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>8-1</stampIndex>
       <stampName>茨坪</stampName>
@@ -78,6 +79,6 @@
       <stampPerforation>P11×11.5</stampPerforation>
       <stampAmount>130.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

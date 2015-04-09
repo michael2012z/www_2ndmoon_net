@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>C116</reference>
+  <id>纪116</id>
   <name>中华人民共和国第二届运动会</name>
   <format>影写版</format>
   <nSuite>11</nSuite>
@@ -13,7 +14,7 @@
   <layout>(6)25(5×5)、其余50(10×5)</layout>
   <keyStamps>(11-8)35.0-45.0(元/枚)(旧), (11-10)120-150(元/枚)(旧), (11-11)40.0-50.0(元/枚)(旧)</keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>11-1</stampIndex>
       <stampName>足球</stampName>
@@ -102,6 +103,6 @@
       <stampPerforation>P11.5×11</stampPerforation>
       <stampAmount>90.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

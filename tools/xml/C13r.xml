@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>C13r</reference>
+  <id>纪13再版</id>
   <name>和平解放西藏</name>
   <format>雕刻版(无背胶)</format>
   <nSuite>4</nSuite>
@@ -13,7 +14,7 @@
   <layout>50(5×10)</layout>
   <keyStamps>130.0-200.0(元/套)(再版)</keyStamps>
   <notes>下面的发行量为原版票发行量，再版票发行量不详。</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>4-1</stampIndex>
       <stampName>拉萨布达拉宫全景（红）</stampName>
@@ -46,6 +47,6 @@
       <stampPerforation>P12.5/P14</stampPerforation>
       <stampAmount>200.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

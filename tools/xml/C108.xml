@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>C108</reference>
+  <id>纪108</id>
   <name>庆祝阿尔巴尼亚解放二十周年</name>
   <format>影写版</format>
   <nSuite>2</nSuite>
@@ -13,7 +14,7 @@
   <layout>50(5×10)</layout>
   <keyStamps>(2-2)40.00-60.00(元/枚)(旧)</keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>2-1</stampIndex>
       <stampName>中阿友谊</stampName>
@@ -30,6 +31,6 @@
       <stampPerforation>P11×11.5</stampPerforation>
       <stampAmount>200.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

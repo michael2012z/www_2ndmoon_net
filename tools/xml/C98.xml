@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>C98</reference>
+  <id>纪98</id>
   <name>马克思诞生一四五周年</name>
   <format>影写版</format>
   <nSuite>3</nSuite>
@@ -13,7 +14,7 @@
   <layout>50(10×5)</layout>
   <keyStamps></keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>3-1</stampIndex>
       <stampName>马克思像</stampName>
@@ -38,6 +39,6 @@
       <stampPerforation>P11.5</stampPerforation>
       <stampAmount>600.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

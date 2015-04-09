@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>N3338</reference>
+  <id>N33-38</id>
   <name>纪念《在延安文艺座谈会上的讲话》发表三十周年 </name>
   <format>影写版</format>
   <nSuite>6</nSuite>
@@ -13,7 +14,7 @@
   <layout>28(7×4)</layout>
   <keyStamps></keyStamps>
   <notes>旧票没有明显筋票，价格都在20.0-30.0元/枚，(33)稍贵，30.0-40.0元/枚。</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>33</stampIndex>
       <stampName>座谈会会址</stampName>
@@ -62,6 +63,6 @@
       <stampPerforation>40×54</stampPerforation>
       <stampAmount>P11</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

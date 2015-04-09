@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>N3943</reference>
+  <id>N39-43</id>
   <name>发展体育运动</name>
   <format>影写版</format>
   <nSuite>5</nSuite>
@@ -13,7 +14,7 @@
   <layout>(39)40(5×8)，其余50(10×5)</layout>
   <keyStamps></keyStamps>
   <notes>旧票没有明显筋票，(39)(41)稍少，价格25.0-35.0元/枚。</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>39</stampIndex>
       <stampName>五项球类运动</stampName>
@@ -54,6 +55,6 @@
       <stampPerforation>P11.5×11</stampPerforation>
       <stampAmount>1000.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

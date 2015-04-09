@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>J8</reference>
+  <id>J8</id>
   <name>胜利完成第四个五年计划</name>
   <format>影写版</format>
   <nSuite>16</nSuite>
@@ -13,7 +14,7 @@
   <layout>40(4×10)</layout>
   <keyStamps>(16-3)10.0-13.0(元/枚)(旧), (16-13)16.0-20.0(元/枚)(旧), (16-15)8.0-11.0(元/枚)(旧), (16-16)15.0-19.0(元/枚)(旧)</keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>16-1</stampIndex>
       <stampName>农田</stampName>
@@ -142,6 +143,6 @@
       <stampPerforation>52×31</stampPerforation>
       <stampAmount>P11.5</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

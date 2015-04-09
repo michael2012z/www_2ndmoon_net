@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>T57</reference>
+  <id>T57</id>
   <name>白鱀豚</name>
   <format>影雕套印</format>
   <nSuite>2</nSuite>
@@ -13,7 +14,7 @@
   <layout>20(5×4)</layout>
   <keyStamps>(2-2)25.00-28.00(元/枚)(旧)</keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>2-1</stampIndex>
       <stampName>悠然自得</stampName>
@@ -30,6 +31,6 @@
       <stampPerforation>P11×11.5</stampPerforation>
       <stampAmount>150.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

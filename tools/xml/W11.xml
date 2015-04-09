@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>W11</reference>
+  <id>文11</id>
   <name>林彪1965年7月26日为《中国人民解放军》邮票题词</name>
   <format>影雕套印</format>
   <nSuite>1</nSuite>
@@ -16,7 +17,7 @@
 
 文11发行背景
 　　特74邮票在1965年8月1日“八·一”中国工农红军成立纪念日发行，时任国防部部长的林彪为此套邮票的发行而专门题词。题词原文是：“中国人民解放军是毛泽东思想武装起来的队伍，是全心全意为人民服务的队伍，因而是战无不胜的队伍。——林彪”。</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>1-1</stampIndex>
       <stampName>林彪题词</stampName>
@@ -25,6 +26,6 @@
       <stampPerforation>P11.5</stampPerforation>
       <stampAmount>5000.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>J46</reference>
+  <id>J46</id>
   <name>中华人民共和国成立三十周年（第三组）</name>
   <format>影雕套印</format>
   <nSuite>1</nSuite>
@@ -13,7 +14,7 @@
   <layout>28(7×4)</layout>
   <keyStamps></keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>1-1</stampIndex>
       <stampName>国歌</stampName>
@@ -22,6 +23,6 @@
       <stampPerforation>P11</stampPerforation>
       <stampAmount>840.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

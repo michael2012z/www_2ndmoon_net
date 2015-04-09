@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>C39</reference>
+  <id>纪39</id>
   <name>全国第一届工人体育运动大会</name>
   <format>胶版(无背胶)</format>
   <nSuite>5</nSuite>
@@ -13,7 +14,7 @@
   <layout>99(11×9)</layout>
   <keyStamps></keyStamps>
   <notes>(2)(3)(4)由孙传哲绘制印刷图。</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>5-1</stampIndex>
       <stampName>径赛</stampName>
@@ -54,6 +55,6 @@
       <stampPerforation>P14</stampPerforation>
       <stampAmount>1053.46</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

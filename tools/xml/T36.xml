@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>T36</reference>
+  <id>T36</id>
   <name>铁路建设</name>
   <format>影雕套印</format>
   <nSuite>3</nSuite>
@@ -13,7 +14,7 @@
   <layout>50(5×10)</layout>
   <keyStamps></keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>3-1</stampIndex>
       <stampName>电力机车</stampName>
@@ -38,6 +39,6 @@
       <stampPerforation>P11×11.5</stampPerforation>
       <stampAmount>750.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

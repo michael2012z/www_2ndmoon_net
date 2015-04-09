@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>C66</reference>
+  <id>纪66</id>
   <name>第25届世界乒乓球锦标赛</name>
   <format>胶版(无背胶)</format>
   <nSuite>2</nSuite>
@@ -13,7 +14,7 @@
   <layout>80(10×8)</layout>
   <keyStamps></keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>2-1</stampIndex>
       <stampName>乒乓球选手（蓝衣）</stampName>
@@ -30,6 +31,6 @@
       <stampPerforation>P14</stampPerforation>
       <stampAmount>1000.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

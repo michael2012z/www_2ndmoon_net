@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>W18</reference>
+  <id>文18</id>
   <name>用毛泽东思想武装起来的中国人民是不可战胜的</name>
   <format>影写版</format>
   <nSuite>6</nSuite>
@@ -17,7 +18,7 @@
 
 文18发行背景
 　　１９６９年，中国和原苏联在乌苏里江的珍宝岛发生严重军事冲突，原苏联方面出动了坦克、装甲车、飞机，但被中国方面击退。这套邮票就是在这种背景下发行的。</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>6-1</stampIndex>
       <stampName>军民团结</stampName>
@@ -66,6 +67,6 @@
       <stampPerforation>P11.5</stampPerforation>
       <stampAmount>5000.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

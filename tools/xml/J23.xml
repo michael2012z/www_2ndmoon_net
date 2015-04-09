@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>J23</reference>
+  <id>J23</id>
   <name>中国共产党第十一次全国代表大会</name>
   <format>影写版</format>
   <nSuite>3</nSuite>
@@ -13,7 +14,7 @@
   <layout>25(5×5)</layout>
   <keyStamps></keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>3-1</stampIndex>
       <stampName>热烈庆祝党的十一大胜利召开</stampName>
@@ -38,6 +39,6 @@
       <stampPerforation>P11.5×11</stampPerforation>
       <stampAmount>625.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

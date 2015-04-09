@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>J9</reference>
+  <id>J9</id>
   <name>“五七”干校</name>
   <format>影写版</format>
   <nSuite>3</nSuite>
@@ -13,7 +14,7 @@
   <layout>40(4×10)</layout>
   <keyStamps></keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>3-1</stampIndex>
       <stampName>认真读书</stampName>
@@ -38,6 +39,6 @@
       <stampPerforation>P11.5</stampPerforation>
       <stampAmount>800.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>C36</reference>
+  <id>纪36</id>
   <name>中国工农红军胜利完成二万五千里长征二十周年</name>
   <format>雕刻版(无背胶)</format>
   <nSuite>2</nSuite>
@@ -13,7 +14,7 @@
   <layout>(1)70(7×10)，(2)60(10×6)</layout>
   <keyStamps>(2-2)10.00-15.00(元/枚)(旧)</keyStamps>
   <notes>原作者：(2-1)李宗津、(2-2)黄丕显</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>2-1</stampIndex>
       <stampName>强夺泸定桥</stampName>
@@ -30,6 +31,6 @@
       <stampPerforation>P14</stampPerforation>
       <stampAmount>600.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

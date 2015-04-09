@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>S64</reference>
+  <id>特64</id>
   <name>人民公社女社员</name>
   <format>影写版</format>
   <nSuite>6</nSuite>
@@ -13,7 +14,7 @@
   <layout>50(10×5)</layout>
   <keyStamps></keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>6-1</stampIndex>
       <stampName>拖拉机手</stampName>
@@ -62,6 +63,6 @@
       <stampPerforation>P11.5×11</stampPerforation>
       <stampAmount>600.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

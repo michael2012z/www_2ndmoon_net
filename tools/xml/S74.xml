@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>S74</reference>
+  <id>特74</id>
   <name>中国人民解放军</name>
   <format>影写版</format>
   <nSuite>8</nSuite>
@@ -13,7 +14,7 @@
   <layout>(1)-(4)40(4×10)，其余40(10×4)</layout>
   <keyStamps>(8-7)35.0-50.0元/枚(旧), (8-8)35.0-50.0元/枚(旧)</keyStamps>
   <notes>原作者：(8-1)(8-2)(8-4)(8-5)赵光涛/王文涛/华克雄、(8-6)胡今叶/陈其、(8-3)(8-7)(8-8)谢光年</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>8-1</stampIndex>
       <stampName>一定要把毛泽东思想真正学到手</stampName>
@@ -78,6 +79,6 @@
       <stampPerforation>P11.5</stampPerforation>
       <stampAmount>600.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

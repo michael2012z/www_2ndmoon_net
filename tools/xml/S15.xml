@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>S15</reference>
+  <id>特15</id>
   <name>首都名胜</name>
   <format>雕刻版(无背胶)</format>
   <nSuite>5</nSuite>
@@ -13,7 +14,7 @@
   <layout>70(7×10)</layout>
   <keyStamps></keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>5-1</stampIndex>
       <stampName>颐和园</stampName>
@@ -54,6 +55,6 @@
       <stampPerforation>P14</stampPerforation>
       <stampAmount>1650.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

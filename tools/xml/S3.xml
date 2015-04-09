@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>S3</reference>
+  <id>特3</id>
   <name>伟大的祖国--敦煌壁画（第一组）</name>
   <format>雕刻版(无背胶)</format>
   <nSuite>4</nSuite>
@@ -13,7 +14,7 @@
   <layout>96(8×12)</layout>
   <keyStamps></keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>4-1</stampIndex>
       <stampName>狩猎·魏</stampName>
@@ -46,6 +47,6 @@
       <stampPerforation>P12.5</stampPerforation>
       <stampAmount>1000.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

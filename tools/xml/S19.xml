@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>S19</reference>
+  <id>特19</id>
   <name>治理黄河</name>
   <format>雕刻版(无背胶)</format>
   <nSuite>4</nSuite>
@@ -13,7 +14,7 @@
   <layout>84(7×12)</layout>
   <keyStamps></keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>4-1</stampIndex>
       <stampName>示意图</stampName>
@@ -46,6 +47,6 @@
       <stampPerforation>P14</stampPerforation>
       <stampAmount>1000.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>S58</reference>
+  <id>特58</id>
   <name>民间玩具</name>
   <format>胶版(无背胶)</format>
   <nSuite>9</nSuite>
@@ -13,7 +14,7 @@
   <layout>50(5×10)</layout>
   <keyStamps></keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>9-1</stampIndex>
       <stampName>鸡(泥·无锡)/羊(泥·北京)</stampName>
@@ -86,6 +87,6 @@
       <stampPerforation>P11.5</stampPerforation>
       <stampAmount>150.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

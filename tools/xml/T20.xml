@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>T20</reference>
+  <id>T20</id>
   <name>开发矿业</name>
   <format>影雕套印</format>
   <nSuite>4</nSuite>
@@ -13,7 +14,7 @@
   <layout>50(5×10)</layout>
   <keyStamps>(4-2)6.00-9.00(元/枚)(旧)</keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>4-1</stampIndex>
       <stampName>群众报矿</stampName>
@@ -46,6 +47,6 @@
       <stampPerforation>P11×11.5</stampPerforation>
       <stampAmount>1000.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

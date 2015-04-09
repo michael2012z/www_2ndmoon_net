@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>S72</reference>
+  <id>特72</id>
   <name>少年儿童体育运动</name>
   <format>影写版</format>
   <nSuite>8</nSuite>
@@ -13,7 +14,7 @@
   <layout>50(5×10)</layout>
   <keyStamps>(8-8)20.0-30.0元/枚(旧)</keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>8-1</stampIndex>
       <stampName>踢小足球</stampName>
@@ -78,6 +79,6 @@
       <stampPerforation>P11</stampPerforation>
       <stampAmount>200.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

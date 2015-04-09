@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>C84</reference>
+  <id>纪84</id>
   <name>诺尔曼·白求恩</name>
   <format>(2-1)影写版、(2-2)雕刻版</format>
   <nSuite>2</nSuite>
@@ -13,7 +14,7 @@
   <layout>40(10×4)</layout>
   <keyStamps></keyStamps>
   <notes>(2-2)原画作者：吴印咸</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>2-1</stampIndex>
       <stampName>白求恩像</stampName>
@@ -30,6 +31,6 @@
       <stampPerforation>P11.5×11</stampPerforation>
       <stampAmount>540.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

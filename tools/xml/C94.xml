@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>C94</reference>
+  <id>纪94</id>
   <name>梅兰芳舞台艺术</name>
   <format>影写版</format>
   <nSuite>8</nSuite>
@@ -13,7 +14,7 @@
   <layout>(8-1)-(8-5)50(10×5)，(8-6)-(8-8)50(5×10)</layout>
   <keyStamps>(8-6)280.0-350.0(元/枚)(旧)/(8-7)220.0-300.0(元/枚)(旧)/(8-8)220.0-300.0(元/枚)(旧)</keyStamps>
   <notes>(8-5)-(8-8)的发行日期为：1962-9-1。</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>8-1</stampIndex>
       <stampName>梅兰芳像</stampName>
@@ -78,6 +79,6 @@
       <stampPerforation>P11×11.5</stampPerforation>
       <stampAmount>150.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

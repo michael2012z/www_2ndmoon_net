@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>T19</reference>
+  <id>T19</id>
   <name>发展中的石油工业</name>
   <format>影写版</format>
   <nSuite>6</nSuite>
@@ -13,7 +14,7 @@
   <layout>35(5×7)</layout>
   <keyStamps>(6-4)3.00-6.00元/枚(旧)</keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>6-1</stampIndex>
       <stampName>钻机整体搬家</stampName>
@@ -62,6 +63,6 @@
       <stampPerforation>P11</stampPerforation>
       <stampAmount>1050.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

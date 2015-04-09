@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>N95</reference>
+  <id>N95</id>
   <name>中国出口商品交易会</name>
   <format>影写版</format>
   <nSuite>1</nSuite>
@@ -13,7 +14,7 @@
   <layout>40(5×8)</layout>
   <keyStamps></keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>95</stampIndex>
       <stampName>中国出口商品交易会大楼</stampName>
@@ -22,6 +23,6 @@
       <stampPerforation>P11</stampPerforation>
       <stampAmount>400.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>J12</reference>
+  <id>J12</id>
   <name>纪念刘胡兰烈士英勇就义三十周年</name>
   <format>影写版</format>
   <nSuite>3</nSuite>
@@ -13,7 +14,7 @@
   <layout>40(10×4)</layout>
   <keyStamps>(3-1)55.0-60.0(元/枚)(新), (3-1)15.0-18.0(元/枚)(旧)</keyStamps>
   <notes>此套票的厂铭票属于JT“厂铭十珍”之一，(3-2)是JT票中最难获得的厂铭票。</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>3-1</stampIndex>
       <stampName>刘胡兰烈士像</stampName>
@@ -38,6 +39,6 @@
       <stampPerforation>P11.5</stampPerforation>
       <stampAmount>1200.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

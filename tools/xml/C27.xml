@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>C27</reference>
+  <id>纪27</id>
   <name>约·维·斯大林逝世一周年纪念</name>
   <format>雕刻版(无背胶)</format>
   <nSuite>3</nSuite>
@@ -13,7 +14,7 @@
   <layout>(3-1)80(10×8)，(3-2)77(7×11)，(3-3)84(12×7)</layout>
   <keyStamps></keyStamps>
   <notes>原作者：(3)汤姆斯基[苏联]</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>3-1</stampIndex>
       <stampName>斯大林遗像</stampName>
@@ -38,6 +39,6 @@
       <stampPerforation>P14</stampPerforation>
       <stampAmount>500.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

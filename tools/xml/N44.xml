@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>N44</reference>
+  <id>N44</id>
   <name>王进喜―中国工人阶级的先锋战士</name>
   <format>影雕套印</format>
   <nSuite>1</nSuite>
@@ -13,7 +14,7 @@
   <layout>50(10×5)</layout>
   <keyStamps></keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>44</stampIndex>
       <stampName>铁人王进喜在工作</stampName>
@@ -22,6 +23,6 @@
       <stampPerforation>P11.5×11</stampPerforation>
       <stampAmount>1000.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

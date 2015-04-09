@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>S61</reference>
+  <id>特61</id>
   <name>牡丹</name>
   <format>影写版</format>
   <nSuite>15</nSuite>
@@ -13,7 +14,7 @@
   <layout>50(10×5)</layout>
   <keyStamps>(15-13)80-100(元/枚)(旧), (15-14)150-200(元/枚)(旧), (15-15)120-150(元/枚)(旧)</keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>15-1</stampIndex>
       <stampName>胜丹炉</stampName>
@@ -134,6 +135,6 @@
       <stampPerforation>P11.5×11</stampPerforation>
       <stampAmount>100.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

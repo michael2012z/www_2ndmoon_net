@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>S49</reference>
+  <id>特49</id>
   <name>中国民间舞蹈（第一组）</name>
   <format>胶版(无背胶)</format>
   <nSuite>6</nSuite>
@@ -13,7 +14,7 @@
   <layout>50(10×5)</layout>
   <keyStamps>(6-4)25.00-35.00(元/枚)(旧), (6-4)20.00-25.00(元/枚)(旧), (6-6)13.00-20.00(元/枚)(旧)</keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>6-1</stampIndex>
       <stampName>汉族花鼓灯</stampName>
@@ -62,6 +63,6 @@
       <stampPerforation>P12.5</stampPerforation>
       <stampAmount>100.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

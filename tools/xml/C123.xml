@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>C123</reference>
+  <id>纪123</id>
   <name>毛主席的好战士－－刘英俊</name>
   <format>影写版</format>
   <nSuite>6</nSuite>
@@ -13,7 +14,7 @@
   <layout>50(10×5)</layout>
   <keyStamps></keyStamps>
   <notes>(6-1)-(6-5)由沈阳部队政治部供稿</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>6-1</stampIndex>
       <stampName>刘英俊像</stampName>
@@ -62,6 +63,6 @@
       <stampPerforation>P11.5×11</stampPerforation>
       <stampAmount>600.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

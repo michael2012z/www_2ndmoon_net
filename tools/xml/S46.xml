@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>S46</reference>
+  <id>特46</id>
   <name>唐三彩</name>
   <format>影写版</format>
   <nSuite>8</nSuite>
@@ -13,7 +14,7 @@
   <layout>50(10×5)</layout>
   <keyStamps>(8-7)60.00-80.00(元/枚)(旧), (8-8)30.00-50.00(元/枚)(旧)</keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>8-1</stampIndex>
       <stampName>驴</stampName>
@@ -78,6 +79,6 @@
       <stampPerforation>P11.5×11</stampPerforation>
       <stampAmount>150.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

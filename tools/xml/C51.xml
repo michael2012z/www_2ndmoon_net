@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>C51</reference>
+  <id>纪51</id>
   <name>共产党宣言发表一百一十周年</name>
   <format>雕刻版(无背胶)</format>
   <nSuite>2</nSuite>
@@ -13,7 +14,7 @@
   <layout>80(10×8)</layout>
   <keyStamps></keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>2-1</stampIndex>
       <stampName>马克思恩格斯像</stampName>
@@ -30,6 +31,6 @@
       <stampPerforation>P14</stampPerforation>
       <stampAmount>800.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

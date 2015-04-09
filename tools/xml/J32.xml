@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>J32</reference>
+  <id>J32</id>
   <name>中国共产主义青年团第十次全国代表大会</name>
   <format>影写版</format>
   <nSuite>1</nSuite>
@@ -13,7 +14,7 @@
   <layout>50(5×10)</layout>
   <keyStamps></keyStamps>
   <notes>此套邮票天生无厂铭。</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>1-1</stampIndex>
       <stampName>共青团团徽等</stampName>
@@ -22,6 +23,6 @@
       <stampPerforation>P11×11.5</stampPerforation>
       <stampAmount>1500.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

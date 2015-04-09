@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>S21</reference>
+  <id>特21</id>
   <name>中国古塔建筑艺术</name>
   <format>雕刻版(无背胶)</format>
   <nSuite>4</nSuite>
@@ -13,7 +14,7 @@
   <layout>99(11×9)</layout>
   <keyStamps></keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>4-1</stampIndex>
       <stampName>登封·嵩岳寺塔</stampName>
@@ -46,6 +47,6 @@
       <stampPerforation>P14</stampPerforation>
       <stampAmount>800.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

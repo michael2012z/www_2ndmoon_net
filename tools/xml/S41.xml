@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>S41</reference>
+  <id>特41</id>
   <name>人民大会堂</name>
   <format>影写版</format>
   <nSuite>2</nSuite>
@@ -13,7 +14,7 @@
   <layout>50(5×10)</layout>
   <keyStamps>(2-2)20.00-30.00(元/枚)(旧)</keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>2-1</stampIndex>
       <stampName>人民大会堂前景</stampName>
@@ -30,6 +31,6 @@
       <stampPerforation>P11.5</stampPerforation>
       <stampAmount>240.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

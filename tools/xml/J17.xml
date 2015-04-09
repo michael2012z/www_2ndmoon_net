@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>J17</reference>
+  <id>J17</id>
   <name>罗马尼亚独立一百周年</name>
   <format>影写版</format>
   <nSuite>3</nSuite>
@@ -13,7 +14,7 @@
   <layout>56(8×7)</layout>
   <keyStamps>(3-1)6.00-9.00(元/枚)(旧)</keyStamps>
   <notes>J17左铭全品票非常难得，市场价格可达1000元以上，左铭方联曾经达到3650元的高价。此套票的厂铭票属于JT“厂铭十珍”之一。</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>3-1</stampIndex>
       <stampName>罗马尼亚独立节</stampName>
@@ -38,6 +39,6 @@
       <stampPerforation>P11</stampPerforation>
       <stampAmount>560.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

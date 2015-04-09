@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>T37</reference>
+  <id>T37</id>
   <name>云南山茶花</name>
   <format>影写版</format>
   <nSuite>10</nSuite>
@@ -13,7 +14,7 @@
   <layout>50(5×10)</layout>
   <keyStamps>(10-6)35.00-42.00(元/枚)(旧)</keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>10-1</stampIndex>
       <stampName>菊瓣</stampName>
@@ -94,6 +95,6 @@
       <stampPerforation>P11×11.5</stampPerforation>
       <stampAmount>200.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

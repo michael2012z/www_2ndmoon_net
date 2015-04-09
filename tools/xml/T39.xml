@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>T39</reference>
+  <id>T39</id>
   <name>人民公社五业兴旺</name>
   <format>影写版</format>
   <nSuite>5</nSuite>
@@ -13,7 +14,7 @@
   <layout>35(5×7)</layout>
   <keyStamps></keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>5-1</stampIndex>
       <stampName>机械收割（农业）</stampName>
@@ -54,6 +55,6 @@
       <stampPerforation>P11.5</stampPerforation>
       <stampAmount>400.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

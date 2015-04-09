@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>J53</reference>
+  <id>J53</id>
   <name>“三八”国际劳动妇女节七十周年</name>
   <format>影雕套印</format>
   <nSuite>1</nSuite>
@@ -13,7 +14,7 @@
   <layout>50(10×5)</layout>
   <keyStamps></keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>1-1</stampIndex>
       <stampName>蔡特金像</stampName>
@@ -22,6 +23,6 @@
       <stampPerforation>P11.5×11</stampPerforation>
       <stampAmount>750.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

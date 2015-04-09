@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>C46</reference>
+  <id>纪46</id>
   <name>马克思诞生一四零周年纪念</name>
   <format>雕刻版(无背胶)</format>
   <nSuite>2</nSuite>
@@ -13,7 +14,7 @@
   <layout>99(11×9)</layout>
   <keyStamps>(2-2)10.00-13.00(元/枚)(旧)</keyStamps>
   <notes>原画作者: 茹可夫[苏联]</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>2-1</stampIndex>
       <stampName>马克思半身像</stampName>
@@ -30,6 +31,6 @@
       <stampPerforation>P14</stampPerforation>
       <stampAmount>300.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

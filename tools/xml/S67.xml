@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>S67</reference>
+  <id>特67</id>
   <name>石油工业</name>
   <format>影写版</format>
   <nSuite>5</nSuite>
@@ -13,7 +14,7 @@
   <layout>(1)(5)50(5×10),余50(10×5)</layout>
   <keyStamps>(5-5)180.0-200.0元/枚(旧)</keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>5-1</stampIndex>
       <stampName>地震勘探</stampName>
@@ -54,6 +55,6 @@
       <stampPerforation>P11.5</stampPerforation>
       <stampAmount>100.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

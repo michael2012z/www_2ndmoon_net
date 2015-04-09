@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>S37</reference>
+  <id>特37</id>
   <name>全国农业展览馆</name>
   <format>胶雕套印(无背胶)</format>
   <nSuite>4</nSuite>
@@ -13,7 +14,7 @@
   <layout>60(5×12)</layout>
   <keyStamps>(4-4)6.00-8.00(元/枚)(旧)</keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>4-1</stampIndex>
       <stampName>综合馆</stampName>
@@ -46,6 +47,6 @@
       <stampPerforation>P14</stampPerforation>
       <stampAmount>250.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

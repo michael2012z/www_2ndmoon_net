@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>J21</reference>
+  <id>J21</id>
   <name>伟大的领袖和导师毛泽东主席逝世一周年</name>
   <format>影写版</format>
   <nSuite>6</nSuite>
@@ -13,7 +14,7 @@
   <layout>40(10×4)</layout>
   <keyStamps></keyStamps>
   <notes>摄影：(6-1)候波/孟庆波、(6-2)埃德拉·斯诺(美国)、(6-3)程默、(6-4)陈正青、(6-5)安康、(6-6)张家骅</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>6-1</stampIndex>
       <stampName>毛主席永远活在我们心中</stampName>
@@ -62,6 +63,6 @@
       <stampPerforation>P11.5</stampPerforation>
       <stampAmount>3000.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

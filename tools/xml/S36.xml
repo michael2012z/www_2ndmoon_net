@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>S36</reference>
+  <id>特36</id>
   <name>民族文化宫</name>
   <format>胶雕套印(无背胶)</format>
   <nSuite>2</nSuite>
@@ -13,7 +14,7 @@
   <layout>30(5×6)</layout>
   <keyStamps></keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>2-1</stampIndex>
       <stampName>民族文化馆(红框)</stampName>
@@ -30,6 +31,6 @@
       <stampPerforation>P14</stampPerforation>
       <stampAmount>800.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

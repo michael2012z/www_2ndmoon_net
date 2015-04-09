@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>C81</reference>
+  <id>纪81</id>
   <name>中国文学艺术工作者第三次代表大会</name>
   <format>(2-1)影写版、(2-2)影雕套印</format>
   <nSuite>2</nSuite>
@@ -13,7 +14,7 @@
   <layout>50(10×5)</layout>
   <keyStamps></keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>2-1</stampIndex>
       <stampName>文艺为工农兵服务</stampName>
@@ -30,6 +31,6 @@
       <stampPerforation>P11.5×11</stampPerforation>
       <stampAmount>540.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

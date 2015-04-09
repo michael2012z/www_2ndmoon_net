@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>T2</reference>
+  <id>T2</id>
   <name>杂技</name>
   <format>影写版</format>
   <nSuite>6</nSuite>
@@ -13,7 +14,7 @@
   <layout>35(7×5)/35(5×7)</layout>
   <keyStamps>(6-3)13.0-22.0(元/枚)(旧)</keyStamps>
   <notes>旧票中(6-6)也比较少，价格在10.0-15.0元之间。</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>6-1</stampIndex>
       <stampName>舞狮</stampName>
@@ -62,6 +63,6 @@
       <stampPerforation>P11</stampPerforation>
       <stampAmount>1000.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

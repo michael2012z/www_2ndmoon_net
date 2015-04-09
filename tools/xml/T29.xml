@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>T29</reference>
+  <id>T29</id>
   <name>工艺美术</name>
   <format>影写版</format>
   <nSuite>10</nSuite>
@@ -13,7 +14,7 @@
   <layout>50(10×5)、50(5×10)</layout>
   <keyStamps>(10-8)/(10-9)4.0-7.0(元/枚)</keyStamps>
   <notes>注①：重庆歇台子工艺美术漆器厂</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>10-1</stampIndex>
       <stampName>大狮子(布玩具)</stampName>
@@ -94,6 +95,6 @@
       <stampPerforation>30×40</stampPerforation>
       <stampAmount>P11.5×11</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

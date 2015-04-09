@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>S8</reference>
+  <id>特8</id>
   <name>经济建设</name>
   <format>雕刻版(无背胶)</format>
   <nSuite>8</nSuite>
@@ -13,7 +14,7 @@
   <layout>108(12×9)</layout>
   <keyStamps></keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>8-1</stampIndex>
       <stampName>自动化炼铁炉</stampName>
@@ -78,6 +79,6 @@
       <stampPerforation>P14</stampPerforation>
       <stampAmount>400.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

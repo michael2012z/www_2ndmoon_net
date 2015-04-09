@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>S30</reference>
+  <id>特30</id>
   <name>剪纸</name>
   <format>胶雕套印(无背胶)</format>
   <nSuite>4</nSuite>
@@ -13,7 +14,7 @@
   <layout>150(15×10)</layout>
   <keyStamps></keyStamps>
   <notes>原作者：张仃</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>4-1</stampIndex>
       <stampName>骆驼</stampName>
@@ -46,6 +47,6 @@
       <stampPerforation>P14</stampPerforation>
       <stampAmount>750.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

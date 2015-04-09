@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>T4</reference>
+  <id>T4</id>
   <name>大庆红旗</name>
   <format>影写版</format>
   <nSuite>5</nSuite>
@@ -13,7 +14,7 @@
   <layout>35(5×7)</layout>
   <keyStamps>(5-5)7.00-9.00(元/枚)(旧)</keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>5-1</stampIndex>
       <stampName>铁人王进喜</stampName>
@@ -54,6 +55,6 @@
       <stampPerforation>P11</stampPerforation>
       <stampAmount>1000.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

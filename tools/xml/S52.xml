@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>S52</reference>
+  <id>特52</id>
   <name>支持阿尔及利亚民族解放斗争</name>
   <format>影写版</format>
   <nSuite>2</nSuite>
@@ -13,7 +14,7 @@
   <layout>50(10×5)</layout>
   <keyStamps>(2-2)9.00-13.00(元/枚)(旧)</keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>2-1</stampIndex>
       <stampName>火炬及阿尔及利亚地图</stampName>
@@ -30,6 +31,6 @@
       <stampPerforation>P11.5×11</stampPerforation>
       <stampAmount>100.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

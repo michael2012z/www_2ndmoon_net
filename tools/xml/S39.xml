@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>S39</reference>
+  <id>特39</id>
   <name>苏联月球火箭及行星际站</name>
   <format>雕刻版</format>
   <nSuite>2</nSuite>
@@ -13,7 +14,7 @@
   <layout>100(10×10)</layout>
   <keyStamps>(2-2)5.00-7.00(元/枚)(旧)</keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>2-1</stampIndex>
       <stampName>月球火箭</stampName>
@@ -30,6 +31,6 @@
       <stampPerforation>P11.5</stampPerforation>
       <stampAmount>300.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

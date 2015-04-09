@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>J39</reference>
+  <id>J39</id>
   <name>中国文艺工作者第四次代表大会</name>
   <format>影写版</format>
   <nSuite>2</nSuite>
@@ -13,7 +14,7 @@
   <layout>50(5×10)</layout>
   <keyStamps></keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>2-1</stampIndex>
       <stampName>文艺的春天</stampName>
@@ -30,6 +31,6 @@
       <stampPerforation>P11×11.5</stampPerforation>
       <stampAmount>1250.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

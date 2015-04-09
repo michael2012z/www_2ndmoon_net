@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>C61</reference>
+  <id>纪61</id>
   <name>国际劳动节</name>
   <format>雕刻版(无背胶)</format>
   <nSuite>3</nSuite>
@@ -13,7 +14,7 @@
   <layout>90(10×9)</layout>
   <keyStamps>(3-3)6.00-10.00(元/枚)(旧)</keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>3-1</stampIndex>
       <stampName>学习马克思列宁主义</stampName>
@@ -38,6 +39,6 @@
       <stampPerforation>P14</stampPerforation>
       <stampAmount>250.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>C16</reference>
+  <id>纪16</id>
   <name>抗日战争十五周年纪念</name>
   <format>胶版(无背胶)</format>
   <nSuite>4</nSuite>
@@ -13,7 +14,7 @@
   <layout>90(6×15)</layout>
   <keyStamps></keyStamps>
   <notes>本套邮票首次在志号上添加了发行年代，使中国首创的邮票志号趋于完善。</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>4-1</stampIndex>
       <stampName>卢沟桥风云</stampName>
@@ -46,6 +47,6 @@
       <stampPerforation>P14</stampPerforation>
       <stampAmount>1600.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

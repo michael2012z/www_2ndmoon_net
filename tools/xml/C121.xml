@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>C121</reference>
+  <id>纪121</id>
   <name>第一届亚洲新兴力量运动会</name>
   <format>影写版</format>
   <nSuite>4</nSuite>
@@ -13,7 +14,7 @@
   <layout>(4-1)35(5×7)，(4-2)35(7×5)，(4-3)(4-4)50(5×10)</layout>
   <keyStamps></keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>4-1</stampIndex>
       <stampName>中国运动员热爱毛主席</stampName>
@@ -46,6 +47,6 @@
       <stampPerforation>P11×11.5</stampPerforation>
       <stampAmount>500.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

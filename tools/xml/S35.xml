@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>S35</reference>
+  <id>特35</id>
   <name>人民公社</name>
   <format>雕刻版(无背胶)</format>
   <nSuite>12</nSuite>
@@ -13,7 +14,7 @@
   <layout>100(10×10)</layout>
   <keyStamps></keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>12-1</stampIndex>
       <stampName>人民公社好</stampName>
@@ -110,6 +111,6 @@
       <stampPerforation>孔绍惠</stampPerforation>
       <stampAmount>800.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

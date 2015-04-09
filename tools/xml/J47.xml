@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>J47</reference>
+  <id>J47</id>
   <name>中华人民共和国成立三十周年（第四组）</name>
   <format>影写版</format>
   <nSuite>4</nSuite>
@@ -13,7 +14,7 @@
   <layout>50(10×5)，4枚呈田字型连印</layout>
   <keyStamps></keyStamps>
   <notes>全张分甲乙两种，分别有全套方联10个。甲种外加(4-1)(4-2)各5枚；乙种外加(4-3)(4-4)各5枚。</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>4-1</stampIndex>
       <stampName>欢庆</stampName>
@@ -46,6 +47,6 @@
       <stampPerforation>P11.5</stampPerforation>
       <stampAmount>1500.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>N4952</reference>
+  <id>N49-52</id>
   <name>红旗渠</name>
   <format>影雕套印</format>
   <nSuite>4</nSuite>
@@ -13,7 +14,7 @@
   <layout>56(7×8)</layout>
   <keyStamps></keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>49</stampIndex>
       <stampName>愚公移山</stampName>
@@ -46,6 +47,6 @@
       <stampPerforation>P11</stampPerforation>
       <stampAmount>770.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

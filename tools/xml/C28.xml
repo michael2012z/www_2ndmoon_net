@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>C28</reference>
+  <id>纪28</id>
   <name>北京苏联经济及文化建设成就展览会开幕纪念</name>
   <format>雕刻版(无背胶)</format>
   <nSuite>1</nSuite>
@@ -13,7 +14,7 @@
   <layout>66(6×11)</layout>
   <keyStamps></keyStamps>
   <notes>票幅还有54×24mm、53.5×24mm、53×25mm、52.5×24.5mm、52×24.5mm。</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>1-1</stampIndex>
       <stampName>苏联展览馆(北京)</stampName>
@@ -22,6 +23,6 @@
       <stampPerforation>P14</stampPerforation>
       <stampAmount>500.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

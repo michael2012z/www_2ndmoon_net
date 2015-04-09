@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>N7</reference>
+  <id>N7</id>
   <name>严惩入侵之敌</name>
   <format>胶版</format>
   <nSuite>1</nSuite>
@@ -13,7 +14,7 @@
   <layout>100(10×10)</layout>
   <keyStamps></keyStamps>
   <notes>有多种齿孔度数：P10、P10×11.5、P11.5×10、P11.5</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>7</stampIndex>
       <stampName>严惩入侵之敌</stampName>
@@ -22,6 +23,6 @@
       <stampPerforation>P10</stampPerforation>
       <stampAmount>14000.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

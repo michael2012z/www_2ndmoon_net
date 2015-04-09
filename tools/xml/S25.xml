@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>S25</reference>
+  <id>特25</id>
   <name>苏联人造地球卫星</name>
   <format>雕刻版(无背胶)</format>
   <nSuite>3</nSuite>
@@ -13,7 +14,7 @@
   <layout>110(10×11)</layout>
   <keyStamps>(3-3)6.00-8.00(元/枚)(旧)</keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>3-1</stampIndex>
       <stampName>第一颗人造卫星</stampName>
@@ -38,6 +39,6 @@
       <stampPerforation>P14</stampPerforation>
       <stampAmount>400.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>S54b</reference>
+  <id>特54无齿</id>
   <name>儿童（无齿）</name>
   <format>胶版(无背胶)</format>
   <nSuite>12</nSuite>
@@ -13,7 +14,7 @@
   <layout>50(10×5)</layout>
   <keyStamps></keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>12-1</stampIndex>
       <stampName>全神贯注</stampName>
@@ -110,6 +111,6 @@
       <stampPerforation>P□</stampPerforation>
       <stampAmount>5.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

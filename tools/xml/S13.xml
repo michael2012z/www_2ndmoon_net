@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>S13</reference>
+  <id>特13</id>
   <name>努力完成第一个五年建设计划</name>
   <format>胶版(无背胶)</format>
   <nSuite>18</nSuite>
@@ -13,7 +14,7 @@
   <layout>56(8×7)</layout>
   <keyStamps></keyStamps>
   <notes>(18-11)的原作者：吴作人</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>18-1</stampIndex>
       <stampName>冶金</stampName>
@@ -158,6 +159,6 @@
       <stampPerforation>P12.5</stampPerforation>
       <stampAmount>600.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

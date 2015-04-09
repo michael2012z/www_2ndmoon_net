@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>C44</reference>
+  <id>纪44</id>
   <name>伟大的十月社会主义革命四十周年</name>
   <format>雕刻版(无背胶)</format>
   <nSuite>5</nSuite>
@@ -13,7 +14,7 @@
   <layout>108(12×9)</layout>
   <keyStamps>(5-5)9.00-13.00(元/枚)(旧)</keyStamps>
   <notes>雕刻：(1)鞠文俊、(4)宋广增、(2)(3)(5)高振宇、(1)-(5)边框孔绍惠</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>5-1</stampIndex>
       <stampName>庆祝节日</stampName>
@@ -54,6 +55,6 @@
       <stampPerforation>P14</stampPerforation>
       <stampAmount>500.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

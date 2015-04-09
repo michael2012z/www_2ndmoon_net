@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>S63</reference>
+  <id>特63</id>
   <name>殷代铜器</name>
   <format>影雕套印</format>
   <nSuite>8</nSuite>
@@ -13,7 +14,7 @@
   <layout>50(10×5)</layout>
   <keyStamps>(8-7)10.0-15.0(元/枚)(旧), (8-8)60.0-80.0(元/枚)(旧)</keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>8-1</stampIndex>
       <stampName>父戊舟爵</stampName>
@@ -78,6 +79,6 @@
       <stampPerforation>P11.5×11</stampPerforation>
       <stampAmount>唐霖坤</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

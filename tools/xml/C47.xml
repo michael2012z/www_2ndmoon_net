@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>C47</reference>
+  <id>纪47</id>
   <name>人民英雄纪念碑</name>
   <format>雕刻版(无背胶)</format>
   <nSuite>1</nSuite>
@@ -13,7 +14,7 @@
   <layout>90(9×10)</layout>
   <keyStamps></keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>1-1</stampIndex>
       <stampName>人民英雄纪念碑</stampName>
@@ -22,6 +23,6 @@
       <stampPerforation>P14</stampPerforation>
       <stampAmount>800.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

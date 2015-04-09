@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>C62</reference>
+  <id>纪62</id>
   <name>“五四”运动四十周年</name>
   <format>影写版(无背胶)</format>
   <nSuite>2</nSuite>
@@ -13,7 +14,7 @@
   <layout>50(5×10)</layout>
   <keyStamps></keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>2-1</stampIndex>
       <stampName>向科学技术进军</stampName>
@@ -30,6 +31,6 @@
       <stampPerforation>P11×11.5</stampPerforation>
       <stampAmount>455.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

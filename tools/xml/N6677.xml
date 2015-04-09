@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>N6677</reference>
+  <id>N66-77</id>
   <name>文化大革命期间出土文物</name>
   <format>影写版</format>
   <nSuite>12</nSuite>
@@ -13,7 +14,7 @@
   <layout>50(10×5)</layout>
   <keyStamps>(77)60.00-80.00(元/枚)(旧)</keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>66</stampIndex>
       <stampName>青花凤首扁壶</stampName>
@@ -110,6 +111,6 @@
       <stampPerforation>P11.5</stampPerforation>
       <stampAmount>150.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

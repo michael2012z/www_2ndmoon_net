@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>S4</reference>
+  <id>特4</id>
   <name>广播体操</name>
   <format>胶版(无背胶)</format>
   <nSuite>10</nSuite>
@@ -13,7 +14,7 @@
   <layout>144(12×12)</layout>
   <keyStamps></keyStamps>
   <notes>下面的发行量为原版票发行量，再版票发行量不详。</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>1-4</stampIndex>
       <stampName>第一节·下肢运动</stampName>
@@ -94,6 +95,6 @@
       <stampPerforation>P12.5</stampPerforation>
       <stampAmount>1952.7.23</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

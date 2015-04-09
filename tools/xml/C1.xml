@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>C1</reference>
+  <id>纪1原版</id>
   <name>庆祝中国人民政治协商会议第一届全体会议</name>
   <format>胶版(无背胶)</format>
   <nSuite>4</nSuite>
@@ -13,7 +14,7 @@
   <layout>100(10×10)</layout>
   <keyStamps>160.00-260.00(元/套)(原版)</keyStamps>
   <notes>纪1原版和再版的辨别\\%0a%25width=560px newwin%25 [[Attach:C1diff.jpg | Attach:C1diff.jpg]]</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>4-1</stampIndex>
       <stampName>灯笼、华表和天安门(蓝)</stampName>
@@ -46,6 +47,6 @@
       <stampPerforation>P12.5</stampPerforation>
       <stampAmount>36.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>C65</reference>
+  <id>纪65</id>
   <name>中捷邮电技术合作</name>
   <format>雕刻版(无背胶)</format>
   <nSuite>1</nSuite>
@@ -13,7 +14,7 @@
   <layout>50(5×10)</layout>
   <keyStamps></keyStamps>
   <notes>此票的发行是为了纪念捷克斯洛伐克政府援助我国建立北京邮票厂。</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>1-1</stampIndex>
       <stampName>北京邮票厂厂房外景</stampName>
@@ -22,6 +23,6 @@
       <stampPerforation>P11×11.5</stampPerforation>
       <stampAmount>700.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>N4548</reference>
+  <id>N45-48</id>
   <name>第一届亚洲乒乓球锦标赛</name>
   <format>影写版</format>
   <nSuite>4</nSuite>
@@ -13,7 +14,7 @@
   <layout>(45)(48)50(10×5)，(46)(47)50(5×10)</layout>
   <keyStamps></keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>45</stampIndex>
       <stampName>第一届亚洲乒乓球锦标赛纪念章</stampName>
@@ -46,6 +47,6 @@
       <stampPerforation>P11.5×11</stampPerforation>
       <stampAmount>300.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

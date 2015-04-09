@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>J52</reference>
+  <id>J52</id>
   <name>中国科学技术协会第二次全国代表大会</name>
   <format>影写版</format>
   <nSuite>1</nSuite>
@@ -13,7 +14,7 @@
   <layout>40(4×10)</layout>
   <keyStamps></keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>1-1</stampIndex>
       <stampName>“飞天”</stampName>
@@ -22,6 +23,6 @@
       <stampPerforation>P11.5</stampPerforation>
       <stampAmount>800.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>C100</reference>
+  <id>纪100</id>
   <name>第一届新兴力量运动会</name>
   <format>(5-3)影写版，其它影雕套印</format>
   <nSuite>5</nSuite>
@@ -13,7 +14,7 @@
   <layout>(5-3)50(5×10)，其它70(10×7)</layout>
   <keyStamps>(5-3)18.00-25.00(元/枚)(旧)</keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>5-1</stampIndex>
       <stampName>足球</stampName>
@@ -54,6 +55,6 @@
       <stampPerforation>P11</stampPerforation>
       <stampAmount>400.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

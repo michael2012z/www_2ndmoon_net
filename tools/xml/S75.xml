@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>S75</reference>
+  <id>特75</id>
   <name>服务行业中的妇女</name>
   <format>影写版</format>
   <nSuite>10</nSuite>
@@ -13,7 +14,7 @@
   <layout>50(5×10)</layout>
   <keyStamps></keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>10-1</stampIndex>
       <stampName>一切工作都是为了革命</stampName>
@@ -94,6 +95,6 @@
       <stampPerforation>40×30</stampPerforation>
       <stampAmount>P11×11.5</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

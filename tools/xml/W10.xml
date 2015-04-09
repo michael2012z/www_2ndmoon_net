@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>W10</reference>
+  <id>文10</id>
   <name>毛主席最新指示</name>
   <format>影写版</format>
   <nSuite>5</nSuite>
@@ -14,7 +15,7 @@
   <keyStamps>1400.0-1600.0(元/枚)(旧)</keyStamps>
   <notes>文10发行背景
 　　在中国“文化大革命”时期，毛泽东的语录广泛地流传于群众之中。在这种形势下，中国邮电部门发行了几套以毛泽东语录为主题的邮票，这是其中的一套。此套邮票构图单一，均为上面是毛泽东军装像，下面是毛泽东语录，有浓烈的宣传色彩。</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>5-1</stampIndex>
       <stampName>毛主席像及最新指示</stampName>
@@ -55,6 +56,6 @@
       <stampPerforation>P11.5</stampPerforation>
       <stampAmount>1500.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

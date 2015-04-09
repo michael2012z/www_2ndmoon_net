@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>C91</reference>
+  <id>纪91</id>
   <name>鲁迅诞生八十周年</name>
   <format>影写版</format>
   <nSuite>1</nSuite>
@@ -13,7 +14,7 @@
   <layout>40(10×4)</layout>
   <keyStamps></keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>1-1</stampIndex>
       <stampName>鲁迅雕塑像</stampName>
@@ -22,6 +23,6 @@
       <stampPerforation>P11.5×11</stampPerforation>
       <stampAmount>800.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

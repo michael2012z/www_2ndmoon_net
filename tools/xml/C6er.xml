@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>C6er</reference>
+  <id>纪6东北贴用再版</id>
   <name>中华人民共和国开国一周年纪念（东北贴用）</name>
   <format>胶雕套印(无背胶)</format>
   <nSuite>5</nSuite>
@@ -13,7 +14,7 @@
   <layout>(3)20(5×4)，其它50(10×5)</layout>
   <keyStamps>(5-5)800.0-1300.0(元/枚)(旧)</keyStamps>
   <notes>下面的发行量为原版票发行量，再版票发行量不详。除(5-3)外，其它各枚邮票在1950年10月底才开始出售。</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>5-1</stampIndex>
       <stampName>中华人民共和国国旗</stampName>
@@ -54,6 +55,6 @@
       <stampPerforation>P14</stampPerforation>
       <stampAmount>25.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

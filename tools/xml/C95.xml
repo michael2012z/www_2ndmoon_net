@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>C95</reference>
+  <id>纪95</id>
   <name>伟大的十月社会主义革命四十五周年</name>
   <format>影写版</format>
   <nSuite>2</nSuite>
@@ -13,7 +14,7 @@
   <layout>(1)50(10×5),(2)50(5×10)</layout>
   <keyStamps>(2-2)15.00-25.00(元/枚)(旧)</keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>2-1</stampIndex>
       <stampName>列宁和革命战士</stampName>
@@ -30,6 +31,6 @@
       <stampPerforation>P11.5</stampPerforation>
       <stampAmount>300.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

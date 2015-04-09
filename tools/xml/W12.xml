@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>W12</reference>
+  <id>文12</id>
   <name>毛主席去安源</name>
   <format>影写版</format>
   <nSuite>1</nSuite>
@@ -15,7 +16,7 @@
   <notes>文12发行背景
 　　１９２１年，中国共产党第一次代表大会后，毛泽东回到湖南，于１９２１年１０月建立了中共湖南支部，随后又建立了湘区（包括江西安源）委员会，毛泽东担任书记，并兼任中国劳动组合书记部湖南分部主任。毛泽东于１９２１年到安源调查工人劳动和生活状况，启发工人的觉悟，播下了革命种子。安源路矿（株萍铁路和安源煤矿）是德、日帝国主义控制下的官僚买办企业，有煤矿工人和铁路工人近两万人，过着极其悲惨的生活。毛泽东经过考察认为，在安源路矿工人中，蕴藏着无限的革命潜力，应立即开展工作。
 　　邮票画面选用油画家刘春华的原画“毛主席去安源”。画面为青年时代的毛泽东走在崎岖的山路上。</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>1-1</stampIndex>
       <stampName>毛主席去安源(油画)</stampName>
@@ -24,6 +25,6 @@
       <stampPerforation>P11×11.5</stampPerforation>
       <stampAmount>5000.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

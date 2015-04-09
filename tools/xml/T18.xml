@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>T18</reference>
+  <id>T18</id>
   <name>工农兵上大学</name>
   <format>影写版</format>
   <nSuite>5</nSuite>
@@ -13,7 +14,7 @@
   <layout>40(4×10)</layout>
   <keyStamps>(5-3)8.00-13.00(元/枚)(旧)</keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>5-1</stampIndex>
       <stampName>满怀豪情上大学</stampName>
@@ -54,6 +55,6 @@
       <stampPerforation>P11.5</stampPerforation>
       <stampAmount>800.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>W1</reference>
+  <id>文1</id>
   <name>战无不胜的毛泽东思想万岁</name>
   <format>影写版</format>
   <nSuite>11</nSuite>
@@ -18,7 +19,7 @@
 　　第１枚是毛主席在天安门上检阅红卫兵的照片。毛泽东身着军装，臂戴“红卫兵”袖章，一手拿军帽，一手向百万群众游行队伍挥手致意。其余各枚均印有毛泽东的语录。
 　　整套邮票有浓烈的政治色彩，采用非常耀眼的红色和金黄色象征革命。邮票上“中国人民邮政”六字也为毛泽东文稿中的手体字，而且置于画面之外。
 　　１９６６年起，中国开展了“文化大革命”运动，一切都受到了冲击，邮票志号也在所难免。本套邮票是志号取消后发行的第一套邮票。邮票上虽然未印志号，但在全版邮票的边纸上仍印有编号。</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>11-1</stampIndex>
       <stampName>毛主席万岁</stampName>
@@ -107,6 +108,6 @@
       <stampPerforation>P11.5</stampPerforation>
       <stampAmount>300.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>N1228</reference>
+  <id>N12-28</id>
   <name>庆祝中国共产党成立五十周年</name>
   <format>影写版</format>
   <nSuite>9</nSuite>
@@ -13,7 +14,7 @@
   <layout>(12)-(17)40(4×10)、(18)-(20)36(9×4)/40(10×4)</layout>
   <keyStamps></keyStamps>
   <notes>连票N18-20的40(10×4)全张，每版左边多出N20邮票4枚不成套。此套票的旧票没有真正意义的筋票，(15)(18)(19)(14)(16)相对较少，价格一般在30-70元/枚。</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>12</stampIndex>
       <stampName>中国共产党第一次代表大会会址</stampName>
@@ -86,6 +87,6 @@
       <stampPerforation>P11.5</stampPerforation>
       <stampAmount>2250.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

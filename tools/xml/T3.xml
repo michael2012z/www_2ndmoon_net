@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>T3</reference>
+  <id>T3</id>
   <name>户县农民画</name>
   <format>影写版</format>
   <nSuite>6</nSuite>
@@ -13,7 +14,7 @@
   <layout>50(10×5)/50(5×10)/35(7×5)/35(5×7)</layout>
   <keyStamps>(6-6)7.00-11.00(元/枚)(旧)</keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>6-1</stampIndex>
       <stampName>老书记</stampName>
@@ -62,6 +63,6 @@
       <stampPerforation>40×30</stampPerforation>
       <stampAmount>P11×11.5</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

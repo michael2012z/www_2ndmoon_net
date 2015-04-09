@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>N6365</reference>
+  <id>N63-65</id>
   <name>中国妇女</name>
   <format>影写版</format>
   <nSuite>3</nSuite>
@@ -13,7 +14,7 @@
   <layout>50(10×5)</layout>
   <keyStamps></keyStamps>
   <notes>(65)号邮票的原绘画作品名称为《我是海燕》。(63)旧票比其它两枚稍少。</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>63</stampIndex>
       <stampName>矿山新兵</stampName>
@@ -38,6 +39,6 @@
       <stampPerforation>30×40</stampPerforation>
       <stampAmount>P11.5×11</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

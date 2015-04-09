@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>W4</reference>
+  <id>文4</id>
   <name>祝毛主席万寿无疆</name>
   <format>雕刻版</format>
   <nSuite>5</nSuite>
@@ -17,7 +18,7 @@
 文4发行背景：
 　　１９６７年６月２日，中国邮电部向中共中央文革小组上报《关于拟发行祝毛主席万寿无疆邮票的请示》。其主要内容是：今年“七一”，是中国共产党成立４０周年，我们拟发行一套“祝毛主席万寿无疆”邮票，图案是毛主席侧面军装像（木刻）。这套邮票名称为“祝毛主席万寿无疆”。两天后，中央文革宣传组办公室批复“同意”。
 </notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>5-1</stampIndex>
       <stampName>毛主席侧面军装像</stampName>
@@ -58,6 +59,6 @@
       <stampPerforation>P11</stampPerforation>
       <stampAmount>490.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

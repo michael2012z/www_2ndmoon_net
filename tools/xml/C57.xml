@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>C57</reference>
+  <id>纪57</id>
   <name>中国人民志愿军凯旋归国纪念</name>
   <format>雕刻版(无背胶)</format>
   <nSuite>3</nSuite>
@@ -13,7 +14,7 @@
   <layout>80(8×10)</layout>
   <keyStamps></keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>3-1</stampIndex>
       <stampName>并肩作战</stampName>
@@ -38,6 +39,6 @@
       <stampPerforation>P14</stampPerforation>
       <stampAmount>850.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

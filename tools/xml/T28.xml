@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>T28</reference>
+  <id>T28</id>
   <name>奔马</name>
   <format>影写版</format>
   <nSuite>10</nSuite>
@@ -13,7 +14,7 @@
   <layout>50(10×5)、50(5×10)</layout>
   <keyStamps>(10-8)25.0-30.0(元/枚)(旧), (10-9)13.0-20.0(元/枚)(旧)</keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>10-1</stampIndex>
       <stampName>奔马</stampName>
@@ -94,6 +95,6 @@
       <stampPerforation>P11×11.5</stampPerforation>
       <stampAmount>250.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

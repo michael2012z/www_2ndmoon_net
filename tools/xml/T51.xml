@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>T51</reference>
+  <id>T51</id>
   <name>童话——“咕咚”</name>
   <format>影写版</format>
   <nSuite>4</nSuite>
@@ -13,7 +14,7 @@
   <layout>50(5×10)横五枚连印</layout>
   <keyStamps></keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>4-1</stampIndex>
       <stampName>“咕咚——”</stampName>
@@ -46,6 +47,6 @@
       <stampPerforation>P11×11.5</stampPerforation>
       <stampAmount>1500.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

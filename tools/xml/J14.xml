@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>J14</reference>
+  <id>J14</id>
   <name>台湾省人民“二·二八”起义三十周年</name>
   <format>影写版</format>
   <nSuite>2</nSuite>
@@ -13,7 +14,7 @@
   <layout>50(5×10)</layout>
   <keyStamps>(2-1)8.00-10.00(元/枚)(旧)</keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>2-1</stampIndex>
       <stampName>台湾省人民“二·二八”起义</stampName>
@@ -30,6 +31,6 @@
       <stampPerforation>P11×11.5</stampPerforation>
       <stampAmount>500.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

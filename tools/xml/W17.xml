@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>W17</reference>
+  <id>文17</id>
   <name>知识青年在农村</name>
   <format>影写版</format>
   <nSuite>4</nSuite>
@@ -14,7 +15,7 @@
   <keyStamps>(4-1)80.0-100.0(元/枚)(旧)</keyStamps>
   <notes>文17发行背景
 　　１９世纪６０年代初，特别是“文化大革命”期间，数以百万计的城市初、高中学生响应毛泽东号召，上山下乡，奔赴中国各地农村，特别是黑龙江、内蒙、云南、新疆等边远省区。这些青年在农村和人口较少的边疆地区的生产建设中发挥了重要作用，对农村科学文化教育产生了积极的影响。１９７７年，知识青年上山下乡的政策停止执行，除已在当地成为骨干或建立家庭的人外，大都回到原来的城市。</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>4-1</stampIndex>
       <stampName>和贫下中农在一起学习毛主席著作</stampName>
@@ -47,6 +48,6 @@
       <stampPerforation>P11×11.5</stampPerforation>
       <stampAmount>5000.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

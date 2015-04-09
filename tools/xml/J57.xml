@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>J57</reference>
+  <id>J57</id>
   <name>弗·伊·列宁诞辰一百一十周年</name>
   <format>影雕套印</format>
   <nSuite>1</nSuite>
@@ -13,7 +14,7 @@
   <layout>50(10×5)</layout>
   <keyStamps></keyStamps>
   <notes>原作者：安德列耶夫(苏联)</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>1-1</stampIndex>
       <stampName>列宁像</stampName>
@@ -22,6 +23,6 @@
       <stampPerforation>P11.5×11</stampPerforation>
       <stampAmount>500.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

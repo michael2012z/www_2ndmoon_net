@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>N8285</reference>
+  <id>N82-85</id>
   <name>赤脚医生</name>
   <format>影写版</format>
   <nSuite>4</nSuite>
@@ -13,7 +14,7 @@
   <layout>(82)(85)50(5×10)，(83)(84)50(10×5)</layout>
   <keyStamps>(83)15.00-20.00(元/枚)(旧)</keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>82</stampIndex>
       <stampName>预防</stampName>
@@ -46,6 +47,6 @@
       <stampPerforation>P11×11.5</stampPerforation>
       <stampAmount>1000.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

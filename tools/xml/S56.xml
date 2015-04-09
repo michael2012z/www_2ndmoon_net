@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>S56</reference>
+  <id>特56</id>
   <name>蝴蝶</name>
   <format>影写版(无背胶)</format>
   <nSuite>20</nSuite>
@@ -13,7 +14,7 @@
   <layout>70(10×7)</layout>
   <keyStamps>(20-18)50.0-70.0(元/枚)(旧), (20-19)40.0-60.0(元/枚)(旧), (20-20)130-150(元/枚)(旧)</keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>20-1</stampIndex>
       <stampName>西藏豆粉蝶</stampName>
@@ -174,6 +175,6 @@
       <stampPerforation>P11</stampPerforation>
       <stampAmount>100.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

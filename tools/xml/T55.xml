@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>T55</reference>
+  <id>T55</id>
   <name>西双版纳风光</name>
   <format>影写版</format>
   <nSuite>6</nSuite>
@@ -13,7 +14,7 @@
   <layout>50(5×10)/50(10×5)</layout>
   <keyStamps>(6-6)52.0-56.0(元/枚)(旧), (6-1)6.0-8.0(元/枚)(旧)</keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>6-1</stampIndex>
       <stampName>碧水晨曦</stampName>
@@ -62,6 +63,6 @@
       <stampPerforation>P11.5×11</stampPerforation>
       <stampAmount>101.16</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

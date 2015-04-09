@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>C4r</reference>
+  <id>纪4再版</id>
   <name>中华人民共和国开国纪念</name>
   <format>胶版(无背胶)</format>
   <nSuite>4</nSuite>
@@ -13,7 +14,7 @@
   <layout>50(10×5)</layout>
   <keyStamps>(4-4)120.0-180.0(元/枚)(旧)</keyStamps>
   <notes>下面的发行量为原版票发行量，再版票发行量不详。</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>4-1</stampIndex>
       <stampName>毛泽东头像和开国大典</stampName>
@@ -46,6 +47,6 @@
       <stampPerforation>P14/P12.5</stampPerforation>
       <stampAmount>80.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

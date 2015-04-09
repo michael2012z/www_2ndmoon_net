@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>S55</reference>
+  <id>特55</id>
   <name>中国民间舞蹈（第三组）</name>
   <format>胶版(无背胶)</format>
   <nSuite>6</nSuite>
@@ -13,7 +14,7 @@
   <layout>50(10×5)</layout>
   <keyStamps>(6-4)25.0-35.0(元/枚)(旧), (6-5)15.0-20.0(元/枚)(旧),  (6-6)15.0-20.0(元/枚)(旧)</keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>6-1</stampIndex>
       <stampName>畲族婚礼舞</stampName>
@@ -62,6 +63,6 @@
       <stampPerforation>P12.5</stampPerforation>
       <stampAmount>100.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

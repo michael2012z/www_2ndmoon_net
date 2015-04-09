@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>T33</reference>
+  <id>T33</id>
   <name>中国绘画·长沙楚墓帛画</name>
   <format>影写版</format>
   <nSuite>2</nSuite>
@@ -13,7 +14,7 @@
   <layout>28(7×4)</layout>
   <keyStamps></keyStamps>
   <notes>(2-1)票图名称应为：龙凤引魂升仙帛画</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>2-1</stampIndex>
       <stampName>人物變凤帛画</stampName>
@@ -30,6 +31,6 @@
       <stampPerforation>P11</stampPerforation>
       <stampAmount>200.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

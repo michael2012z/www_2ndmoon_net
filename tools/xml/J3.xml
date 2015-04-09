@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>J3</reference>
+  <id>J3</id>
   <name>中华人民共和国成立二十五周年(第二组)</name>
   <format>影写版</format>
   <nSuite>3</nSuite>
@@ -13,7 +14,7 @@
   <layout>50(10×5)，横3枚连印</layout>
   <keyStamps></keyStamps>
   <notes>整张由15个横3连加5个(3-1)组成，因此(3-1)比其它票多1/3。</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>3-1</stampIndex>
       <stampName>工业学大庆</stampName>
@@ -38,6 +39,6 @@
       <stampPerforation>P11.5×11</stampPerforation>
       <stampAmount>500.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

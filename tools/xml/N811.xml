@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>N811</reference>
+  <id>N8-11</id>
   <name>纪念巴黎公社一百周年</name>
   <format>(8)(11)影写版, (9)(10)影雕套印</format>
   <nSuite>4</nSuite>
@@ -13,7 +14,7 @@
   <layout>(8)(10)50(10×5)、余50(5×10)</layout>
   <keyStamps>(9)300.0-400.0(元/枚)(旧)</keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>8</stampIndex>
       <stampName>巴黎公社的一面旗帜</stampName>
@@ -46,6 +47,6 @@
       <stampPerforation>P11×11.5</stampPerforation>
       <stampAmount>196.5</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

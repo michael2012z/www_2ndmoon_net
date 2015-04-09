@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>W13</reference>
+  <id>文13</id>
   <name>毛主席最新指示</name>
   <format>影写版</format>
   <nSuite>1</nSuite>
@@ -15,7 +16,7 @@
   <notes>文13发行背景
 　　邮票画面内容的主体是毛泽东于１９６８年８月初发出的一段最新指示。具体内容是“我国有七亿人口，工人阶级是领导阶级。要充分发挥工人阶级在文化大革命中和一切工作中的领导作用。工人阶级也应当在斗争中不断提高自己的政治觉悟”。到１９６８年８月，“文化大革命”中大规模社会运动已基本过去。按照毛泽东的部署，主要任务转入“斗、批、改”的第三阶段，重点转入上层建筑部门，运动的主体力量也由青年学生转为工人阶级。由工人组成的“毛泽东思想宣传队”纷纷进驻学校和文化机关，发挥领导作用。毛泽东的上述指示就是在这个背景下发出的。
 　　在当时的特殊政治形势下，中国邮票直接承担着政治宣传的职能，因而带着浓厚而强烈的政治色彩。这枚邮票无论从画面内容还是从设计的构思上，比较典型地体现了上述特点。</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>1-1</stampIndex>
       <stampName>毛主席像和最新指示</stampName>
@@ -24,6 +25,6 @@
       <stampPerforation>P11.5</stampPerforation>
       <stampAmount>2099.255</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

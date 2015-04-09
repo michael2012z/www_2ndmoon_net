@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>N2124</reference>
+  <id>N21-24</id>
   <name>亚非乒乓球邀请赛</name>
   <format>影写版</format>
   <nSuite>4</nSuite>
@@ -13,7 +14,7 @@
   <layout>50(10×5)</layout>
   <keyStamps>(24)40.00-60.00(元/枚)(旧)</keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>21</stampIndex>
       <stampName>亚非乒乓球邀请赛纪念章</stampName>
@@ -46,6 +47,6 @@
       <stampPerforation>P11.5</stampPerforation>
       <stampAmount>1750.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

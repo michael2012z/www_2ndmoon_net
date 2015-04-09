@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>W2</reference>
+  <id>文2</id>
   <name>毛主席万岁</name>
   <format>第一枚为影雕套印, 其余为影写版</format>
   <nSuite>8</nSuite>
@@ -25,7 +26,7 @@
 　　８－７为“毛主席在天安门上接见红卫兵”。画面是毛泽东远眺、充满兴奋的神情。
 　　８－８为“毛主席和林副统帅在一起”。画面是毛泽东神情严肃地为林彪指点讲话稿的照片。
 　　整套邮票具有浓烈的宣传色彩，突出了毛泽东的形象和毛泽东对红卫兵的关心和期望，林彪以副主席、副统帅的身份和毛泽东在一起。后４枚边上都印有“伟大的导师、伟大的领袖、伟大的统帅、伟大的舵手毛主席万岁”字样。</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>8-1</stampIndex>
       <stampName>中国共产党第八届中央委员会第十一次全体会议公报摘录</stampName>
@@ -90,6 +91,6 @@
       <stampPerforation>P11</stampPerforation>
       <stampAmount>1000.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

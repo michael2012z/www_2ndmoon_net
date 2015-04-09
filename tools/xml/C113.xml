@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>C113</reference>
+  <id>纪113</id>
   <name>第六次社会主义国家邮电部长会议</name>
   <format>影写版</format>
   <nSuite>1</nSuite>
@@ -13,7 +14,7 @@
   <layout>50(10×5)</layout>
   <keyStamps></keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>1-1</stampIndex>
       <stampName>在马克思列宁主义旗帜下前进</stampName>
@@ -22,6 +23,6 @@
       <stampPerforation>P11.5×11</stampPerforation>
       <stampAmount>560.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

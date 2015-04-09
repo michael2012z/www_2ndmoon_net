@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>C32</reference>
+  <id>纪32</id>
   <name>中苏友好同盟互助条约签订五周年纪念</name>
   <format>雕刻版(无背胶)</format>
   <nSuite>2</nSuite>
@@ -13,7 +14,7 @@
   <layout>(1)72(8×9)，(2)90(10×9)</layout>
   <keyStamps>(2-2)8.00-11.00(元/枚)(旧)</keyStamps>
   <notes>原作者：(1)德·阿·纳尔班殿[苏联]、(2)李宗津</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>2-1</stampIndex>
       <stampName>伟大的友谊</stampName>
@@ -30,6 +31,6 @@
       <stampPerforation>P14</stampPerforation>
       <stampAmount>500.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

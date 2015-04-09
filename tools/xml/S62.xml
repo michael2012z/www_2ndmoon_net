@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>S62</reference>
+  <id>特62</id>
   <name>工业新产品</name>
   <format>影雕套印</format>
   <nSuite>8</nSuite>
@@ -13,7 +14,7 @@
   <layout>50(5×10)/50(10×5)</layout>
   <keyStamps>(8-1)20.0-30.0(元/枚)(旧), (8-6)15.0-20.0(元/枚)(旧), (8-7)15.0-20.0(元/枚)(旧)</keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>8-1</stampIndex>
       <stampName>移动式变压器</stampName>
@@ -78,6 +79,6 @@
       <stampPerforation>P11.5×11</stampPerforation>
       <stampAmount>孔绍惠</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

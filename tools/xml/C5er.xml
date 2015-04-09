@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>C5er</reference>
+  <id>纪5东北贴用再版</id>
   <name>保卫世界和平(第一组)(东北贴用)</name>
   <format>雕刻版(无背胶)</format>
   <nSuite>3</nSuite>
@@ -13,7 +14,7 @@
   <layout>50(10×5)</layout>
   <keyStamps>(3-3)200.0-300.0(元/枚)(旧)</keyStamps>
   <notes>原作者：毕加索[西班牙]。下列发行量为原版发行量，再版票发行量不详。</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>3-1</stampIndex>
       <stampName>和平鸽（棕色）</stampName>
@@ -38,6 +39,6 @@
       <stampPerforation>P14</stampPerforation>
       <stampAmount>50.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

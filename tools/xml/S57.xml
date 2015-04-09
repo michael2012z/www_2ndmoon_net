@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>S57</reference>
+  <id>特57</id>
   <name>黄山风景</name>
   <format>影雕套印</format>
   <nSuite>16</nSuite>
@@ -13,7 +14,7 @@
   <layout>50(10×5)、50(5×10)</layout>
   <keyStamps>(16-15)400-500(元/枚)(旧), (16-16)150-180(元/枚)(旧)</keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>16-1</stampIndex>
       <stampName>玉屏峰</stampName>
@@ -142,6 +143,6 @@
       <stampPerforation>P11.5</stampPerforation>
       <stampAmount>100.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

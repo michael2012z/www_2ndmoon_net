@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>N5762</reference>
+  <id>N57-62</id>
   <name>熊猫</name>
   <format>影写版</format>
   <nSuite>6</nSuite>
@@ -13,7 +14,7 @@
   <layout>(59)(60)50(5×10)，其余50(10×5)</layout>
   <keyStamps>(57)80.0-120.0(元/枚)(旧) (58)60.0-80.0(元/枚)(旧) (62)30.0-40.0(元/枚)(旧)</keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>57</stampIndex>
       <stampName>熊猫</stampName>
@@ -62,6 +63,6 @@
       <stampPerforation>P11.5×11</stampPerforation>
       <stampAmount>1000.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

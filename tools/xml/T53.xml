@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>T53</reference>
+  <id>T53</id>
   <name>桂林山水</name>
   <format>影写版</format>
   <nSuite>8</nSuite>
@@ -13,7 +14,7 @@
   <layout>40(5×8)/40(8×5)</layout>
   <keyStamps>(8-7)55.00-60.00(元/枚)(旧), (8-8)40.00-48.00(元/枚)(旧)</keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>8-1</stampIndex>
       <stampName>珠洞剑石</stampName>
@@ -78,6 +79,6 @@
       <stampPerforation>P11.5</stampPerforation>
       <stampAmount>150.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

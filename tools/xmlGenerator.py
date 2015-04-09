@@ -16,12 +16,6 @@ def getIndex(id):
     index = int(indexStr)
     return index
 
-def generateFile(fileName, content):
-    #print "generating file: " + fileName
-    f = codecs.open(fileName,'w','utf-8')
-    f.write(content)
-    f.close()
-
 
 def generalStampsXmlFiles(prefix, excelFile):
     #print "generalStampsXmlFiles: " + prefix
@@ -37,7 +31,7 @@ def generalStampsXmlFiles(prefix, excelFile):
     for iSheet in range(1, nSheets+1):
         # xml
         impl = xml.dom.minidom.getDOMImplementation()
-        dom = impl.createDocument(None, 'Record', None)
+        dom = impl.createDocument(None, 'record', None)
         root = dom.documentElement 
 
         sheet = workbook.sheet_by_name("Sheet" + str(iSheet))
@@ -88,6 +82,11 @@ def generalStampsXmlFiles(prefix, excelFile):
 
         xmlTag = dom.createElement("reference")
         xmlTagValue = dom.createTextNode(reference)
+        xmlTag.appendChild(xmlTagValue)
+        root.appendChild(xmlTag)
+
+        xmlTag = dom.createElement("id")
+        xmlTagValue = dom.createTextNode(id)
         xmlTag.appendChild(xmlTagValue)
         root.appendChild(xmlTag)
 
@@ -151,122 +150,7 @@ def generalStampsXmlFiles(prefix, excelFile):
         xmlTag.appendChild(xmlTagValue)
         root.appendChild(xmlTag)
 
-
-        indexFileContent += u"|| [[ Philately." + reference + u" | " + id + u" ]] || " + name + u" ||\n"
-
-        # file content 
-        strPageContent = ""
-
-        strPageContent += "\
-(:table border=1 width=100%25 align=left bgcolor=#eeeeee cellspacing=0 :)%0a\
-(:cellnr colspan=4 align=center:)%0a"
-        strPageContent += name
-        strPageContent += "%0a"
-        print id
-        strPageContent += u"\
-(:cellnr align=center:)%0a\
-%25color=blue%25志号%25%25%0a\
-(:cell align=center:)%0a"
-        strPageContent += id
-        strPageContent += "%0a"
-
-        strPageContent += u"\
-(:cell align=center:)%0a\
-%25color=blue%25版别%25%25%0a\
-(:cell align=center:)%0a"
-        strPageContent += format
-        strPageContent += "%0a"
-
-        strPageContent += u"\
-(:cellnr align=center:)%0a\
-%25color=blue%25全套枚数%25%25%0a\
-(:cell align=center:)%0a"
-        strPageContent += str(nSuite)
-        strPageContent += "%0a"
-
-        strPageContent += u"\
-(:cell align=center:)%0a\
-%25color=blue%25发行日期%25%25%0a\
-(:cell align=center:)%0a"
-        strPageContent += issueDate
-        strPageContent += "%0a"
-
-        strPageContent += u"\
-(:cellnr align=center:)%0a\
-%25color=blue%25全套面值%25%25%0a\
-(:cell align=center:)%0a"
-        strPageContent += faceValue
-        strPageContent += "%0a"
-
-        strPageContent += u"\
-(:cell align=center:)%0a\
-%25color=blue%25筋票%25%25%0a\
-(:cell align=center:)%0a"
-        strPageContent += keyStamps
-        strPageContent += "%0a"
-
-        strPageContent += u"\
-(:cellnr align=center:)%0a\
-%25color=blue%25发行机构%25%25%0a\
-(:cell align=center:)%0a"
-        strPageContent += issuedBy
-        strPageContent += "%0a"
-
-        strPageContent += u"\
-(:cell align=center:)%0a\
-%25color=blue%25印制机构%25%25%0a\
-(:cell align=center:)%0a"
-        strPageContent += printedBy
-        strPageContent += "%0a"
-
-        strPageContent += u"\
-(:cellnr align=center:)%0a\
-%25color=blue%25原作者%25%25%0a\
-(:cell align=center:)%0a"
-        strPageContent += author
-        strPageContent += "%0a"
-
-        strPageContent += u"\
-(:cell align=center:)%0a\
-%25color=blue%25设计者%25%25%0a\
-(:cell align=center:)%0a"
-        strPageContent += designer
-        strPageContent += "%0a"
-
-        strPageContent += u"\
-(:cellnr align=center:)%0a\
-%25color=blue%25整版枚数%25%25%0a\
-(:cell align=center:)%0a"
-        strPageContent += layout
-        strPageContent += "%0a"
-
-        strPageContent += u"\
-(:cell align=center:)%0a\
-%25color=blue%25参考价格%25%25%0a\
-(:cell align=center:)%0a"
- 
-        strPageContent += "(:tableend:)%0a"
-
-        strPageContent += "----%0a"
-
-
-        # 每枚邮票，从第11列开始
-        strPageContent += u"\
-(:table border=1 width=100%25 align=left bgcolor=#eeeeee cellspacing=0 :)%0a\
-(:cellnr align=center:)%0a\
-%25color=blue%25编号%25%25%0a\
-(:cell align=center:)%0a\
-%25color=blue%25名称%25%25%0a\
-(:cell align=center:)%0a\
-%25color=blue%25面值（元）%25%25%0a\
-(:cell align=center:)%0a\
-%25color=blue%25规格（mm）%25%25%0a\
-(:cell align=center:)%0a\
-%25color=blue%25齿孔度数%25%25%0a\
-(:cell align=center:)%0a\
-%25color=blue%25发行量（万）%25%25%0a"
-
-        stampList = dom.createElement('StampList')
+        stampList = dom.createElement('stampList')
         root.appendChild(stampList)
 
         for iStamp in range(0, int(nSuite)):
@@ -332,56 +216,9 @@ def generalStampsXmlFiles(prefix, excelFile):
             xmlTag.appendChild(xmlTagValue)
             xmlStampTag.appendChild(xmlTag)
             
-            
-            strPageContent += "(:cellnr align=center:)%0a"
-            strPageContent += stampIndex
-            strPageContent += "%0a"
-            strPageContent += "(:cell align=center:)%0a"
-            strPageContent += stampName
-            strPageContent += "%0a"
-            strPageContent += "(:cell align=center:)%0a"
-            strPageContent += stampFaceValue
-            strPageContent += "%0a"
-            strPageContent += "(:cell align=center:)%0a"
-            strPageContent += stampSize
-            strPageContent += "%0a"
-            strPageContent += "(:cell align=center:)%0a"
-            strPageContent += stampPerforation
-            strPageContent += "%0a"
-            strPageContent += "(:cell align=center:)%0a"
-            strPageContent += stampAmount
-            strPageContent += "%0a"
-
-        strPageContent += "(:tableend:)%0a"
-        strPageContent += "----%0a"
-
-        strPageContent += "%25width=560px newwin%25 [[Attach:" + reference + ".jpg | Attach:" + reference + ".jpg]]| [-" + id + " " + name +"-]%0a"
-
-        strPageContent += "----%0a"
-        strPageContent += notes
-        strPageContent += "\n"
-
         # file name
         fileName = "output/Philately."+reference
         
-        strPrePageContent = "version=pmwiki-2.2.6 ordered=1 urlencoded=1%0a\
-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.64 Safari/537.31\n\
-author=\n\
-charset=UTF-8\n\
-csum=\n\
-ctime=1366606162\n\
-host=114.80.140.35\n\
-name=Philately." + reference +"\n" + "\
-rev=1\n\
-targets=\n\
-text="
-
-        strPostPageContent = "time=1366606162\n\
-author:1366606162=\n\
-host:1366606162=114.80.140.35\n"
-
-        generateFile(fileName, strPrePageContent+strPageContent+strPostPageContent)
-
         xmlTag = dom.createElement("extention")
         xmlTagValue = dom.createTextNode("")
         xmlTag.appendChild(xmlTagValue)
@@ -392,15 +229,10 @@ host:1366606162=114.80.140.35\n"
         f.close()
 
 
-
-
-    indexFile.write(indexFileContent)
-    indexFile.close()
-
-generalStampsXmlFiles("C", "C.xls")
-generalStampsXmlFiles("S", "S.xls")
-generalStampsXmlFiles("W", "W.xls")
-generalStampsXmlFiles("N", "N.xls")
-generalStampsXmlFiles("J", "J.xls")
-generalStampsXmlFiles("T", "T.xls")
+generalStampsXmlFiles("C", "xls/C.xls")
+generalStampsXmlFiles("S", "xls/S.xls")
+generalStampsXmlFiles("W", "xls/W.xls")
+generalStampsXmlFiles("N", "xls/N.xls")
+generalStampsXmlFiles("J", "xls/J.xls")
+generalStampsXmlFiles("T", "xls/T.xls")
 

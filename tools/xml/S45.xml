@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>S45</reference>
+  <id>特45</id>
   <name>中国人民革命军事博物馆</name>
   <format>影雕套印</format>
   <nSuite>2</nSuite>
@@ -13,7 +14,7 @@
   <layout>50(5×10)</layout>
   <keyStamps></keyStamps>
   <notes>(2-1)有部分票把编号印错成229(应该是228)。错号票700.0-1500.0元/套。</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>2-1</stampIndex>
       <stampName>军事博物馆前景</stampName>
@@ -30,6 +31,6 @@
       <stampPerforation>P11.5</stampPerforation>
       <stampAmount>300.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

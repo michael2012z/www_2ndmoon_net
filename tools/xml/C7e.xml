@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>C7e</reference>
+  <id>纪7东北贴用原版</id>
   <name>第一届全国邮政会议纪念（东北贴用）</name>
   <format>胶版(无背胶)</format>
   <nSuite>2</nSuite>
@@ -13,7 +14,7 @@
   <layout>50(10×5)</layout>
   <keyStamps>(2-1)180.0-220.0(元/枚)(旧)</keyStamps>
   <notes>下面的发行量为原版票发行量，再版票发行量不详。</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>2-1</stampIndex>
       <stampName>邮筒、交通工具及地图(橙色)</stampName>
@@ -30,6 +31,6 @@
       <stampPerforation>P14/P12.5</stampPerforation>
       <stampAmount>87.5</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>S70</reference>
+  <id>特70</id>
   <name>中国登山运动</name>
   <format>影雕套印</format>
   <nSuite>5</nSuite>
@@ -13,7 +14,7 @@
   <layout>50(10×5)</layout>
   <keyStamps>(5-5)15.0-20.0元/枚(旧)</keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>5-1</stampIndex>
       <stampName>中华全国总工会登山队登上贡嘎山</stampName>
@@ -54,6 +55,6 @@
       <stampPerforation>31×52</stampPerforation>
       <stampAmount>P11.5</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

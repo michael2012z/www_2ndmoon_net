@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>C41</reference>
+  <id>纪41</id>
   <name>中国人民解放军建军三十周年</name>
   <format>雕刻版(无背胶)</format>
   <nSuite>4</nSuite>
@@ -13,7 +14,7 @@
   <layout>63(7×9)</layout>
   <keyStamps>(4-2)4.00-6.00(元/枚)(旧)</keyStamps>
   <notes>原画作者:(1)莫朴、(2)王式廓、(3)彦涵、(4)杨建候。(2)(4)发行通知日期是1957年12月15日，首日实寄封的日期是1957年12月26日。</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>4-1</stampIndex>
       <stampName>南昌起义</stampName>
@@ -46,6 +47,6 @@
       <stampPerforation>P14</stampPerforation>
       <stampAmount>800.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

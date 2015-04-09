@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>S33</reference>
+  <id>特33</id>
   <name>苏联宇宙火箭</name>
   <format>影写版(无背胶)</format>
   <nSuite>1</nSuite>
@@ -13,7 +14,7 @@
   <layout>100(10×10)</layout>
   <keyStamps></keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>1-1</stampIndex>
       <stampName>宇宙火箭在运行</stampName>
@@ -22,6 +23,6 @@
       <stampPerforation>P11.5</stampPerforation>
       <stampAmount>900.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

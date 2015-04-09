@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>C94b</reference>
+  <id>纪94无齿</id>
   <name>梅兰芳舞台艺术（无齿）</name>
   <format>影写版</format>
   <nSuite>8</nSuite>
@@ -13,7 +14,7 @@
   <layout>(8-1)-(8-5)50(10×5)，(8-6)-(8-8)50(5×10)</layout>
   <keyStamps></keyStamps>
   <notes>无齿邮票是一种四周都没有齿孔，专为集邮目的而发行的邮票，一般都会溢价出售给集邮者。本套邮票是中国人民邮政发行的第一套无齿邮票。</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>8-1</stampIndex>
       <stampName>梅兰芳像</stampName>
@@ -78,6 +79,6 @@
       <stampPerforation>P□</stampPerforation>
       <stampAmount>1.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>T44</reference>
+  <id>T44</id>
   <name>齐白石作品选</name>
   <format>影写版</format>
   <nSuite>16</nSuite>
@@ -13,7 +14,7 @@
   <layout>50(10×5)</layout>
   <keyStamps>(16-12)40.0-48.0(元/枚)(旧), (16-15)23.0-35.0(元/枚)(旧), (16-16)13.0-16.0(元/枚)(旧)</keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>16-1</stampIndex>
       <stampName>牡丹</stampName>
@@ -142,6 +143,6 @@
       <stampPerforation>P11.5</stampPerforation>
       <stampAmount>200.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

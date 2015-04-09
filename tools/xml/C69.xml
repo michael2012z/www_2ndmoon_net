@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>C69</reference>
+  <id>纪69</id>
   <name>中华人民共和国成立十周年(第三组)</name>
   <format>影雕套印</format>
   <nSuite>8</nSuite>
@@ -13,7 +14,7 @@
   <layout>50(10×5)</layout>
   <keyStamps></keyStamps>
   <notes>版图绘制：孙传哲</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>8-1</stampIndex>
       <stampName>钢铁工业</stampName>
@@ -78,6 +79,6 @@
       <stampPerforation>P11.5×11</stampPerforation>
       <stampAmount>1000.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

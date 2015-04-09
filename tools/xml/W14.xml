@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>W14</reference>
+  <id>文14</id>
   <name>南京长江大桥胜利建成</name>
   <format>(1)(2)影写版、(3)(4)胶版</format>
   <nSuite>4</nSuite>
@@ -14,7 +15,7 @@
   <keyStamps>(4-1)(4-2)15.0-25.0(元/枚)(旧)</keyStamps>
   <notes>文14发行背景
 　　１９４９年以前，万里长江上没有一座桥梁，中华人民共和国建立后，先后在长江上修建了三座大型铁路公路两用桥。继武汉长江大桥和重庆白沙沱长江大桥之后，又修建了南京长江大桥。南京长江大桥位于江苏省南京市，是中国自行设计、施工及安装的双层钢架桥梁。铁路桥全长６７７２米，公路桥全长４５８９米，行车道宽１５米，两侧人行道各宽２．２５米，１９６０年１月正式动工，１９６８年１０月，铁路桥正式通车；１２月２９日，公路桥正式通车。它的建成将津浦、沪宁铁路接通，可从北京直达上海，进一步加强了我国南北的交通联系，对我国经济发展有很重要的意义。</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>4-1</stampIndex>
       <stampName>铁路桥</stampName>
@@ -47,6 +48,6 @@
       <stampPerforation>P11×11.5</stampPerforation>
       <stampAmount>800.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

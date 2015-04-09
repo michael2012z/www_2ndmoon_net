@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>J41</reference>
+  <id>J41M</id>
   <name>里乔内第31届国际邮票博览会（小型张）</name>
   <format>影写版</format>
   <nSuite>1</nSuite>
@@ -13,7 +14,7 @@
   <layout>140mm×78mm</layout>
   <keyStamps></keyStamps>
   <notes>由T38M小型张加字而成</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>1-1</stampIndex>
       <stampName>万里长城·山海关</stampName>
@@ -22,6 +23,6 @@
       <stampPerforation>P11×11.5</stampPerforation>
       <stampAmount>10.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

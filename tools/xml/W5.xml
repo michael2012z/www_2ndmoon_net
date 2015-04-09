@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>W5</reference>
+  <id>文5</id>
   <name>毛主席的革命文艺路线胜利万岁</name>
   <format>影写版</format>
   <nSuite>9</nSuite>
@@ -16,7 +17,7 @@
 
 文5发行背景：
 　　１９６４年至１９６７年，各地文艺团体创作并演出了一批现代题材的戏剧。这些戏剧在题材和表现手法上都有所创新，影响很大。１９６７年５月至６月，《红灯记》等八个现代戏在北京汇演，随后在全国得到迅速推广。</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>9-1</stampIndex>
       <stampName>文艺队伍</stampName>
@@ -89,6 +90,6 @@
       <stampPerforation>54×40</stampPerforation>
       <stampAmount>P11</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

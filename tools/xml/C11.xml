@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>C11</reference>
+  <id>纪11原版</id>
   <name>鲁迅逝世十五周年</name>
   <format>胶版(无背胶)</format>
   <nSuite>2</nSuite>
@@ -13,7 +14,7 @@
   <layout>50(5×10)，另有25(5×5)</layout>
   <keyStamps></keyStamps>
   <notes>下面的发行量为原版票发行量，再版票发行量不详。</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>2-1</stampIndex>
       <stampName>鲁迅像和诗句（紫色）</stampName>
@@ -30,6 +31,6 @@
       <stampPerforation>P12.5</stampPerforation>
       <stampAmount>400.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>S69</reference>
+  <id>特69</id>
   <name>化学工业</name>
   <format>影雕套印</format>
   <nSuite>8</nSuite>
@@ -13,7 +14,7 @@
   <layout>50(5×10)</layout>
   <keyStamps>(8-5)10.0-15.0元/枚(旧)</keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>8-1</stampIndex>
       <stampName>肥料</stampName>
@@ -78,6 +79,6 @@
       <stampPerforation>52×31</stampPerforation>
       <stampAmount>P11.5</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

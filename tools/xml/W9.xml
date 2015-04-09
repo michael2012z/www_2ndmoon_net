@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>W9</reference>
+  <id>文9</id>
   <name>中国共产党中央委员会主席毛泽东同志支持美国黑人抗暴斗争的声明</name>
   <format>影写版</format>
   <nSuite>1</nSuite>
@@ -16,7 +17,7 @@
 　　从本世纪５０年代中期起，美国黑人连续发动了大规模的反对种族歧视、争取平等权利的斗争。如１９５５年蒙哥马利市黑人抵制公共汽车运动；１９５７年阿肯色州小石城事件；１９６１年自由乘客运动；１９６３年有２５万人参加的向华盛顿“自由进军”。１９６３年８月８日，毛泽东发表了第一个支持美国黑人斗争的声明。
 　　６０年代，　美国黑人的斗争进一步高涨。１９６４年，纽约哈莱姆区黑人的抗暴斗争是大规模黑人抗暴斗争的前奏。１９６５年，黑人抗暴斗争发展到９个城市，１９６６年为３８个城市，１９６７年为１２８个城市，１９６８年４月，一个月内就席卷了美国的１６０多个城市，成为美国一百多年来最严重的国内危机。
 　　１９６８年４月１６日，毛泽东发表了《支持美国黑人抗暴斗争的声明》。</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>1-1</stampIndex>
       <stampName>我们伟大领袖毛主席像及声明最后一段</stampName>
@@ -25,6 +26,6 @@
       <stampPerforation>P11</stampPerforation>
       <stampAmount>1500.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

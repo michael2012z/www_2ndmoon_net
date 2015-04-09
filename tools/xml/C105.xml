@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>C105</reference>
+  <id>纪105</id>
   <name>英勇的越南南方人民必胜</name>
   <format>影写版</format>
   <nSuite>1</nSuite>
@@ -13,7 +14,7 @@
   <layout>50(10×5)</layout>
   <keyStamps></keyStamps>
   <notes>图案提供者：国际工会支援越南南方工人和人民委员会</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>1-1</stampIndex>
       <stampName>地球、越南地图和越南南方民族解放阵线旗帜</stampName>
@@ -22,6 +23,6 @@
       <stampPerforation>P11.5</stampPerforation>
       <stampAmount>500.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

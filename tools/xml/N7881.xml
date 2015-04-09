@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>N7881</reference>
+  <id>N78-81</id>
   <name>工业产品</name>
   <format>影雕套印</format>
   <nSuite>4</nSuite>
@@ -13,7 +14,7 @@
   <layout>(81)35(7×5)，其它35(5×7)</layout>
   <keyStamps>(79)150.0-200.0(元/枚)(旧), (81)320.0-380.0(元/枚)(旧)</keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>78</stampIndex>
       <stampName>双水内冷汽轮发电机组</stampName>
@@ -46,6 +47,6 @@
       <stampPerforation>27×60</stampPerforation>
       <stampAmount>P11</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

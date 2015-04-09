@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>S54</reference>
+  <id>特54</id>
   <name>儿童</name>
   <format>胶版(无背胶)</format>
   <nSuite>12</nSuite>
@@ -13,7 +14,7 @@
   <layout>50(10×5)</layout>
   <keyStamps>(12-11)17.0-25.0(元/枚)(旧), (12-12)12.0-20.0(元/枚)(旧)</keyStamps>
   <notes>(12-8)有&quot;8&quot;漏印一半成&quot;E&quot;的组外品。</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>12-1</stampIndex>
       <stampName>全神贯注</stampName>
@@ -110,6 +111,6 @@
       <stampPerforation>P12.5</stampPerforation>
       <stampAmount>125.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

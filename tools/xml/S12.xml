@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>S12</reference>
+  <id>特12</id>
   <name>新建二十二万伏超高压送电线路（一九五四）</name>
   <format>雕刻版(无背胶)</format>
   <nSuite>1</nSuite>
@@ -13,7 +14,7 @@
   <layout>117(13×9)</layout>
   <keyStamps></keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>1-1</stampIndex>
       <stampName>超高压送电线路</stampName>
@@ -22,6 +23,6 @@
       <stampPerforation>P14</stampPerforation>
       <stampAmount>600.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

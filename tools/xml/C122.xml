@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>C122</reference>
+  <id>纪122</id>
   <name>纪念我们的文化革命先驱－－鲁迅</name>
   <format>(1)(3)影雕套印，(2)影写版</format>
   <nSuite>3</nSuite>
@@ -13,7 +14,7 @@
   <layout>(2)40(10×4)，余50(10×5)</layout>
   <keyStamps></keyStamps>
   <notes>(3-1)(3-3)到1967年3月才上柜销售</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>3-1</stampIndex>
       <stampName>毛主席对鲁迅的评价</stampName>
@@ -38,6 +39,6 @@
       <stampPerforation>P11.5</stampPerforation>
       <stampAmount>600.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

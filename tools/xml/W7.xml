@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>W7</reference>
+  <id>文7</id>
   <name>毛主席诗词</name>
   <format>第一枚为影写版, 其余为影雕套印</format>
   <nSuite>14</nSuite>
@@ -17,7 +18,7 @@
 
 文7相关背景
 　　毛泽东是一位在２０世纪影响过中国和世界历史进程的人物。毛泽东不仅是革命家、战略家和理论家，他还勤奋好学，知识渊博。对中国历史和传统文化有精湛的理解，对中国古典诗词、书法艺术造诣尤深。中国历代丰富的书法艺术是毛泽东研习书法取之不尽的宝库。他青少年时曾临写过晋唐楷书和魏碑，使他有扎实的功底。历代书法中对毛泽东影响较大的是唐代僧人怀素。怀素的书法如笔走龙蛇，飞转圆动，神采飞扬。毛泽东的书法博采众长，气势磅礴，纵横潇洒，斜正呼应，错落有致，一气呵成，成为独具一格的“毛体”书法。毛泽东诗词在中国人民之中广为流传并深受喜爱。</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>14-1</stampIndex>
       <stampName>毛主席在著作</stampName>
@@ -130,6 +131,6 @@
       <stampPerforation>P11.5</stampPerforation>
       <stampAmount>1000.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

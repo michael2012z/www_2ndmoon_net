@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>C2</reference>
+  <id>纪2原版</id>
   <name>中国人民政治协商会议纪念</name>
   <format>雕刻版(无背胶)</format>
   <nSuite>4</nSuite>
@@ -13,7 +14,7 @@
   <layout>(4-1)(4-2)50(10×5)/(4-3)(4-4)50(5×10)</layout>
   <keyStamps>(4-4)80.0-100.0(元/枚)(旧)</keyStamps>
   <notes>下面的发行量为原版票发行量，再版票发行量不详。(4-3)(4-4)天生无厂铭。</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>4-1</stampIndex>
       <stampName>北京新华门及政协会徽(红)</stampName>
@@ -46,6 +47,6 @@
       <stampPerforation>P14</stampPerforation>
       <stampAmount>40.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

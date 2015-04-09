@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>C14</reference>
+  <id>纪14</id>
   <name>国际保卫儿童会议</name>
   <format>胶版(无背胶)</format>
   <nSuite>2</nSuite>
@@ -13,7 +14,7 @@
   <layout>90(9×10)，另有132(12×11)</layout>
   <keyStamps></keyStamps>
   <notes>特殊齿度：(2-1)有上边P14或上下边P14。(2-2)有上边P14或下边P14。</notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>2-1</stampIndex>
       <stampName>旗帜、母亲的手及儿童(绿)</stampName>
@@ -30,6 +31,6 @@
       <stampPerforation>P12.5</stampPerforation>
       <stampAmount>1600.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>

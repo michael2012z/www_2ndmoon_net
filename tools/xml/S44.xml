@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Record>
+<record>
   <reference>S44</reference>
+  <id>特44</id>
   <name>菊花</name>
   <format>影写版</format>
   <nSuite>18</nSuite>
@@ -13,7 +14,7 @@
   <layout>50(10×5)</layout>
   <keyStamps>(18-13)100-150(元/枚)(旧), (18-14)90-130(元/枚)(旧), (18-15)40-60(元/枚)(旧), (18-16)40-60(元/枚)(旧), (18-18)100-130(元/枚)(旧)</keyStamps>
   <notes></notes>
-  <StampList>
+  <stampList>
     <stamp>
       <stampIndex>18-1</stampIndex>
       <stampName>黄十八(1961.2.24)</stampName>
@@ -158,6 +159,6 @@
       <stampPerforation>P11.5×11</stampPerforation>
       <stampAmount>150.0</stampAmount>
     </stamp>
-  </StampList>
+  </stampList>
   <extention></extention>
-</Record>
+</record>
