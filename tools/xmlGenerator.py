@@ -19,12 +19,6 @@ def getIndex(id):
 
 def generalStampsXmlFiles(prefix, excelFile):
     #print "generalStampsXmlFiles: " + prefix
-
-    # 目录文件
-    indexFileName = "content."+prefix+".txt"
-    indexFile = codecs.open(indexFileName,'w','utf-16')
-    indexFileContent = u"|| border=1 width=100%\n||! 志号 ||! 名称 ||\n"
-
     workbook = xlrd.open_workbook(excelFile)
     nSheets = workbook.nsheets
     # go through each sheet/stamp
