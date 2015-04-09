@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>C7r</reference>
+  <name>第一届全国邮政会议纪念</name>
+  <format>胶版(无背胶)</format>
+  <nSuite>2</nSuite>
+  <issueDate>1955-1-10(再版)</issueDate>
+  <faceValue>1200圆(旧币)</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>上海市印刷一厂(再版)</printedBy>
+  <author></author>
+  <designer>孙传哲</designer>
+  <layout>50(10×5)</layout>
+  <keyStamps></keyStamps>
+  <notes>下面的发行量为原版票发行量，再版票发行量不详。</notes>
+  <StampList>
+    <stamp>
+      <stampIndex>2-1</stampIndex>
+      <stampName>邮筒、交通工具及地图(橙色)</stampName>
+      <stampFaceValue>400.0</stampFaceValue>
+      <stampSize>29×29</stampSize>
+      <stampPerforation>P14/P12.5</stampPerforation>
+      <stampAmount>105.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>2-2</stampIndex>
+      <stampName>邮筒、交通工具及地图(绿色)</stampName>
+      <stampFaceValue>800.0</stampFaceValue>
+      <stampSize>29×29</stampSize>
+      <stampPerforation>P14/P12.5</stampPerforation>
+      <stampAmount>237.5</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

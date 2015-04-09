@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>C104</reference>
+  <name>全世界无产者联合起来</name>
+  <format>影雕套印</format>
+  <nSuite>2</nSuite>
+  <issueDate>1964-05-01</issueDate>
+  <faceValue>0.16元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京邮票厂</printedBy>
+  <author>唐霖坤,高品璋,孔绍惠,孙鸿年</author>
+  <designer>王维生</designer>
+  <layout>50(5×10)</layout>
+  <keyStamps></keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>2-1</stampIndex>
+      <stampName>马恩列斯头像</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>52×31</stampSize>
+      <stampPerforation>P11.5</stampPerforation>
+      <stampAmount>500.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>2-2</stampIndex>
+      <stampName>全世界无产者联合起来</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>52×31</stampSize>
+      <stampPerforation>P11.5</stampPerforation>
+      <stampAmount>500.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

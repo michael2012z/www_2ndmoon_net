@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>C55</reference>
+  <name>全国工业交通展览会</name>
+  <format>雕刻版(无背胶)</format>
+  <nSuite>3</nSuite>
+  <issueDate>1958-10-01</issueDate>
+  <faceValue>0.24元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京人民印刷厂</printedBy>
+  <author>孙经涌、孙鸿年、高品璋</author>
+  <designer>刘硕仁、吴建坤</designer>
+  <layout>100(10×10)</layout>
+  <keyStamps></keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>3-1</stampIndex>
+      <stampName>社会主义建设总路线</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>31×27</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>1000.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-2</stampIndex>
+      <stampName>力争上游</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>31×27</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>1000.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-3</stampIndex>
+      <stampName>生产大跃进</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>31×27</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>800.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

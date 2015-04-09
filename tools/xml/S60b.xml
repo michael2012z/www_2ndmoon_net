@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>S60b</reference>
+  <name>金丝猴（无齿）</name>
+  <format>影写版</format>
+  <nSuite>3</nSuite>
+  <issueDate>1963-09-25</issueDate>
+  <faceValue>0.40元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京邮票厂</printedBy>
+  <author>刘继卣</author>
+  <designer>孙传哲</designer>
+  <layout>50(10×5)</layout>
+  <keyStamps></keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>3-1</stampIndex>
+      <stampName>金丝猴</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>0.12</stampSize>
+      <stampPerforation>30×40</stampPerforation>
+      <stampAmount>P□</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-2</stampIndex>
+      <stampName>金丝猴</stampName>
+      <stampFaceValue>0.1</stampFaceValue>
+      <stampSize>0.15</stampSize>
+      <stampPerforation>30×40</stampPerforation>
+      <stampAmount>P□</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-3</stampIndex>
+      <stampName>金丝猴</stampName>
+      <stampFaceValue>0.22</stampFaceValue>
+      <stampSize>0.33</stampSize>
+      <stampPerforation>30×40</stampPerforation>
+      <stampAmount>P□</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>C47</reference>
+  <name>人民英雄纪念碑</name>
+  <format>雕刻版(无背胶)</format>
+  <nSuite>1</nSuite>
+  <issueDate>1958-05-01</issueDate>
+  <faceValue>0.08元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京人民印刷厂营业分厂</printedBy>
+  <author>孔绍惠</author>
+  <designer>孙传哲</designer>
+  <layout>90(9×10)</layout>
+  <keyStamps></keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>1-1</stampIndex>
+      <stampName>人民英雄纪念碑</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>35×27.5</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>800.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

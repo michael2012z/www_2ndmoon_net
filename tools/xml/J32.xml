@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>J32</reference>
+  <name>中国共产主义青年团第十次全国代表大会</name>
+  <format>影写版</format>
+  <nSuite>1</nSuite>
+  <issueDate>1978-10-16</issueDate>
+  <faceValue>0.08元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京邮票厂</printedBy>
+  <author></author>
+  <designer>邓锡清</designer>
+  <layout>50(5×10)</layout>
+  <keyStamps></keyStamps>
+  <notes>此套邮票天生无厂铭。</notes>
+  <StampList>
+    <stamp>
+      <stampIndex>1-1</stampIndex>
+      <stampName>共青团团徽等</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>40×30</stampSize>
+      <stampPerforation>P11×11.5</stampPerforation>
+      <stampAmount>1500.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

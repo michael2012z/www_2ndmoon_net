@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>C37</reference>
+  <name>中国共产党第八次全国代表大会</name>
+  <format>雕刻版(无背胶)</format>
+  <nSuite>3</nSuite>
+  <issueDate>1956-11-10</issueDate>
+  <faceValue>0.28元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>中国近代印刷公司</printedBy>
+  <author>孔绍惠</author>
+  <designer>周令钊、钟灵、陈若菊</designer>
+  <layout>88(11×8)</layout>
+  <keyStamps></keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>3-1</stampIndex>
+      <stampName>天安门和花卉边饰</stampName>
+      <stampFaceValue>0.04</stampFaceValue>
+      <stampSize>25×36.5</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>1500.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-2</stampIndex>
+      <stampName>天安门和花卉边饰</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>25×36.5</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>2200.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-3</stampIndex>
+      <stampName>天安门和花卉边饰</stampName>
+      <stampFaceValue>0.16</stampFaceValue>
+      <stampSize>25×36.5</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>1282.4</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

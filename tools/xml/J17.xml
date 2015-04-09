@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>J17</reference>
+  <name>罗马尼亚独立一百周年</name>
+  <format>影写版</format>
+  <nSuite>3</nSuite>
+  <issueDate>1977-05-09</issueDate>
+  <faceValue>0.38元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京邮票厂</printedBy>
+  <author>(3-2)尼·格里高莱斯库</author>
+  <designer>吴建坤</designer>
+  <layout>56(8×7)</layout>
+  <keyStamps>(3-1)6.00-9.00(元/枚)(旧)</keyStamps>
+  <notes>J17左铭全品票非常难得，市场价格可达1000元以上，左铭方联曾经达到3650元的高价。此套票的厂铭票属于JT“厂铭十珍”之一。</notes>
+  <StampList>
+    <stamp>
+      <stampIndex>3-1</stampIndex>
+      <stampName>罗马尼亚独立节</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>27×40</stampSize>
+      <stampPerforation>P11</stampPerforation>
+      <stampAmount>560.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-2</stampIndex>
+      <stampName>勇士们向敌人冲锋</stampName>
+      <stampFaceValue>0.1</stampFaceValue>
+      <stampSize>27×40</stampSize>
+      <stampPerforation>P11</stampPerforation>
+      <stampAmount>560.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-3</stampIndex>
+      <stampName>勇敢的米哈伊</stampName>
+      <stampFaceValue>0.2</stampFaceValue>
+      <stampSize>27×40</stampSize>
+      <stampPerforation>P11</stampPerforation>
+      <stampAmount>560.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>C26</reference>
+  <name>乌·伊·列宁逝世三十周年纪念</name>
+  <format>雕刻版(无背胶)</format>
+  <nSuite>3</nSuite>
+  <issueDate>1954-06-30</issueDate>
+  <faceValue>3200圆(旧币)</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京人民印刷厂营业分厂</printedBy>
+  <author>(1)孔绍惠、(2)(3)唐霖坤</author>
+  <designer>刘硕仁</designer>
+  <layout>(3-3)99(9×11)，余88(11×8)</layout>
+  <keyStamps>(3-2)4.00-6.00(元/枚)(旧)</keyStamps>
+  <notes>摄影者：(1)奥楚普[苏联]。原作者：(2)基布里克、(3)弗·宾朱克[苏联]、列·陶利特[苏联]</notes>
+  <StampList>
+    <stamp>
+      <stampIndex>3-1</stampIndex>
+      <stampName>列宁遗像</stampName>
+      <stampFaceValue>800.0</stampFaceValue>
+      <stampSize>25×38</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>1000.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-2</stampIndex>
+      <stampName>全部政权归苏维埃</stampName>
+      <stampFaceValue>2000.0</stampFaceValue>
+      <stampSize>25×38</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>600.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-3</stampIndex>
+      <stampName>列宁和斯大林在哥尔克</stampName>
+      <stampFaceValue>400.0</stampFaceValue>
+      <stampSize>34×25</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>500.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

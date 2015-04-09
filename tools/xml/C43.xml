@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>C43</reference>
+  <name>武汉长江大桥</name>
+  <format>雕刻版(无背胶)</format>
+  <nSuite>2</nSuite>
+  <issueDate>1957-10-01</issueDate>
+  <faceValue>0.28元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>中国近代印刷公司</printedBy>
+  <author>孔绍惠、鞠文俊</author>
+  <designer>卢天骄</designer>
+  <layout>96(8×12)</layout>
+  <keyStamps></keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>2-1</stampIndex>
+      <stampName>武汉长江大桥(侧景)</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>39×22</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>1000.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>2-2</stampIndex>
+      <stampName>武汉长江大桥(鸟瞰)</stampName>
+      <stampFaceValue>0.2</stampFaceValue>
+      <stampSize>39×22</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>700.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

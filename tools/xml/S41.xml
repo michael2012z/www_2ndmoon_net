@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>S41</reference>
+  <name>人民大会堂</name>
+  <format>影写版</format>
+  <nSuite>2</nSuite>
+  <issueDate>1960-10-01</issueDate>
+  <faceValue>0.18元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京邮票厂</printedBy>
+  <author></author>
+  <designer>万维生</designer>
+  <layout>50(5×10)</layout>
+  <keyStamps>(2-2)20.00-30.00(元/枚)(旧)</keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>2-1</stampIndex>
+      <stampName>人民大会堂前景</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>52×31</stampSize>
+      <stampPerforation>P11.5</stampPerforation>
+      <stampAmount>540.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>2-2</stampIndex>
+      <stampName>大礼堂</stampName>
+      <stampFaceValue>0.1</stampFaceValue>
+      <stampSize>52×31</stampSize>
+      <stampPerforation>P11.5</stampPerforation>
+      <stampAmount>240.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

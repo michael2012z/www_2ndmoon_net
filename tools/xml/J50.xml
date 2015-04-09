@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>J50</reference>
+  <name>诺尔曼·白求恩逝世四十周年</name>
+  <format>影写版</format>
+  <nSuite>2</nSuite>
+  <issueDate>1979-11-12</issueDate>
+  <faceValue>0.78元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京邮票厂</printedBy>
+  <author>司徒杰(雕塑)、吴印咸(摄影)</author>
+  <designer>任宇</designer>
+  <layout>50(10×5)</layout>
+  <keyStamps>(2-1)5.00-7.00(元/枚)(旧)</keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>2-1</stampIndex>
+      <stampName>永垂不朽</stampName>
+      <stampFaceValue>0.7</stampFaceValue>
+      <stampSize>30×40</stampSize>
+      <stampPerforation>P11.5×11</stampPerforation>
+      <stampAmount>150.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>2-2</stampIndex>
+      <stampName>鞠躬尽瘁</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>30×40</stampSize>
+      <stampPerforation>P11.5×11</stampPerforation>
+      <stampAmount>750.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

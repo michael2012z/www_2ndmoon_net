@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>C30</reference>
+  <name>中华人民共和国宪法</name>
+  <format>胶雕套印(无背胶)</format>
+  <nSuite>2</nSuite>
+  <issueDate>1954-12-30</issueDate>
+  <faceValue>1200圆(旧币)</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京人民印刷厂营业分厂</printedBy>
+  <author>唐霖坤</author>
+  <designer>邵柏林</designer>
+  <layout>60(6×10)</layout>
+  <keyStamps></keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>2-1</stampIndex>
+      <stampName>工农与宪法（棕色）</stampName>
+      <stampFaceValue>400.0</stampFaceValue>
+      <stampSize>45×30</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>800.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>2-2</stampIndex>
+      <stampName>工农与宪法（红色）</stampName>
+      <stampFaceValue>800.0</stampFaceValue>
+      <stampSize>45×30</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>1000.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

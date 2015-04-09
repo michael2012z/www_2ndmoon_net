@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>J1</reference>
+  <name>万国邮政联盟成立一百周年</name>
+  <format>影写版</format>
+  <nSuite>3</nSuite>
+  <issueDate>1974-05-15</issueDate>
+  <faceValue>0.24元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京邮票厂</printedBy>
+  <author></author>
+  <designer>杨白子、叶武林、邓锡清</designer>
+  <layout>35(5×7)</layout>
+  <keyStamps>(3-1)20.0-25.0(元/枚), (3-3)18.0-22.0(元/枚)</keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>3-1</stampIndex>
+      <stampName>人民邮递员</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>60×27</stampSize>
+      <stampPerforation>P11</stampPerforation>
+      <stampAmount>1000.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-2</stampIndex>
+      <stampName>团结和友谊</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>60×27</stampSize>
+      <stampPerforation>P11</stampPerforation>
+      <stampAmount>1000.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-3</stampIndex>
+      <stampName>万里长城</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>60×27</stampSize>
+      <stampPerforation>P11</stampPerforation>
+      <stampAmount>1000.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

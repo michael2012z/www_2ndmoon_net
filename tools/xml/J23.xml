@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>J23</reference>
+  <name>中国共产党第十一次全国代表大会</name>
+  <format>影写版</format>
+  <nSuite>3</nSuite>
+  <issueDate>1977-08-22</issueDate>
+  <faceValue>0.24元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京邮票厂</printedBy>
+  <author></author>
+  <designer>万维生</designer>
+  <layout>25(5×5)</layout>
+  <keyStamps></keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>3-1</stampIndex>
+      <stampName>热烈庆祝党的十一大胜利召开</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>60×40</stampSize>
+      <stampPerforation>P11.5×11</stampPerforation>
+      <stampAmount>625.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-2</stampIndex>
+      <stampName>永远高举毛主席的伟大旗帜</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>60×40</stampSize>
+      <stampPerforation>P11.5×11</stampPerforation>
+      <stampAmount>625.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-3</stampIndex>
+      <stampName>伟大的、光荣的、正确的中国共产党万岁</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>60×40</stampSize>
+      <stampPerforation>P11.5×11</stampPerforation>
+      <stampAmount>625.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

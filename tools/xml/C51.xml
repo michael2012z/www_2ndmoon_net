@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>C51</reference>
+  <name>共产党宣言发表一百一十周年</name>
+  <format>雕刻版(无背胶)</format>
+  <nSuite>2</nSuite>
+  <issueDate>1958-07-01</issueDate>
+  <faceValue>0.12元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>中国近代印刷公司</printedBy>
+  <author>孔绍惠</author>
+  <designer>孙传哲</designer>
+  <layout>80(10×8)</layout>
+  <keyStamps></keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>2-1</stampIndex>
+      <stampName>马克思恩格斯像</stampName>
+      <stampFaceValue>0.04</stampFaceValue>
+      <stampSize>26.5×38.5</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>400.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>2-2</stampIndex>
+      <stampName>《共产党宣言》德文版封面</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>26.5×38.5</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>800.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>T57</reference>
+  <name>白鱀豚</name>
+  <format>影雕套印</format>
+  <nSuite>2</nSuite>
+  <issueDate>1980-12-25</issueDate>
+  <faceValue>0.68元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京邮票厂</printedBy>
+  <author>李庆发、姜伟杰</author>
+  <designer>刘硕仁</designer>
+  <layout>20(5×4)</layout>
+  <keyStamps>(2-2)25.00-28.00(元/枚)(旧)</keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>2-1</stampIndex>
+      <stampName>悠然自得</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>40×30</stampSize>
+      <stampPerforation>P11×11.5</stampPerforation>
+      <stampAmount>1200.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>2-2</stampIndex>
+      <stampName>环游潜底</stampName>
+      <stampFaceValue>0.6</stampFaceValue>
+      <stampSize>40×30</stampSize>
+      <stampPerforation>P11×11.5</stampPerforation>
+      <stampAmount>150.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

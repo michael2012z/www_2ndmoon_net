@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>C83</reference>
+  <name>庆祝越南民主共和国成立十五周年</name>
+  <format>影写版</format>
+  <nSuite>2</nSuite>
+  <issueDate>1960-09-02</issueDate>
+  <faceValue>0.16元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京邮票厂</printedBy>
+  <author></author>
+  <designer>刘硕仁</designer>
+  <layout>(1)50(5×10),(2)50(10×5)</layout>
+  <keyStamps>(2-1)10.00-13.00(元/枚)(旧)</keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>2-1</stampIndex>
+      <stampName>中越友好</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>40×30</stampSize>
+      <stampPerforation>P11×11.5</stampPerforation>
+      <stampAmount>540.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>2-2</stampIndex>
+      <stampName>还剑湖</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>30×40</stampSize>
+      <stampPerforation>P11.5×11</stampPerforation>
+      <stampAmount>540.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

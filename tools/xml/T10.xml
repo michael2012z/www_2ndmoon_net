@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>T10</reference>
+  <name>女民兵</name>
+  <format>影写版</format>
+  <nSuite>3</nSuite>
+  <issueDate>1977-03-08</issueDate>
+  <faceValue>0.24元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京邮票厂</printedBy>
+  <author>1)赵淑钦,2)杨刚,3)刘三多/伍振权</author>
+  <designer>刘硕仁</designer>
+  <layout>40(4×10)</layout>
+  <keyStamps>(3-3)20.0-26.0(元/枚)(旧)</keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>3-1</stampIndex>
+      <stampName>我们都是神枪手</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>52×31</stampSize>
+      <stampPerforation>P11.5</stampPerforation>
+      <stampAmount>500.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-2</stampIndex>
+      <stampName>打靶归来</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>52×31</stampSize>
+      <stampPerforation>P11.5</stampPerforation>
+      <stampAmount>500.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-3</stampIndex>
+      <stampName>地下长城</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>52×31</stampSize>
+      <stampPerforation>P11.5</stampPerforation>
+      <stampAmount>500.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

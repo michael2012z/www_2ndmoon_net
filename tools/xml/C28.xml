@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>C28</reference>
+  <name>北京苏联经济及文化建设成就展览会开幕纪念</name>
+  <format>雕刻版(无背胶)</format>
+  <nSuite>1</nSuite>
+  <issueDate>1954-11-07</issueDate>
+  <faceValue>800圆(旧币)</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京人民印刷厂营业分厂</printedBy>
+  <author>孔绍惠</author>
+  <designer>刘硕仁</designer>
+  <layout>66(6×11)</layout>
+  <keyStamps></keyStamps>
+  <notes>票幅还有54×24mm、53.5×24mm、53×25mm、52.5×24.5mm、52×24.5mm。</notes>
+  <StampList>
+    <stamp>
+      <stampIndex>1-1</stampIndex>
+      <stampName>苏联展览馆(北京)</stampName>
+      <stampFaceValue>800.0</stampFaceValue>
+      <stampSize>54.5×24.5</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>500.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>C81</reference>
+  <name>中国文学艺术工作者第三次代表大会</name>
+  <format>(2-1)影写版、(2-2)影雕套印</format>
+  <nSuite>2</nSuite>
+  <issueDate>1960-07-30</issueDate>
+  <faceValue>0.12元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京邮票厂</printedBy>
+  <author>(2-2)唐霖坤</author>
+  <designer>钟灵、邵柏林、周令钊、陈若菊</designer>
+  <layout>50(10×5)</layout>
+  <keyStamps></keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>2-1</stampIndex>
+      <stampName>文艺为工农兵服务</stampName>
+      <stampFaceValue>0.04</stampFaceValue>
+      <stampSize>30×40</stampSize>
+      <stampPerforation>P11.5×11</stampPerforation>
+      <stampAmount>300.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>2-2</stampIndex>
+      <stampName>百花齐放，百花争鸣</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>30×40</stampSize>
+      <stampPerforation>P11.5×11</stampPerforation>
+      <stampAmount>540.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

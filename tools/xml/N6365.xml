@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>N6365</reference>
+  <name>中国妇女</name>
+  <format>影写版</format>
+  <nSuite>3</nSuite>
+  <issueDate>1973-03-08</issueDate>
+  <faceValue>0.24元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京邮票厂</printedBy>
+  <author>杨之光/汤小铭/潘家峻</author>
+  <designer>张源、杨白子</designer>
+  <layout>50(10×5)</layout>
+  <keyStamps></keyStamps>
+  <notes>(65)号邮票的原绘画作品名称为《我是海燕》。(63)旧票比其它两枚稍少。</notes>
+  <StampList>
+    <stamp>
+      <stampIndex>63</stampIndex>
+      <stampName>矿山新兵</stampName>
+      <stampFaceValue>杨之光</stampFaceValue>
+      <stampSize>0.08</stampSize>
+      <stampPerforation>30×40</stampPerforation>
+      <stampAmount>P11.5×11</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>64</stampIndex>
+      <stampName>女委员</stampName>
+      <stampFaceValue>汤小铭</stampFaceValue>
+      <stampSize>0.08</stampSize>
+      <stampPerforation>30×40</stampPerforation>
+      <stampAmount>P11.5×11</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>65</stampIndex>
+      <stampName>海燕</stampName>
+      <stampFaceValue>潘家峻</stampFaceValue>
+      <stampSize>0.08</stampSize>
+      <stampPerforation>30×40</stampPerforation>
+      <stampAmount>P11.5×11</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

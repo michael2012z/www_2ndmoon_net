@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>C70</reference>
+  <name>中华人民共和国成立十周年(第四组)</name>
+  <format>胶版(无背胶)</format>
+  <nSuite>3</nSuite>
+  <issueDate>1959-10-01</issueDate>
+  <faceValue>0.38元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京人民印刷厂</printedBy>
+  <author></author>
+  <designer>周令钊</designer>
+  <layout>(1)20(4×5)/(2)(3)20(5×4)</layout>
+  <keyStamps>(3-3)15.00-20.00(元/枚)(旧)</keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>3-1</stampIndex>
+      <stampName>举国欢庆</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>43×31</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>1000.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-2</stampIndex>
+      <stampName>举国欢庆</stampName>
+      <stampFaceValue>0.1</stampFaceValue>
+      <stampSize>31×42</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>400.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-3</stampIndex>
+      <stampName>举国欢庆</stampName>
+      <stampFaceValue>0.2</stampFaceValue>
+      <stampSize>31×42</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>250.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

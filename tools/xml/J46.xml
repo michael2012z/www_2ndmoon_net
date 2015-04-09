@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>J46</reference>
+  <name>中华人民共和国成立三十周年（第三组）</name>
+  <format>影雕套印</format>
+  <nSuite>1</nSuite>
+  <issueDate>1979-10-01</issueDate>
+  <faceValue>0.08元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京邮票厂</printedBy>
+  <author></author>
+  <designer>万维生</designer>
+  <layout>28(7×4)</layout>
+  <keyStamps></keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>1-1</stampIndex>
+      <stampName>国歌</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>40×54</stampSize>
+      <stampPerforation>P11</stampPerforation>
+      <stampAmount>840.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>C85</reference>
+  <name>巴黎公社九十周年</name>
+  <format>影雕套印</format>
+  <nSuite>2</nSuite>
+  <issueDate>1961-03-18</issueDate>
+  <faceValue>0.16元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京邮票厂</printedBy>
+  <author>唐霖坤、高品璋、孙鸿年</author>
+  <designer>李为</designer>
+  <layout>50(10×5)</layout>
+  <keyStamps></keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>2-1</stampIndex>
+      <stampName>在哲人堂升起红旗</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>30×40</stampSize>
+      <stampPerforation>P11.5×11</stampPerforation>
+      <stampAmount>275.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>2-2</stampIndex>
+      <stampName>宣布公社成立</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>30×40</stampSize>
+      <stampPerforation>P11.5×11</stampPerforation>
+      <stampAmount>275.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

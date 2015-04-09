@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>C80</reference>
+  <name>恩格斯诞生一四零周年</name>
+  <format>(2-1)雕刻版、(2-2)影写版</format>
+  <nSuite>2</nSuite>
+  <issueDate>1960-11-28</issueDate>
+  <faceValue>0.18元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京邮票厂</printedBy>
+  <author>(2-1)孔绍惠</author>
+  <designer>卢天骄</designer>
+  <layout>40(10×4)</layout>
+  <keyStamps>(2-2)14.00-18.00(元/枚)(旧)</keyStamps>
+  <notes>原画作者：茹可夫[苏联]</notes>
+  <StampList>
+    <stamp>
+      <stampIndex>2-1</stampIndex>
+      <stampName>恩格斯在演讲</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>30×40</stampSize>
+      <stampPerforation>P11.5×11</stampPerforation>
+      <stampAmount>640.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>2-2</stampIndex>
+      <stampName>恩格斯像</stampName>
+      <stampFaceValue>0.1</stampFaceValue>
+      <stampSize>30×40</stampSize>
+      <stampPerforation>P11.5×11</stampPerforation>
+      <stampAmount>250.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>C54</reference>
+  <name>国际学联第五届代表大会</name>
+  <format>雕刻版(无背胶)</format>
+  <nSuite>2</nSuite>
+  <issueDate>1958-09-04</issueDate>
+  <faceValue>0.30元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京人民印刷厂</printedBy>
+  <author>北京人民印刷厂</author>
+  <designer>刘硕仁</designer>
+  <layout>120(12×10)</layout>
+  <keyStamps>(2-2)5.00-8.00(元/枚)(旧)</keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>2-1</stampIndex>
+      <stampName>学联第五届代表大会会徽(紫)</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>21×30</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>800.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>2-2</stampIndex>
+      <stampName>学联第五届代表大会会徽(绿)</stampName>
+      <stampFaceValue>0.22</stampFaceValue>
+      <stampSize>21×30</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>300.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

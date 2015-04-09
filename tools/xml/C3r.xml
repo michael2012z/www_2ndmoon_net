@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>C3r</reference>
+  <name>世界工联亚洲澳洲工会会议纪念</name>
+  <format>胶版(无背胶)</format>
+  <nSuite>3</nSuite>
+  <issueDate>1955-1-10(再版)</issueDate>
+  <faceValue>800圆(旧币)</faceValue>
+  <issuedBy>邮电部(再版)</issuedBy>
+  <printedBy>再版：上海市印刷一厂</printedBy>
+  <author>孙传哲</author>
+  <designer>曹必慧、王润丰</designer>
+  <layout>100(10×10)</layout>
+  <keyStamps>(3-3)50.0-70.0(元/枚)(旧)</keyStamps>
+  <notes>下面的发行量为原版票发行量，再版票发行量不详。</notes>
+  <StampList>
+    <stamp>
+      <stampIndex>3-1</stampIndex>
+      <stampName>地球和紧握铁锤的手(红)</stampName>
+      <stampFaceValue>100.0</stampFaceValue>
+      <stampSize>22×30.5</stampSize>
+      <stampPerforation>P12.5</stampPerforation>
+      <stampAmount>150.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-2</stampIndex>
+      <stampName>地球和紧握铁锤的手(绿)</stampName>
+      <stampFaceValue>300.0</stampFaceValue>
+      <stampSize>22×30.5</stampSize>
+      <stampPerforation>P12.5</stampPerforation>
+      <stampAmount>100.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-3</stampIndex>
+      <stampName>地球和紧握铁锤的手(蓝)</stampName>
+      <stampFaceValue>500.0</stampFaceValue>
+      <stampSize>22×30.5</stampSize>
+      <stampPerforation>P12.5</stampPerforation>
+      <stampAmount>50.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

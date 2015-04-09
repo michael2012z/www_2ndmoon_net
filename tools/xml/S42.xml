@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>S42</reference>
+  <name>北京铁路车站</name>
+  <format>影写版</format>
+  <nSuite>2</nSuite>
+  <issueDate>1960-08-30</issueDate>
+  <faceValue>0.18元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京邮票厂</printedBy>
+  <author></author>
+  <designer>刘硕仁</designer>
+  <layout>50(5×10)</layout>
+  <keyStamps>(2-2)20.00-30.00(元/枚)(旧)</keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>2-1</stampIndex>
+      <stampName>车站正面全景</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>52×31</stampSize>
+      <stampPerforation>P11.5</stampPerforation>
+      <stampAmount>500.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>2-2</stampIndex>
+      <stampName>站台</stampName>
+      <stampFaceValue>0.1</stampFaceValue>
+      <stampSize>52×31</stampSize>
+      <stampPerforation>P11.5</stampPerforation>
+      <stampAmount>200.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

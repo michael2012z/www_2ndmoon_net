@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>C40</reference>
+  <name>我国自制汽车出厂纪念</name>
+  <format>雕刻版(无背胶)</format>
+  <nSuite>2</nSuite>
+  <issueDate>1957-05-01</issueDate>
+  <faceValue>0.12元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>中国近代印刷公司</printedBy>
+  <author>唐霖坤、孔绍惠</author>
+  <designer>刘硕仁</designer>
+  <layout>91(7×13)</layout>
+  <keyStamps></keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>2-1</stampIndex>
+      <stampName>厂房外景</stampName>
+      <stampFaceValue>0.04</stampFaceValue>
+      <stampSize>43×19</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>600.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>2-2</stampIndex>
+      <stampName>总装配车间</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>43×19</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>800.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>J39</reference>
+  <name>中国文艺工作者第四次代表大会</name>
+  <format>影写版</format>
+  <nSuite>2</nSuite>
+  <issueDate>1979-10-30</issueDate>
+  <faceValue>0.12元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京邮票厂</printedBy>
+  <author></author>
+  <designer>刘硕仁</designer>
+  <layout>50(5×10)</layout>
+  <keyStamps></keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>2-1</stampIndex>
+      <stampName>文艺的春天</stampName>
+      <stampFaceValue>0.04</stampFaceValue>
+      <stampSize>40×30</stampSize>
+      <stampPerforation>P11×11.5</stampPerforation>
+      <stampAmount>1000.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>2-2</stampIndex>
+      <stampName>百花齐放，百花争鸣</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>40×30</stampSize>
+      <stampPerforation>P11×11.5</stampPerforation>
+      <stampAmount>1250.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

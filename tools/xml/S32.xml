@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>S32</reference>
+  <name>中国制造第一艘万吨远洋货轮</name>
+  <format>影写版(无背胶)</format>
+  <nSuite>1</nSuite>
+  <issueDate>1960-12-15</issueDate>
+  <faceValue>0.08元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京邮票厂</printedBy>
+  <author></author>
+  <designer>孙传哲</designer>
+  <layout>100(10×10)</layout>
+  <keyStamps></keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>1-1</stampIndex>
+      <stampName>远洋货轮</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>26×31</stampSize>
+      <stampPerforation>P11.5</stampPerforation>
+      <stampAmount>900.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

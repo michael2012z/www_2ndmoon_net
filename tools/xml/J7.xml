@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>J7</reference>
+  <name>全国农业学大寨会议</name>
+  <format>影写版</format>
+  <nSuite>3</nSuite>
+  <issueDate>1975-10-13</issueDate>
+  <faceValue>0.24元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京邮票厂</printedBy>
+  <author></author>
+  <designer>李印清</designer>
+  <layout>40(4×10)</layout>
+  <keyStamps></keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>3-1</stampIndex>
+      <stampName>学理论，抓路线，掀起农业学大寨新高潮</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>52×31</stampSize>
+      <stampPerforation>P11.5</stampPerforation>
+      <stampAmount>800.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-2</stampIndex>
+      <stampName>抓革命，促大干，走大寨道路</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>52×31</stampSize>
+      <stampPerforation>P11.5</stampPerforation>
+      <stampAmount>800.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-3</stampIndex>
+      <stampName>大寨精神结硕果</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>52×31</stampSize>
+      <stampPerforation>P11.5</stampPerforation>
+      <stampAmount>800.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

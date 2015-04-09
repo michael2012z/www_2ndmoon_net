@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>J3</reference>
+  <name>中华人民共和国成立二十五周年(第二组)</name>
+  <format>影写版</format>
+  <nSuite>3</nSuite>
+  <issueDate>1974-10-01</issueDate>
+  <faceValue>0.24元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京邮票厂</printedBy>
+  <author></author>
+  <designer>叶武林、万维生、杨白子</designer>
+  <layout>50(10×5)，横3枚连印</layout>
+  <keyStamps></keyStamps>
+  <notes>整张由15个横3连加5个(3-1)组成，因此(3-1)比其它票多1/3。</notes>
+  <StampList>
+    <stamp>
+      <stampIndex>3-1</stampIndex>
+      <stampName>工业学大庆</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>30×40</stampSize>
+      <stampPerforation>P11.5×11</stampPerforation>
+      <stampAmount>650.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-2</stampIndex>
+      <stampName>农业学大寨</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>30×40</stampSize>
+      <stampPerforation>P11.5×11</stampPerforation>
+      <stampAmount>500.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-3</stampIndex>
+      <stampName>神圣领土不容侵犯</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>30×40</stampSize>
+      <stampPerforation>P11.5×11</stampPerforation>
+      <stampAmount>500.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

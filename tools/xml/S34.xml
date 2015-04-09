@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>S34</reference>
+  <name>首都机场</name>
+  <format>胶雕套印(无背胶)</format>
+  <nSuite>2</nSuite>
+  <issueDate>1956-06-20</issueDate>
+  <faceValue>0.18元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京人民印刷厂</printedBy>
+  <author>高品璋、孙鸿年</author>
+  <designer>万维生</designer>
+  <layout>120(10×12)</layout>
+  <keyStamps></keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>2-1</stampIndex>
+      <stampName>候机大楼</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>31×20.5</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>800.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>2-2</stampIndex>
+      <stampName>民用航空飞机</stampName>
+      <stampFaceValue>0.1</stampFaceValue>
+      <stampSize>31×20.5</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>400.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

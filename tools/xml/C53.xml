@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>C53</reference>
+  <name>载军和国际合作大会</name>
+  <format>雕刻版(无背胶)</format>
+  <nSuite>3</nSuite>
+  <issueDate>1958-07-20</issueDate>
+  <faceValue>0.34元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>中国近代印刷公司</printedBy>
+  <author>高振宇、鞠文俊</author>
+  <designer>邱陵</designer>
+  <layout>110(11×10)</layout>
+  <keyStamps>(3-3)20.00-30.00(元/枚)(旧)</keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>3-1</stampIndex>
+      <stampName>决心保卫和平</stampName>
+      <stampFaceValue>0.04</stampFaceValue>
+      <stampSize>24×31</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>400.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-2</stampIndex>
+      <stampName>团结起来保卫和平</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>24×31</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>800.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-3</stampIndex>
+      <stampName>和平利用原子能</stampName>
+      <stampFaceValue>0.22</stampFaceValue>
+      <stampSize>24×31</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>300.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

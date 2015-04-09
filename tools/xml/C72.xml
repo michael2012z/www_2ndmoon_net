@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>C72</reference>
+  <name>第一届全国运动会</name>
+  <format>胶版(无背胶)</format>
+  <nSuite>16</nSuite>
+  <issueDate>1959-12-28</issueDate>
+  <faceValue>1.28元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京人民印刷厂</printedBy>
+  <author>金竞</author>
+  <designer>吴建坤等</designer>
+  <layout>80(5×8+5×8)(中间有过桥)</layout>
+  <keyStamps>(11)(13)(15)4.0-5.0(元/枚)(旧)</keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>16-1</stampIndex>
+      <stampName>运动场</stampName>
+      <stampFaceValue>吴建坤</stampFaceValue>
+      <stampSize>0.08</stampSize>
+      <stampPerforation>29×24</stampPerforation>
+      <stampAmount>P14</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>16-2</stampIndex>
+      <stampName>跳 伞</stampName>
+      <stampFaceValue>卢天骄</stampFaceValue>
+      <stampSize>0.08</stampSize>
+      <stampPerforation>29×24</stampPerforation>
+      <stampAmount>P14</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>16-3</stampIndex>
+      <stampName>射 击</stampName>
+      <stampFaceValue>韩象琦</stampFaceValue>
+      <stampSize>0.08</stampSize>
+      <stampPerforation>29×24</stampPerforation>
+      <stampAmount>P14</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>16-4</stampIndex>
+      <stampName>游 泳</stampName>
+      <stampFaceValue>万维生</stampFaceValue>
+      <stampSize>0.08</stampSize>
+      <stampPerforation>29×24</stampPerforation>
+      <stampAmount>P14</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>16-5</stampIndex>
+      <stampName>乒乓球</stampName>
+      <stampFaceValue>吴建坤</stampFaceValue>
+      <stampSize>0.08</stampSize>
+      <stampPerforation>29×24</stampPerforation>
+      <stampAmount>P14</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>16-6</stampIndex>
+      <stampName>举 重</stampName>
+      <stampFaceValue>万维生</stampFaceValue>
+      <stampSize>0.08</stampSize>
+      <stampPerforation>29×24</stampPerforation>
+      <stampAmount>P14</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>16-7</stampIndex>
+      <stampName>跳 高</stampName>
+      <stampFaceValue>万维生</stampFaceValue>
+      <stampSize>0.08</stampSize>
+      <stampPerforation>29×24</stampPerforation>
+      <stampAmount>P14</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>16-8</stampIndex>
+      <stampName>划 船</stampName>
+      <stampFaceValue>吴建坤</stampFaceValue>
+      <stampSize>0.08</stampSize>
+      <stampPerforation>29×24</stampPerforation>
+      <stampAmount>P14</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>16-9</stampIndex>
+      <stampName>径 赛</stampName>
+      <stampFaceValue>孙传哲</stampFaceValue>
+      <stampSize>0.08</stampSize>
+      <stampPerforation>29×24</stampPerforation>
+      <stampAmount>P14</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>16-10</stampIndex>
+      <stampName>篮 球</stampName>
+      <stampFaceValue>吴建坤</stampFaceValue>
+      <stampSize>0.08</stampSize>
+      <stampPerforation>29×24</stampPerforation>
+      <stampAmount>P14</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>16-11</stampIndex>
+      <stampName>武 术</stampName>
+      <stampFaceValue>韩象琦</stampFaceValue>
+      <stampSize>0.08</stampSize>
+      <stampPerforation>29×24</stampPerforation>
+      <stampAmount>P14</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>16-12</stampIndex>
+      <stampName>摩托车</stampName>
+      <stampFaceValue>孙传哲</stampFaceValue>
+      <stampSize>0.08</stampSize>
+      <stampPerforation>29×24</stampPerforation>
+      <stampAmount>P14</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>16-13</stampIndex>
+      <stampName>体 操</stampName>
+      <stampFaceValue>卢天骄</stampFaceValue>
+      <stampSize>0.08</stampSize>
+      <stampPerforation>29×24</stampPerforation>
+      <stampAmount>P14</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>16-14</stampIndex>
+      <stampName>自行车</stampName>
+      <stampFaceValue>韩象琦</stampFaceValue>
+      <stampSize>0.08</stampSize>
+      <stampPerforation>29×24</stampPerforation>
+      <stampAmount>P14</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>16-15</stampIndex>
+      <stampName>赛 马</stampName>
+      <stampFaceValue>孙传哲</stampFaceValue>
+      <stampSize>0.08</stampSize>
+      <stampPerforation>29×24</stampPerforation>
+      <stampAmount>P14</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>16-16</stampIndex>
+      <stampName>足 球</stampName>
+      <stampFaceValue>万维生</stampFaceValue>
+      <stampSize>0.08</stampSize>
+      <stampPerforation>29×24</stampPerforation>
+      <stampAmount>P14</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

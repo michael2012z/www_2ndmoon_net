@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>T23</reference>
+  <name>军民一家人</name>
+  <format>影写版</format>
+  <nSuite>2</nSuite>
+  <issueDate>1978-02-05</issueDate>
+  <faceValue>0.16元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京邮票厂</printedBy>
+  <author>陈衍宁、林墉</author>
+  <designer>邵柏林</designer>
+  <layout>35(5×7)</layout>
+  <keyStamps></keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>2-1</stampIndex>
+      <stampName>团结战斗</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>60×27</stampSize>
+      <stampPerforation>P11</stampPerforation>
+      <stampAmount>1050.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>2-2</stampIndex>
+      <stampName>共夺丰收</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>60×27</stampSize>
+      <stampPerforation>P11</stampPerforation>
+      <stampAmount>1050.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

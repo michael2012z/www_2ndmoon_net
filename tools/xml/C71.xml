@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>C71</reference>
+  <name>中华人民共和国成立十周年(第五组)</name>
+  <format>雕刻版(无背胶)</format>
+  <nSuite>1</nSuite>
+  <issueDate>1959-10-01</issueDate>
+  <faceValue>0.20元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京人民印刷厂</printedBy>
+  <author>董希文</author>
+  <designer>唐霖坤</designer>
+  <layout>48(6×8)</layout>
+  <keyStamps></keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>1-1</stampIndex>
+      <stampName>开国大典</stampName>
+      <stampFaceValue>0.2</stampFaceValue>
+      <stampSize>52.5×33</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>350.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

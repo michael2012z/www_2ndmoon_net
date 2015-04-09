@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>N44</reference>
+  <name>王进喜―中国工人阶级的先锋战士</name>
+  <format>影雕套印</format>
+  <nSuite>1</nSuite>
+  <issueDate>1972-12-25</issueDate>
+  <faceValue>0.08元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京邮票厂</printedBy>
+  <author>大庆工人和上海美术出版社</author>
+  <designer>孙鸿年</designer>
+  <layout>50(10×5)</layout>
+  <keyStamps></keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>44</stampIndex>
+      <stampName>铁人王进喜在工作</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>30×40</stampSize>
+      <stampPerforation>P11.5×11</stampPerforation>
+      <stampAmount>1000.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

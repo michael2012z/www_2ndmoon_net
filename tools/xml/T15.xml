@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>T15</reference>
+  <name>中国登山队再次登上珠穆朗玛峰</name>
+  <format>影写版</format>
+  <nSuite>3</nSuite>
+  <issueDate>1975-09-26</issueDate>
+  <faceValue>0.59元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京邮票厂</printedBy>
+  <author>(3-1)程至善、(3-3)候生福</author>
+  <designer>卢天骄、宋惠民</designer>
+  <layout>50(5×10)</layout>
+  <keyStamps></keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>3-1</stampIndex>
+      <stampName>美丽的珠穆朗玛峰</stampName>
+      <stampFaceValue>0.43</stampFaceValue>
+      <stampSize>40×30</stampSize>
+      <stampPerforation>P11×11.5</stampPerforation>
+      <stampAmount>200.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-2</stampIndex>
+      <stampName>胸怀革命壮志勇攀世界高峰</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>30×40</stampSize>
+      <stampPerforation>P11.5×11</stampPerforation>
+      <stampAmount>1000.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-3</stampIndex>
+      <stampName>五星红旗再次飘扬在地球之巅</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>40×30</stampSize>
+      <stampPerforation>P11×11.5</stampPerforation>
+      <stampAmount>1000.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

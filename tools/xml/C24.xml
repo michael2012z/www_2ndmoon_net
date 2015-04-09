@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>C24</reference>
+  <name>保卫世界和平(第三组)</name>
+  <format>雕刻版(无背胶)</format>
+  <nSuite>3</nSuite>
+  <issueDate>1953-07-25</issueDate>
+  <faceValue>1450圆(旧币)</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京人民印刷厂营业分厂</printedBy>
+  <author>吴锦棠、贾志谦</author>
+  <designer>夏中汉</designer>
+  <layout>96(8×12)</layout>
+  <keyStamps></keyStamps>
+  <notes>原画作者：毕加索[西班牙]</notes>
+  <StampList>
+    <stamp>
+      <stampIndex>3-1</stampIndex>
+      <stampName>和平鸽（青色）</stampName>
+      <stampFaceValue>250.0</stampFaceValue>
+      <stampSize>33×22</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>300.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-2</stampIndex>
+      <stampName>和平鸽（棕色）</stampName>
+      <stampFaceValue>400.0</stampFaceValue>
+      <stampSize>33×22</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>300.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-3</stampIndex>
+      <stampName>和平鸽（紫色）</stampName>
+      <stampFaceValue>800.0</stampFaceValue>
+      <stampSize>33×22</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>900.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>T40</reference>
+  <name>东北虎</name>
+  <format>影写版</format>
+  <nSuite>3</nSuite>
+  <issueDate>1979-07-20</issueDate>
+  <faceValue>0.72元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京邮票厂</printedBy>
+  <author>刘继卣</author>
+  <designer>刘硕仁</designer>
+  <layout>50(10×5)</layout>
+  <keyStamps>(3-3)4.00-6.00(元/枚)(旧)</keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>3-1</stampIndex>
+      <stampName>岩谷回声</stampName>
+      <stampFaceValue>0.04</stampFaceValue>
+      <stampSize>30×40</stampSize>
+      <stampPerforation>P11.5×11</stampPerforation>
+      <stampAmount>1000.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-2</stampIndex>
+      <stampName>呼应原野</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>30×40</stampSize>
+      <stampPerforation>P11.5×11</stampPerforation>
+      <stampAmount>1500.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-3</stampIndex>
+      <stampName>喧嚣草莽</stampName>
+      <stampFaceValue>0.6</stampFaceValue>
+      <stampSize>30×40</stampSize>
+      <stampPerforation>P11.5×11</stampPerforation>
+      <stampAmount>200.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

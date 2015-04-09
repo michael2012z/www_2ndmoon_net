@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>J60</reference>
+  <name>联合国教科文组织中国绘画艺术展览纪念</name>
+  <format>影写版</format>
+  <nSuite>3</nSuite>
+  <issueDate>1980-10-08</issueDate>
+  <faceValue>0.24元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京邮票厂</printedBy>
+  <author>(1)刘海粟/(2)于非闇/(3)吴作人</author>
+  <designer>邓锡清</designer>
+  <layout>40(4×10)、40(10×4)</layout>
+  <keyStamps></keyStamps>
+  <notes>此套邮票位列JT“厂铭十珍”之中，其清晰厂铭票十分难得。</notes>
+  <StampList>
+    <stamp>
+      <stampIndex>3-1</stampIndex>
+      <stampName>黄山云海奇观</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>52×31</stampSize>
+      <stampPerforation>P11.5</stampPerforation>
+      <stampAmount>800.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-2</stampIndex>
+      <stampName>黄鹂玉兰</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>31×52</stampSize>
+      <stampPerforation>P11.5</stampPerforation>
+      <stampAmount>800.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-3</stampIndex>
+      <stampName>牧驼图</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>52×31</stampSize>
+      <stampPerforation>P11.5</stampPerforation>
+      <stampAmount>800.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

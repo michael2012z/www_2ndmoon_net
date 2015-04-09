@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>W6</reference>
+  <name>毛主席与世界人民</name>
+  <format>影写版</format>
+  <nSuite>2</nSuite>
+  <issueDate>1967-10-01</issueDate>
+  <faceValue>0.16元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京邮票厂</printedBy>
+  <author>(1)葛维墨、倪震、秦龙、徐新；(2)黄统荣</author>
+  <designer>邵柏林</designer>
+  <layout>25(5×5)</layout>
+  <keyStamps>(2-2)80.0-100.0(元/枚)(旧)</keyStamps>
+  <notes>文6发行背景：
+　　１９６７年８月８日，邮电部《关于拟发行毛主席是世界革命人民心中的红太阳纪念邮票的请示》连同邮票图案两幅送中央文革小组审查。这套邮票名称印在第一图上，发行日期拟定在１９６７年１０月１日。中央文革宣传办公室批复通知：“第一图没有意见。第二图毛主席像不象，请再画一下。其它同意照来函意见改，修改后再送审”。于是，设计人员先到外交部征求意见，后又到亚非司征求意见，并参考１９６７年７月《中国建设》杂志上的照片改画邮票上的外国人形象和衣服。８月２２日，邮电部再次上报“请审核，如可以，请批示”。中央文革宣传办公室批复“纪念邮票第二图中的毛主席像仍不准确，特别是面部画得不像，请再加修改。”于是又在人物形象、服装等细节处反复核实、修改。直到９月１日，中央文革宣传组办公室才发出“同意”的批文。９月３０日，新华社发出一则新邮消息：“邮电部为庆祝中华人民共和国成立１８周年，决定于１９６７年１０月１日起陆续发行下列两套纪念邮票……”这两套邮票即“毛主席是世界革命人民心中的红太阳”和“毛主席诗词”。</notes>
+  <StampList>
+    <stamp>
+      <stampIndex>2-1</stampIndex>
+      <stampName>毛主席是世界革命人民的红太阳</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>60×40</stampSize>
+      <stampPerforation>P11.5×11</stampPerforation>
+      <stampAmount>1000.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>2-2</stampIndex>
+      <stampName>世界革命人民无限热爱毛主席</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>60×40</stampSize>
+      <stampPerforation>P11.5×11</stampPerforation>
+      <stampAmount>1000.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

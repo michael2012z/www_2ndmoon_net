@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>J2</reference>
+  <name>中华人民共和国成立二十五周年(第一组)</name>
+  <format>影写版</format>
+  <nSuite>1</nSuite>
+  <issueDate>1974-10-01</issueDate>
+  <faceValue>0.08元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京邮票厂</printedBy>
+  <author></author>
+  <designer>卢天骄</designer>
+  <layout>25(5×5)</layout>
+  <keyStamps></keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>1-1</stampIndex>
+      <stampName>团结起来，争取更大胜利</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>60×40</stampSize>
+      <stampPerforation>P11.5×11</stampPerforation>
+      <stampAmount>500.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

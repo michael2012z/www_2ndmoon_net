@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>J34</reference>
+  <name>中日和平友好条约签订</name>
+  <format>影写版</format>
+  <nSuite>2</nSuite>
+  <issueDate>1978-10-22</issueDate>
+  <faceValue>0.63元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京邮票厂</printedBy>
+  <author></author>
+  <designer>潘可明</designer>
+  <layout>50(5×10)</layout>
+  <keyStamps></keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>2-1</stampIndex>
+      <stampName>共同愿望</stampName>
+      <stampFaceValue>0.55</stampFaceValue>
+      <stampSize>40×30</stampSize>
+      <stampPerforation>P11×11.5</stampPerforation>
+      <stampAmount>250.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>2-2</stampIndex>
+      <stampName>中日人民世代友好</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>40×30</stampSize>
+      <stampPerforation>P11×11.5</stampPerforation>
+      <stampAmount>750.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

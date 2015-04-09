@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>C15</reference>
+  <name>国际劳动节</name>
+  <format>胶版(无背胶)</format>
+  <nSuite>3</nSuite>
+  <issueDate>1952-05-01</issueDate>
+  <faceValue>2400圆(旧币)</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>上海华东区税务管理局印刷厂</printedBy>
+  <author></author>
+  <designer>孙传哲</designer>
+  <layout>144(12×12)</layout>
+  <keyStamps></keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>3-1</stampIndex>
+      <stampName>镰刀和铁锤</stampName>
+      <stampFaceValue>800.0</stampFaceValue>
+      <stampSize>16×26</stampSize>
+      <stampPerforation>P12.5</stampPerforation>
+      <stampAmount>1000.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-2</stampIndex>
+      <stampName>和平鸽和工农巨掌</stampName>
+      <stampFaceValue>800.0</stampFaceValue>
+      <stampSize>16×26</stampSize>
+      <stampPerforation>P12.5</stampPerforation>
+      <stampAmount>1000.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-3</stampIndex>
+      <stampName>铁锤、烟囱和鸽子</stampName>
+      <stampFaceValue>800.0</stampFaceValue>
+      <stampSize>16×26</stampSize>
+      <stampPerforation>P12.5</stampPerforation>
+      <stampAmount>1000.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>S39</reference>
+  <name>苏联月球火箭及行星际站</name>
+  <format>雕刻版</format>
+  <nSuite>2</nSuite>
+  <issueDate>1960-04-30</issueDate>
+  <faceValue>0.18元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京邮票厂</printedBy>
+  <author>高品璋、孙经涌</author>
+  <designer>吴建坤</designer>
+  <layout>100(10×10)</layout>
+  <keyStamps>(2-2)5.00-7.00(元/枚)(旧)</keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>2-1</stampIndex>
+      <stampName>月球火箭</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>22×27.5</stampSize>
+      <stampPerforation>P11.5</stampPerforation>
+      <stampAmount>1000.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>2-2</stampIndex>
+      <stampName>行星际站</stampName>
+      <stampFaceValue>0.1</stampFaceValue>
+      <stampSize>22×27.5</stampSize>
+      <stampPerforation>P11.5</stampPerforation>
+      <stampAmount>300.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

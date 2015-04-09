@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>J10</reference>
+  <name>到大江大海去锻炼</name>
+  <format>影写版</format>
+  <nSuite>3</nSuite>
+  <issueDate>1976-07-16</issueDate>
+  <faceValue>0.24元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京邮票厂</printedBy>
+  <author></author>
+  <designer>任宇</designer>
+  <layout>40(4×10)/50(5×10)</layout>
+  <keyStamps></keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>3-1</stampIndex>
+      <stampName>跟着毛主席在大风大浪中前进</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>52×31</stampSize>
+      <stampPerforation>P11.5</stampPerforation>
+      <stampAmount>1000.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-2</stampIndex>
+      <stampName>万里长江渡横</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>38.5×31</stampSize>
+      <stampPerforation>P11.5</stampPerforation>
+      <stampAmount>1000.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-3</stampIndex>
+      <stampName>到大江大海去锻炼</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>38.5×31</stampSize>
+      <stampPerforation>P11.5</stampPerforation>
+      <stampAmount>1000.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

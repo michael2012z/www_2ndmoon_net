@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>S51</reference>
+  <name>支持英雄的古巴</name>
+  <format>影写版</format>
+  <nSuite>3</nSuite>
+  <issueDate>1962-07-10</issueDate>
+  <faceValue>0.40元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京邮票厂</printedBy>
+  <author></author>
+  <designer>卢天骄</designer>
+  <layout>50(5×10)</layout>
+  <keyStamps>(3-3)200.0-240.0(元/枚)(旧)</keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>3-1</stampIndex>
+      <stampName>英雄的古巴</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>40×30</stampSize>
+      <stampPerforation>P11×11.5</stampPerforation>
+      <stampAmount>800.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-2</stampIndex>
+      <stampName>土地的主人</stampName>
+      <stampFaceValue>0.1</stampFaceValue>
+      <stampSize>40×30</stampSize>
+      <stampPerforation>P11×11.5</stampPerforation>
+      <stampAmount>400.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-3</stampIndex>
+      <stampName>保卫祖国</stampName>
+      <stampFaceValue>0.22</stampFaceValue>
+      <stampSize>40×30</stampSize>
+      <stampPerforation>P11×11.5</stampPerforation>
+      <stampAmount>100.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

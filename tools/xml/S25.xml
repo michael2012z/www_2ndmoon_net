@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>S25</reference>
+  <name>苏联人造地球卫星</name>
+  <format>雕刻版(无背胶)</format>
+  <nSuite>3</nSuite>
+  <issueDate>1958-10-30</issueDate>
+  <faceValue>0.22元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京人民印刷厂</printedBy>
+  <author>孔绍惠、高品璋、孙鸿年</author>
+  <designer>孙传哲</designer>
+  <layout>110(10×11)</layout>
+  <keyStamps>(3-3)6.00-8.00(元/枚)(旧)</keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>3-1</stampIndex>
+      <stampName>第一颗人造卫星</stampName>
+      <stampFaceValue>0.04</stampFaceValue>
+      <stampSize>30.5×25.5</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>600.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-2</stampIndex>
+      <stampName>第三颗人造卫星</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>30.5×25.5</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>1000.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-3</stampIndex>
+      <stampName>红色卫星环绕全世界</stampName>
+      <stampFaceValue>0.1</stampFaceValue>
+      <stampSize>30.5×25.5</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>400.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

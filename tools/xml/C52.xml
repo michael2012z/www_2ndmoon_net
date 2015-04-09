@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>C52</reference>
+  <name>莫斯科社会主义国家邮电部长会议</name>
+  <format>雕刻版(无背胶)</format>
+  <nSuite>2</nSuite>
+  <issueDate>1958-07-10</issueDate>
+  <faceValue>0.12元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>中国近代印刷公司</printedBy>
+  <author>唐霖坤</author>
+  <designer>孙传哲</designer>
+  <layout>90(10×9)</layout>
+  <keyStamps></keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>2-1</stampIndex>
+      <stampName>大雁和广播铁塔（蓝色）</stampName>
+      <stampFaceValue>0.04</stampFaceValue>
+      <stampSize>27.5×35</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>400.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>2-2</stampIndex>
+      <stampName>大雁和广播铁塔（绿色）</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>27.5×35</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>800.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

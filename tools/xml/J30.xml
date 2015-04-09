@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>J30</reference>
+  <name>中国妇女第四次全国代表大会</name>
+  <format>影写版</format>
+  <nSuite>1</nSuite>
+  <issueDate>1978-09-08</issueDate>
+  <faceValue>0.08元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京邮票厂</printedBy>
+  <author></author>
+  <designer>潘可明</designer>
+  <layout>50(5×10)</layout>
+  <keyStamps></keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>1-1</stampIndex>
+      <stampName>中国妇女第四次全国代表大会</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>40×30</stampSize>
+      <stampPerforation>P11×11.5</stampPerforation>
+      <stampAmount>1500.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

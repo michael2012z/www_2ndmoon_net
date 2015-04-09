@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>C119</reference>
+  <name>亚非作家紧急会议</name>
+  <format>影写版</format>
+  <nSuite>2</nSuite>
+  <issueDate>1966-06-27</issueDate>
+  <faceValue>0.30元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京邮票厂</printedBy>
+  <author>伍明万、赵树同、李已生、王官乙[雕塑]</author>
+  <designer>邵柏林</designer>
+  <layout>50(5×10)</layout>
+  <keyStamps>(2-2)20.00-25.00(元/枚)(旧)</keyStamps>
+  <notes>此套邮票的(2-2)22分天然无厂铭</notes>
+  <StampList>
+    <stamp>
+      <stampIndex>2-1</stampIndex>
+      <stampName>风雷</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>40×30</stampSize>
+      <stampPerforation>P11×11.5</stampPerforation>
+      <stampAmount>600.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>2-2</stampIndex>
+      <stampName>亚非作家紧急会议证章</stampName>
+      <stampFaceValue>0.22</stampFaceValue>
+      <stampSize>40×30</stampSize>
+      <stampPerforation>P11×11.5</stampPerforation>
+      <stampAmount>100.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

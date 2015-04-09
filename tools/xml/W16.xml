@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>W16</reference>
+  <name>钢琴伴唱《红灯记》</name>
+  <format>影写版</format>
+  <nSuite>2</nSuite>
+  <issueDate>1969-08-01</issueDate>
+  <faceValue>0.16元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京邮票厂</printedBy>
+  <author></author>
+  <designer>李大玮</designer>
+  <layout>50(5×10)</layout>
+  <keyStamps>(2-2)60.0-100.0(元/枚)(旧)</keyStamps>
+  <notes>文16发行背景
+　　《红灯记》是一出描写中共地下党为保护和安全传递一份密电码而与日本侵略者机智周旋、勇敢斗争的现代京剧。这是一部“文化大革命”期间流传很广的戏剧。它在当时文艺界产生了很大影响。１９６８年，中国京剧团和中央乐团根据它改编创作了钢琴伴唱《红灯记》，并于六七月间在北京首次上演，反响很大。</notes>
+  <StampList>
+    <stamp>
+      <stampIndex>2-1</stampIndex>
+      <stampName>李玉和</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>40×30</stampSize>
+      <stampPerforation>P11×11.5</stampPerforation>
+      <stampAmount>5000.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>2-2</stampIndex>
+      <stampName>李铁梅</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>40×30</stampSize>
+      <stampPerforation>P11×11.5</stampPerforation>
+      <stampAmount>5000.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

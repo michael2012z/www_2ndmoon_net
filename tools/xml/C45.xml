@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>C45</reference>
+  <name>胜利超额完成第一个五年计划</name>
+  <format>胶雕套印(无背胶)</format>
+  <nSuite>3</nSuite>
+  <issueDate>1958-01-30</issueDate>
+  <faceValue>0.28元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京人民印刷厂营业分厂</printedBy>
+  <author>高振宇、孙鸿年、宋广增</author>
+  <designer>周令钊</designer>
+  <layout>64(8×8)</layout>
+  <keyStamps></keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>3-1</stampIndex>
+      <stampName>和平建设</stampName>
+      <stampFaceValue>0.04</stampFaceValue>
+      <stampSize>23.5×35.2</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>800.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-2</stampIndex>
+      <stampName>工业和农业</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>23.5×35.2</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>1000.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-3</stampIndex>
+      <stampName>交通运输</stampName>
+      <stampFaceValue>0.16</stampFaceValue>
+      <stampSize>23.5×35.2</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>800.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

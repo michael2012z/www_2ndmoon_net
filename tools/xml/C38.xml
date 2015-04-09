@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>C38</reference>
+  <name>孙中山诞生九十周年</name>
+  <format>胶雕套印(无背胶)</format>
+  <nSuite>2</nSuite>
+  <issueDate>1956-11-12</issueDate>
+  <faceValue>0.12元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>中国近代印刷公司</printedBy>
+  <author>唐霖坤</author>
+  <designer>卢天骄</designer>
+  <layout>104(13×8)</layout>
+  <keyStamps></keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>2-1</stampIndex>
+      <stampName>孙中山像及题词(浅棕色)</stampName>
+      <stampFaceValue>0.04</stampFaceValue>
+      <stampSize>22×34</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>1800.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>2-2</stampIndex>
+      <stampName>孙中山像及题词(浅蓝色)</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>22×34</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>1200.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

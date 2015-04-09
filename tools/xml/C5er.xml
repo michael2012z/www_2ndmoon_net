@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>C5er</reference>
+  <name>保卫世界和平(第一组)(东北贴用)</name>
+  <format>雕刻版(无背胶)</format>
+  <nSuite>3</nSuite>
+  <issueDate>1955-1-10(再版)</issueDate>
+  <faceValue>27500圆(东北币)</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京人民印刷厂(再版)</printedBy>
+  <author>武志章</author>
+  <designer>孙传哲</designer>
+  <layout>50(10×5)</layout>
+  <keyStamps>(3-3)200.0-300.0(元/枚)(旧)</keyStamps>
+  <notes>原作者：毕加索[西班牙]。下列发行量为原版发行量，再版票发行量不详。</notes>
+  <StampList>
+    <stamp>
+      <stampIndex>3-1</stampIndex>
+      <stampName>和平鸽（棕色）</stampName>
+      <stampFaceValue>2500.0</stampFaceValue>
+      <stampSize>26×36.5</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>50.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-2</stampIndex>
+      <stampName>和平鸽（绿色）</stampName>
+      <stampFaceValue>5000.0</stampFaceValue>
+      <stampSize>26×36.5</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>80.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-3</stampIndex>
+      <stampName>和平鸽（蓝色）</stampName>
+      <stampFaceValue>20000.0</stampFaceValue>
+      <stampSize>26×36.5</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>50.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

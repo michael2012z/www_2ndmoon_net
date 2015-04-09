@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>C107</reference>
+  <name>第一国际成立一百周年</name>
+  <format>影写版</format>
+  <nSuite>1</nSuite>
+  <issueDate>1964-09-28</issueDate>
+  <faceValue>0.08元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京邮票厂</printedBy>
+  <author></author>
+  <designer>钟灵、孙传哲</designer>
+  <layout>40(10×4)</layout>
+  <keyStamps></keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>1-1</stampIndex>
+      <stampName>马克思和恩格斯像/红旗/伦敦圣马丁堂外景</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>31×52</stampSize>
+      <stampPerforation>P11.5</stampPerforation>
+      <stampAmount>500.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

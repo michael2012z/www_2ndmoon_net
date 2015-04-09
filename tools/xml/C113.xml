@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>C113</reference>
+  <name>第六次社会主义国家邮电部长会议</name>
+  <format>影写版</format>
+  <nSuite>1</nSuite>
+  <issueDate>1965-06-21</issueDate>
+  <faceValue>0.08元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京邮票厂</printedBy>
+  <author></author>
+  <designer>李斛、卢天骄</designer>
+  <layout>50(10×5)</layout>
+  <keyStamps></keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>1-1</stampIndex>
+      <stampName>在马克思列宁主义旗帜下前进</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>30×40</stampSize>
+      <stampPerforation>P11.5×11</stampPerforation>
+      <stampAmount>560.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>C66</reference>
+  <name>第25届世界乒乓球锦标赛</name>
+  <format>胶版(无背胶)</format>
+  <nSuite>2</nSuite>
+  <issueDate>1959-08-30</issueDate>
+  <faceValue>0.12元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京人民印刷厂</printedBy>
+  <author></author>
+  <designer>万维生</designer>
+  <layout>80(10×8)</layout>
+  <keyStamps></keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>2-1</stampIndex>
+      <stampName>乒乓球选手（蓝衣）</stampName>
+      <stampFaceValue>0.04</stampFaceValue>
+      <stampSize>29.5×24</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>600.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>2-2</stampIndex>
+      <stampName>乒乓球选手（红衣）</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>29.5×24</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>1000.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

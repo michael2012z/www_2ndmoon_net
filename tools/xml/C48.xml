@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>C48</reference>
+  <name>中国工会第八次全国代表大会</name>
+  <format>雕刻版(无背胶)</format>
+  <nSuite>2</nSuite>
+  <issueDate>1958-05-25</issueDate>
+  <faceValue>0.12元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>中国近代印刷公司</printedBy>
+  <author>孔绍惠</author>
+  <designer>刘硕仁</designer>
+  <layout>120(10×12)</layout>
+  <keyStamps></keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>2-1</stampIndex>
+      <stampName>'8'字型齿轮及工厂背景(蓝)</stampName>
+      <stampFaceValue>0.04</stampFaceValue>
+      <stampSize>28×23</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>400.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>2-2</stampIndex>
+      <stampName>'8'字型齿轮及工厂背景(紫)</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>28×23</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>800.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

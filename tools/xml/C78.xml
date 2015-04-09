@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>C78</reference>
+  <name>庆祝匈牙利解放十五周年</name>
+  <format>影写版</format>
+  <nSuite>2</nSuite>
+  <issueDate>1960-04-04</issueDate>
+  <faceValue>0.16元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京邮票厂</printedBy>
+  <author>刘硕仁</author>
+  <designer>钟灵</designer>
+  <layout>50(5×10)</layout>
+  <keyStamps></keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>2-1</stampIndex>
+      <stampName>中匈两国友好团结</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>36×25.5</stampSize>
+      <stampPerforation>P11×11.5</stampPerforation>
+      <stampAmount>800.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>2-2</stampIndex>
+      <stampName>匈牙利国会大厦</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>36×25.5</stampSize>
+      <stampPerforation>P11×11.5</stampPerforation>
+      <stampAmount>800.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

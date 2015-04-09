@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>N811</reference>
+  <name>纪念巴黎公社一百周年</name>
+  <format>(8)(11)影写版, (9)(10)影雕套印</format>
+  <nSuite>4</nSuite>
+  <issueDate>1971-03-18</issueDate>
+  <faceValue>0.44元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京邮票厂</printedBy>
+  <author>(9)孙鸿年、(10)吴彭越</author>
+  <designer>张克让、(8)吴建坤</designer>
+  <layout>(8)(10)50(10×5)、余50(5×10)</layout>
+  <keyStamps>(9)300.0-400.0(元/枚)(旧)</keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>8</stampIndex>
+      <stampName>巴黎公社的一面旗帜</stampName>
+      <stampFaceValue>0.04</stampFaceValue>
+      <stampSize>30×40</stampSize>
+      <stampPerforation>P11.5×11</stampPerforation>
+      <stampAmount>1114.5</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>9</stampIndex>
+      <stampName>巴黎无产阶级和其他人民举行武装起义</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>40×30</stampSize>
+      <stampPerforation>P11×11.5</stampPerforation>
+      <stampAmount>1514.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>10</stampIndex>
+      <stampName>巴黎公社宣告成立时情景</stampName>
+      <stampFaceValue>0.1</stampFaceValue>
+      <stampSize>30×40</stampSize>
+      <stampPerforation>P11.5×11</stampPerforation>
+      <stampAmount>764.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>11</stampIndex>
+      <stampName>巴黎公社社员在国际广场上</stampName>
+      <stampFaceValue>0.22</stampFaceValue>
+      <stampSize>40×30</stampSize>
+      <stampPerforation>P11×11.5</stampPerforation>
+      <stampAmount>196.5</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

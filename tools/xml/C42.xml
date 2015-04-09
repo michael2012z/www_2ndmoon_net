@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>C42</reference>
+  <name>世界工会第四次代表大会</name>
+  <format>雕刻版(无背胶)</format>
+  <nSuite>2</nSuite>
+  <issueDate>1957-09-30</issueDate>
+  <faceValue>0.30元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>中国近代印刷公司</printedBy>
+  <author>宋广增</author>
+  <designer>孙传哲</designer>
+  <layout>120(12×10)</layout>
+  <keyStamps></keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>2-1</stampIndex>
+      <stampName>会徽与标语（棕色）</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>23×28.5</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>800.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>2-2</stampIndex>
+      <stampName>会徽与标语（蓝色）</stampName>
+      <stampFaceValue>0.22</stampFaceValue>
+      <stampSize>23×28.5</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>400.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

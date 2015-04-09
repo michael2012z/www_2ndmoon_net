@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>C23</reference>
+  <name>中国工会第七次全国代表大会</name>
+  <format>雕刻版(无背胶)</format>
+  <nSuite>2</nSuite>
+  <issueDate>1953-06-25</issueDate>
+  <faceValue>1200圆(旧币)</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京人民印刷厂营业分厂</printedBy>
+  <author>林文艺</author>
+  <designer>孙传哲</designer>
+  <layout>96(12×8)</layout>
+  <keyStamps></keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>2-1</stampIndex>
+      <stampName>为国家工业化而奋斗(蓝色)</stampName>
+      <stampFaceValue>400.0</stampFaceValue>
+      <stampSize>22×33</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>400.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>2-2</stampIndex>
+      <stampName>为国家工业化而奋斗(红色)</stampName>
+      <stampFaceValue>800.0</stampFaceValue>
+      <stampSize>22×33</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>600.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

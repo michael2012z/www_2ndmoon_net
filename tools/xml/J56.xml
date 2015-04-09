@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>J56</reference>
+  <name>提高健康水平，提倡戒烟</name>
+  <format>影写版</format>
+  <nSuite>2</nSuite>
+  <issueDate>1980-04-07</issueDate>
+  <faceValue>0.68元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京邮票厂</printedBy>
+  <author></author>
+  <designer>陈晓聪</designer>
+  <layout>50(10×5)</layout>
+  <keyStamps>(2-2)30.00-38.00(元/枚)</keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>2-1</stampIndex>
+      <stampName>吸烟有害</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>30×40</stampSize>
+      <stampPerforation>P11.5×11</stampPerforation>
+      <stampAmount>1000.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>2-2</stampIndex>
+      <stampName>提倡戒烟</stampName>
+      <stampFaceValue>0.6</stampFaceValue>
+      <stampSize>30×40</stampSize>
+      <stampPerforation>P11.5×11</stampPerforation>
+      <stampAmount>100.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

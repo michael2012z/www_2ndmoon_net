@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>J16</reference>
+  <name>内蒙古自治区成立三十周年</name>
+  <format>影写版</format>
+  <nSuite>3</nSuite>
+  <issueDate>1977-05-01</issueDate>
+  <faceValue>0.38元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京邮票厂</printedBy>
+  <author></author>
+  <designer>刘永成</designer>
+  <layout>50(5×10)</layout>
+  <keyStamps>(3-1)4.00-5.00(元/枚)(旧)</keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>3-1</stampIndex>
+      <stampName>欢庆胜利</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>40×30</stampSize>
+      <stampPerforation>P11×11.5</stampPerforation>
+      <stampAmount>750.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-2</stampIndex>
+      <stampName>草原钢城</stampName>
+      <stampFaceValue>0.1</stampFaceValue>
+      <stampSize>40×30</stampSize>
+      <stampPerforation>P11×11.5</stampPerforation>
+      <stampAmount>750.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-3</stampIndex>
+      <stampName>牧区新貌</stampName>
+      <stampFaceValue>0.2</stampFaceValue>
+      <stampSize>40×30</stampSize>
+      <stampPerforation>P11×11.5</stampPerforation>
+      <stampAmount>750.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

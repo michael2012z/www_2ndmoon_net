@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>W4</reference>
+  <name>祝毛主席万寿无疆</name>
+  <format>雕刻版</format>
+  <nSuite>5</nSuite>
+  <issueDate>1967-07-01</issueDate>
+  <faceValue>1.42元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京邮票厂</printedBy>
+  <author>孙鸿年</author>
+  <designer>刘硕仁</designer>
+  <layout>70(10×7)</layout>
+  <keyStamps></keyStamps>
+  <notes>原画（版画）作者为：沈尧伊。(2)-(5)的发行日期为：1967.9.18
+
+文4发行背景：
+　　１９６７年６月２日，中国邮电部向中共中央文革小组上报《关于拟发行祝毛主席万寿无疆邮票的请示》。其主要内容是：今年“七一”，是中国共产党成立４０周年，我们拟发行一套“祝毛主席万寿无疆”邮票，图案是毛主席侧面军装像（木刻）。这套邮票名称为“祝毛主席万寿无疆”。两天后，中央文革宣传组办公室批复“同意”。
+</notes>
+  <StampList>
+    <stamp>
+      <stampIndex>5-1</stampIndex>
+      <stampName>毛主席侧面军装像</stampName>
+      <stampFaceValue>0.04</stampFaceValue>
+      <stampSize>27×40</stampSize>
+      <stampPerforation>P11</stampPerforation>
+      <stampAmount>840.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>5-2</stampIndex>
+      <stampName>毛主席侧面军装像</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>27×40</stampSize>
+      <stampPerforation>P11</stampPerforation>
+      <stampAmount>850.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>5-3</stampIndex>
+      <stampName>毛主席侧面军装像</stampName>
+      <stampFaceValue>0.35</stampFaceValue>
+      <stampSize>27×40</stampSize>
+      <stampPerforation>P11</stampPerforation>
+      <stampAmount>390.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>5-4</stampIndex>
+      <stampName>毛主席侧面军装像</stampName>
+      <stampFaceValue>0.43</stampFaceValue>
+      <stampSize>27×40</stampSize>
+      <stampPerforation>P11</stampPerforation>
+      <stampAmount>290.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>5-5</stampIndex>
+      <stampName>毛主席侧面军装像</stampName>
+      <stampFaceValue>0.52</stampFaceValue>
+      <stampSize>27×40</stampSize>
+      <stampPerforation>P11</stampPerforation>
+      <stampAmount>490.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

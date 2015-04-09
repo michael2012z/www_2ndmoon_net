@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>C57</reference>
+  <name>中国人民志愿军凯旋归国纪念</name>
+  <format>雕刻版(无背胶)</format>
+  <nSuite>3</nSuite>
+  <issueDate>1958-11-20</issueDate>
+  <faceValue>0.24元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京人民印刷厂</printedBy>
+  <author>唐霖坤、孔绍惠、高品璋</author>
+  <designer>孙传哲</designer>
+  <layout>80(8×10)</layout>
+  <keyStamps></keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>3-1</stampIndex>
+      <stampName>并肩作战</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>38.5×26</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>800.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-2</stampIndex>
+      <stampName>依依惜别</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>38.5×26</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>850.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-3</stampIndex>
+      <stampName>胜利归来</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>38.5×26</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>850.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

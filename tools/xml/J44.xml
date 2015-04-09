@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>J44</reference>
+  <name>中华人民共和国成立三十周年（第一组）</name>
+  <format>影写版</format>
+  <nSuite>2</nSuite>
+  <issueDate>1979-10-01</issueDate>
+  <faceValue>0.16元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京邮票厂</printedBy>
+  <author></author>
+  <designer>万维生</designer>
+  <layout>40(4×10)</layout>
+  <keyStamps></keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>2-1</stampIndex>
+      <stampName>国旗</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>62×26</stampSize>
+      <stampPerforation>P11.5</stampPerforation>
+      <stampAmount>1200.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>2-2</stampIndex>
+      <stampName>国旗</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>62×26</stampSize>
+      <stampPerforation>P11.5</stampPerforation>
+      <stampAmount>1200.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

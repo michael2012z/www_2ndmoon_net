@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>C67</reference>
+  <name>中华人民共和国成立十周年(第一组)</name>
+  <format>影写版</format>
+  <nSuite>3</nSuite>
+  <issueDate>1959-09-28</issueDate>
+  <faceValue>0.38元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京邮票厂</printedBy>
+  <author>孙传哲</author>
+  <designer>张光宇、邱陵、陈汉民、钟灵、张仃、周令钊</designer>
+  <layout>50(10×5)</layout>
+  <keyStamps>(3-3)25.00-35.00(元/枚)(旧)</keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>3-1</stampIndex>
+      <stampName>中国万岁、毛主席万岁</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>25.5×35</stampSize>
+      <stampPerforation>P11.5×11</stampPerforation>
+      <stampAmount>800.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-2</stampIndex>
+      <stampName>马克思列宁主义万岁</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>25.5×35</stampSize>
+      <stampPerforation>P11.5×11</stampPerforation>
+      <stampAmount>800.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-3</stampIndex>
+      <stampName>世界和平万岁</stampName>
+      <stampFaceValue>0.22</stampFaceValue>
+      <stampSize>25.5×35</stampSize>
+      <stampPerforation>P11.5×11</stampPerforation>
+      <stampAmount>250.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

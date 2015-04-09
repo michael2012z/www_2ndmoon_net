@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>C63</reference>
+  <name>世界和平运动</name>
+  <format>雕刻版(无背胶)</format>
+  <nSuite>2</nSuite>
+  <issueDate>1959-07-25</issueDate>
+  <faceValue>0.30元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京邮票厂</printedBy>
+  <author>唐霖坤、高品璋</author>
+  <designer>刘硕仁、韩象琦</designer>
+  <layout>100(10×10)</layout>
+  <keyStamps></keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>2-1</stampIndex>
+      <stampName>约里奥·居里像</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>23×27.5</stampSize>
+      <stampPerforation>P11.5</stampPerforation>
+      <stampAmount>415.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>2-2</stampIndex>
+      <stampName>黑、黄、白不同肤色人像剪影</stampName>
+      <stampFaceValue>0.22</stampFaceValue>
+      <stampSize>23×27.5</stampSize>
+      <stampPerforation>P11.5</stampPerforation>
+      <stampAmount>149.5</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

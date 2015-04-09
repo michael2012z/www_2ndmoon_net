@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>C95</reference>
+  <name>伟大的十月社会主义革命四十五周年</name>
+  <format>影写版</format>
+  <nSuite>2</nSuite>
+  <issueDate>1962-11-07</issueDate>
+  <faceValue>0.28元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京邮票厂</printedBy>
+  <author>崔波拉柯夫[苏联]、索柯洛夫·斯卡里雅[苏联]</author>
+  <designer>万维生</designer>
+  <layout>(1)50(10×5),(2)50(5×10)</layout>
+  <keyStamps>(2-2)15.00-25.00(元/枚)(旧)</keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>2-1</stampIndex>
+      <stampName>列宁和革命战士</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>31×52</stampSize>
+      <stampPerforation>P11.5</stampPerforation>
+      <stampAmount>800.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>2-2</stampIndex>
+      <stampName>攻打冬宫</stampName>
+      <stampFaceValue>0.2</stampFaceValue>
+      <stampSize>52×31</stampSize>
+      <stampPerforation>P11.5</stampPerforation>
+      <stampAmount>300.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

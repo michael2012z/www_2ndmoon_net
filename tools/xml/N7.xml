@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>N7</reference>
+  <name>严惩入侵之敌</name>
+  <format>胶版</format>
+  <nSuite>1</nSuite>
+  <issueDate>1970-11-01</issueDate>
+  <faceValue>0.04元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京邮票厂</printedBy>
+  <author></author>
+  <designer>许彦博</designer>
+  <layout>100(10×10)</layout>
+  <keyStamps></keyStamps>
+  <notes>有多种齿孔度数：P10、P10×11.5、P11.5×10、P11.5</notes>
+  <StampList>
+    <stamp>
+      <stampIndex>7</stampIndex>
+      <stampName>严惩入侵之敌</stampName>
+      <stampFaceValue>0.04</stampFaceValue>
+      <stampSize>42×34</stampSize>
+      <stampPerforation>P10</stampPerforation>
+      <stampAmount>14000.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>C115</reference>
+  <name>纪念抗日战争胜利二十周年</name>
+  <format>影写版</format>
+  <nSuite>4</nSuite>
+  <issueDate>1965-09-03</issueDate>
+  <faceValue>0.32元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京邮票厂</printedBy>
+  <author>何孔德, 彦涵, 中央美院雕塑创作室, 王式廓</author>
+  <designer>卢天骄</designer>
+  <layout>(1)35(5×7)、(2)(4)50(5×10)、(3)50(10×5)</layout>
+  <keyStamps>(4-1)30.00-40.00(元/枚)(旧), (4-4)15.00-20.00(元/枚)(旧)</keyStamps>
+  <notes>(4-4)原绘画作品名称为《参军》</notes>
+  <StampList>
+    <stamp>
+      <stampIndex>4-1</stampIndex>
+      <stampName>毛主席在著作</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>54×40</stampSize>
+      <stampPerforation>P11</stampPerforation>
+      <stampAmount>800.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>4-2</stampIndex>
+      <stampName>八路军东渡黄河</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>40×30</stampSize>
+      <stampPerforation>P11×11.5</stampPerforation>
+      <stampAmount>500.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>4-3</stampIndex>
+      <stampName>人民战争胜利</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>30×40</stampSize>
+      <stampPerforation>P11.5×11</stampPerforation>
+      <stampAmount>500.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>4-4</stampIndex>
+      <stampName>光荣参军</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>40×30</stampSize>
+      <stampPerforation>P11×11.5</stampPerforation>
+      <stampAmount>500.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

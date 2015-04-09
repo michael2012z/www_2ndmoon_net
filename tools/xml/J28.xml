@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>J28</reference>
+  <name>全国财贸学大庆学大寨会议</name>
+  <format>影写版</format>
+  <nSuite>2</nSuite>
+  <issueDate>1978-06-20</issueDate>
+  <faceValue>0.16元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京邮票厂</printedBy>
+  <author></author>
+  <designer>陈晓聪</designer>
+  <layout>100(10×10)</layout>
+  <keyStamps></keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>2-1</stampIndex>
+      <stampName>会标</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>25×40</stampSize>
+      <stampPerforation>P13</stampPerforation>
+      <stampAmount>1500.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>2-2</stampIndex>
+      <stampName>发展经济，保障供给</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>25×40</stampSize>
+      <stampPerforation>P13</stampPerforation>
+      <stampAmount>1500.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

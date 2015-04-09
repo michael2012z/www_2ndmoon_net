@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>S24</reference>
+  <name>气象</name>
+  <format>胶雕套印(无背胶)</format>
+  <nSuite>3</nSuite>
+  <issueDate>1958-08-25</issueDate>
+  <faceValue>0.24元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京人民印刷厂</printedBy>
+  <author>唐霖坤、孔绍惠</author>
+  <designer>孙传哲</designer>
+  <layout>120(12×10)</layout>
+  <keyStamps></keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>3-1</stampIndex>
+      <stampName>古代象仪</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>22.5×30.5</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>800.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-2</stampIndex>
+      <stampName>气象观测</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>22.5×30.5</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>800.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-3</stampIndex>
+      <stampName>气象服务</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>22.5×30.5</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>800.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

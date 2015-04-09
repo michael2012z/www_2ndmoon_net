@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>C32</reference>
+  <name>中苏友好同盟互助条约签订五周年纪念</name>
+  <format>雕刻版(无背胶)</format>
+  <nSuite>2</nSuite>
+  <issueDate>1955-07-25</issueDate>
+  <faceValue>0.28元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京人民印刷厂营业分厂</printedBy>
+  <author>唐霖坤、孔绍惠</author>
+  <designer>刘硕仁</designer>
+  <layout>(1)72(8×9)，(2)90(10×9)</layout>
+  <keyStamps>(2-2)8.00-11.00(元/枚)(旧)</keyStamps>
+  <notes>原作者：(1)德·阿·纳尔班殿[苏联]、(2)李宗津</notes>
+  <StampList>
+    <stamp>
+      <stampIndex>2-1</stampIndex>
+      <stampName>伟大的友谊</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>37.5×31</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>700.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>2-2</stampIndex>
+      <stampName>学习苏联经验</stampName>
+      <stampFaceValue>0.2</stampFaceValue>
+      <stampSize>27×33.5</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>500.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

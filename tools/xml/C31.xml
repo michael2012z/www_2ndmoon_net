@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>C31</reference>
+  <name>中国红十字会成立五十周年纪念</name>
+  <format>雕凸套印(无背胶)</format>
+  <nSuite>1</nSuite>
+  <issueDate>1955-06-25</issueDate>
+  <faceValue>0.08元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京人民印刷厂营业分厂</printedBy>
+  <author>孔绍惠</author>
+  <designer>董纯琦</designer>
+  <layout>96(8×12)</layout>
+  <keyStamps></keyStamps>
+  <notes>１９５５年初，中国人民币币值实行改革，原１万元改为１元。邮电部于当年１１月３日发布命令，决定自１９５６年１月１日起停止出售旧币值邮票，改用新币值邮票。本套邮票是中国人民邮政以新币值发行的第一套邮票。</notes>
+  <StampList>
+    <stamp>
+      <stampIndex>1-1</stampIndex>
+      <stampName>工人学习卫生常识参加救护训练</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>38×22</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>600.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

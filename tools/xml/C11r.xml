@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>C11r</reference>
+  <name>鲁迅逝世十五周年</name>
+  <format>胶版(无背胶)</format>
+  <nSuite>2</nSuite>
+  <issueDate>1955-1-10(再版)</issueDate>
+  <faceValue>1200圆(旧币)</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>上海市印刷一厂(再)</printedBy>
+  <author></author>
+  <designer>孙传哲</designer>
+  <layout>50(5×10)，另有25(5×5)</layout>
+  <keyStamps></keyStamps>
+  <notes>下面的发行量为原版票发行量，再版票发行量不详。</notes>
+  <StampList>
+    <stamp>
+      <stampIndex>2-1</stampIndex>
+      <stampName>鲁迅像和诗句（紫色）</stampName>
+      <stampFaceValue>400.0</stampFaceValue>
+      <stampSize>37×22</stampSize>
+      <stampPerforation>P12.5</stampPerforation>
+      <stampAmount>200.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>2-2</stampIndex>
+      <stampName>鲁迅像和诗句（绿色）</stampName>
+      <stampFaceValue>800.0</stampFaceValue>
+      <stampSize>37×22</stampSize>
+      <stampPerforation>P12.5</stampPerforation>
+      <stampAmount>400.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

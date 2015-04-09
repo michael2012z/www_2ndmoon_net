@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>C109</reference>
+  <name>遵义会议三十周年</name>
+  <format>影写版</format>
+  <nSuite>3</nSuite>
+  <issueDate>1965-01-31</issueDate>
+  <faceValue>0.24元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京邮票厂</printedBy>
+  <author>高虹[油画]
+, 郑景康[摄影], 
+彭彬[油画]</author>
+  <designer>刘硕仁</designer>
+  <layout>(2)50(10×5)/(1)(3)35(5×7)</layout>
+  <keyStamps></keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>3-1</stampIndex>
+      <stampName>决战前夕</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>54×40</stampSize>
+      <stampPerforation>P11</stampPerforation>
+      <stampAmount>1000.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-2</stampIndex>
+      <stampName>毛主席像</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>30×40</stampSize>
+      <stampPerforation>P11.5×11</stampPerforation>
+      <stampAmount>1000.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-3</stampIndex>
+      <stampName>娄山关大捷</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>54×40</stampSize>
+      <stampPerforation>P11</stampPerforation>
+      <stampAmount>1000.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

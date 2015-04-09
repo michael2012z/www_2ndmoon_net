@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>C14</reference>
+  <name>国际保卫儿童会议</name>
+  <format>胶版(无背胶)</format>
+  <nSuite>2</nSuite>
+  <issueDate>1952-04-12</issueDate>
+  <faceValue>1200圆（旧币）</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>上海华东区税务管理局印刷厂</printedBy>
+  <author></author>
+  <designer>孙传哲</designer>
+  <layout>90(9×10)，另有132(12×11)</layout>
+  <keyStamps></keyStamps>
+  <notes>特殊齿度：(2-1)有上边P14或上下边P14。(2-2)有上边P14或下边P14。</notes>
+  <StampList>
+    <stamp>
+      <stampIndex>2-1</stampIndex>
+      <stampName>旗帜、母亲的手及儿童(绿)</stampName>
+      <stampFaceValue>400.0</stampFaceValue>
+      <stampSize>22×33</stampSize>
+      <stampPerforation>P12.5</stampPerforation>
+      <stampAmount>400.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>2-2</stampIndex>
+      <stampName>旗帜、母亲的手及儿童(蓝)</stampName>
+      <stampFaceValue>800.0</stampFaceValue>
+      <stampSize>22×33</stampSize>
+      <stampPerforation>P12.5</stampPerforation>
+      <stampAmount>1600.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

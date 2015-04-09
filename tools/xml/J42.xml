@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>J42</reference>
+  <name>中华人民共和国邮票展览·香港（小型张）</name>
+  <format>影写版</format>
+  <nSuite>1</nSuite>
+  <issueDate>1979-11-10</issueDate>
+  <faceValue>2.00元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京邮票厂</printedBy>
+  <author></author>
+  <designer>任宇</designer>
+  <layout>135mm×90mm</layout>
+  <keyStamps></keyStamps>
+  <notes>由T37M小型张加字而成</notes>
+  <StampList>
+    <stamp>
+      <stampIndex>1-1</stampIndex>
+      <stampName>云南山茶花</stampName>
+      <stampFaceValue>2.0</stampFaceValue>
+      <stampSize>90×40</stampSize>
+      <stampPerforation>P11.5×11</stampPerforation>
+      <stampAmount>10.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>T33</reference>
+  <name>中国绘画·长沙楚墓帛画</name>
+  <format>影写版</format>
+  <nSuite>2</nSuite>
+  <issueDate>1979-03-29</issueDate>
+  <faceValue>0.68元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京邮票厂</printedBy>
+  <author></author>
+  <designer>邵柏林</designer>
+  <layout>28(7×4)</layout>
+  <keyStamps></keyStamps>
+  <notes>(2-1)票图名称应为：龙凤引魂升仙帛画</notes>
+  <StampList>
+    <stamp>
+      <stampIndex>2-1</stampIndex>
+      <stampName>人物變凤帛画</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>40×54</stampSize>
+      <stampPerforation>P11</stampPerforation>
+      <stampAmount>600.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>2-2</stampIndex>
+      <stampName>人物驭龙帛画</stampName>
+      <stampFaceValue>0.6</stampFaceValue>
+      <stampSize>40×54</stampSize>
+      <stampPerforation>P11</stampPerforation>
+      <stampAmount>200.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

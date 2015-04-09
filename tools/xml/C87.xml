@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>C87</reference>
+  <name>詹天佑诞生一百周年</name>
+  <format>影写版</format>
+  <nSuite>2</nSuite>
+  <issueDate>1961-06-20</issueDate>
+  <faceValue>0.18元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京邮票厂</printedBy>
+  <author></author>
+  <designer>吴建坤</designer>
+  <layout>50(10×5)</layout>
+  <keyStamps>(2-2)7.00-10.00(元/枚)(旧)</keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>2-1</stampIndex>
+      <stampName>詹天佑像</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>30×40</stampSize>
+      <stampPerforation>P11.5×11</stampPerforation>
+      <stampAmount>800.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>2-2</stampIndex>
+      <stampName>京张铁路</stampName>
+      <stampFaceValue>0.1</stampFaceValue>
+      <stampSize>30×40</stampSize>
+      <stampPerforation>P11.5×11</stampPerforation>
+      <stampAmount>300.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

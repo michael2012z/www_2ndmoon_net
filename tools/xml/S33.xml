@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>S33</reference>
+  <name>苏联宇宙火箭</name>
+  <format>影写版(无背胶)</format>
+  <nSuite>1</nSuite>
+  <issueDate>1959-09-10</issueDate>
+  <faceValue>0.08元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京邮票厂</printedBy>
+  <author></author>
+  <designer>刘硕仁</designer>
+  <layout>100(10×10)</layout>
+  <keyStamps></keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>1-1</stampIndex>
+      <stampName>宇宙火箭在运行</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>28×22</stampSize>
+      <stampPerforation>P11.5</stampPerforation>
+      <stampAmount>900.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

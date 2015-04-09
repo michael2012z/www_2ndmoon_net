@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>S12</reference>
+  <name>新建二十二万伏超高压送电线路（一九五四）</name>
+  <format>雕刻版(无背胶)</format>
+  <nSuite>1</nSuite>
+  <issueDate>1955-02-25</issueDate>
+  <faceValue>800圆(旧币)</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京人民印刷厂营业分厂</printedBy>
+  <author>李曼曾</author>
+  <designer>卢天骄</designer>
+  <layout>117(13×9)</layout>
+  <keyStamps></keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>1-1</stampIndex>
+      <stampName>超高压送电线路</stampName>
+      <stampFaceValue>800.0</stampFaceValue>
+      <stampSize>20×34</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>600.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

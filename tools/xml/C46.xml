@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>C46</reference>
+  <name>马克思诞生一四零周年纪念</name>
+  <format>雕刻版(无背胶)</format>
+  <nSuite>2</nSuite>
+  <issueDate>1958-05-05</issueDate>
+  <faceValue>0.30元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京人民印刷厂营业分厂</printedBy>
+  <author>周永麟、李曼曾、刘国桐</author>
+  <designer>孙传哲</designer>
+  <layout>99(11×9)</layout>
+  <keyStamps>(2-2)10.00-13.00(元/枚)(旧)</keyStamps>
+  <notes>原画作者: 茹可夫[苏联]</notes>
+  <StampList>
+    <stamp>
+      <stampIndex>2-1</stampIndex>
+      <stampName>马克思半身像</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>24×33</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>950.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>2-2</stampIndex>
+      <stampName>在伦敦德国工人教育协会上讲话</stampName>
+      <stampFaceValue>0.22</stampFaceValue>
+      <stampSize>24×33</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>300.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

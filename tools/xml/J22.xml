@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>J22</reference>
+  <name>伟大的领袖和导师毛泽东主席纪念堂</name>
+  <format>影写版</format>
+  <nSuite>2</nSuite>
+  <issueDate>1977-09-09</issueDate>
+  <faceValue>0.16元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京邮票厂</printedBy>
+  <author></author>
+  <designer>卢天骄</designer>
+  <layout>30(3×10)</layout>
+  <keyStamps></keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>2-1</stampIndex>
+      <stampName>伟大的领袖和导师毛主席纪念堂</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>60×30</stampSize>
+      <stampPerforation>P11×11.5</stampPerforation>
+      <stampAmount>1500.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>2-2</stampIndex>
+      <stampName>华国锋题字</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>60×30</stampSize>
+      <stampPerforation>P11×11.5</stampPerforation>
+      <stampAmount>1500.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

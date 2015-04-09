@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>C59</reference>
+  <name>三八国际妇女节</name>
+  <format>胶雕套印(无背胶)</format>
+  <nSuite>2</nSuite>
+  <issueDate>1959-03-08</issueDate>
+  <faceValue>0.30元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京人民印刷厂</printedBy>
+  <author>唐霖坤、高品璋</author>
+  <designer>卢天骄</designer>
+  <layout>110(11×10)</layout>
+  <keyStamps></keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>2-1</stampIndex>
+      <stampName>中国妇女为建设社会主义而努力</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>24×30</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>750.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>2-2</stampIndex>
+      <stampName>全世界妇女大团结</stampName>
+      <stampFaceValue>0.22</stampFaceValue>
+      <stampSize>24×30</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>250.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>S36</reference>
+  <name>民族文化宫</name>
+  <format>胶雕套印(无背胶)</format>
+  <nSuite>2</nSuite>
+  <issueDate>1959-12-10</issueDate>
+  <faceValue>0.12元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京人民印刷厂</printedBy>
+  <author>孙鸿年</author>
+  <designer>万维生</designer>
+  <layout>30(5×6)</layout>
+  <keyStamps></keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>2-1</stampIndex>
+      <stampName>民族文化馆(红框)</stampName>
+      <stampFaceValue>0.04</stampFaceValue>
+      <stampSize>29.5×24</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>400.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>2-2</stampIndex>
+      <stampName>民族文化馆(绿框)</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>29.5×24</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>800.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>C8e</reference>
+  <name>中苏友好同盟互助条约签订纪念（东北贴用）</name>
+  <format>雕刻版(无背胶)</format>
+  <nSuite>3</nSuite>
+  <issueDate>1950-12-1(原版)</issueDate>
+  <faceValue>27500圆(东北币)</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京中国人民印刷厂(原版)</printedBy>
+  <author>刘国桐</author>
+  <designer>孙传哲</designer>
+  <layout>50(5×10)</layout>
+  <keyStamps>(3-3)120.0-210.0(元/枚)(旧)</keyStamps>
+  <notes>原画作者：王式廓。下面的发行量为原版票发行量，再版票发行量不详。</notes>
+  <StampList>
+    <stamp>
+      <stampIndex>3-1</stampIndex>
+      <stampName>中苏友谊（红色）</stampName>
+      <stampFaceValue>2500.0</stampFaceValue>
+      <stampSize>50.5×28</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>50.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-2</stampIndex>
+      <stampName>中苏友谊（绿色）</stampName>
+      <stampFaceValue>5000.0</stampFaceValue>
+      <stampSize>50.5×28</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>80.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-3</stampIndex>
+      <stampName>中苏友谊（蓝色）</stampName>
+      <stampFaceValue>20000.0</stampFaceValue>
+      <stampSize>50.5×28</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>50.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

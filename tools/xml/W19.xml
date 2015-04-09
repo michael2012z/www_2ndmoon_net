@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>W19</reference>
+  <name>革命青年的榜样</name>
+  <format>影写版</format>
+  <nSuite>1</nSuite>
+  <issueDate>1970-01-21</issueDate>
+  <faceValue>0.08元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京邮票厂</printedBy>
+  <author>陈逸飞、徐纯中</author>
+  <designer>夏中东</designer>
+  <layout>50(10×5)</layout>
+  <keyStamps></keyStamps>
+  <notes>有2种版式，俗称“白水版”和“黑水版”。
+
+文19发行背景
+　　金训华是“文化大革命”期间一位到东北农村插队的知识青年，在１９６９年的一次特大洪水中，他为打捞被洪水卷走的电线杆而牺牲。新闻界对此进行了大量报道。这套邮票就是为了纪念和宣传金训华而发行的。</notes>
+  <StampList>
+    <stamp>
+      <stampIndex>1-1</stampIndex>
+      <stampName>金训华</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>31×52</stampSize>
+      <stampPerforation>P11.5</stampPerforation>
+      <stampAmount>1000.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

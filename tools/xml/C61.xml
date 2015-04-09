@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>C61</reference>
+  <name>国际劳动节</name>
+  <format>雕刻版(无背胶)</format>
+  <nSuite>3</nSuite>
+  <issueDate>1959-05-01</issueDate>
+  <faceValue>0.34元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京人民印刷厂</printedBy>
+  <author>孙鸿年、孔绍惠、高品璋</author>
+  <designer>孙传哲</designer>
+  <layout>90(10×9)</layout>
+  <keyStamps>(3-3)6.00-10.00(元/枚)(旧)</keyStamps>
+  <notes></notes>
+  <StampList>
+    <stamp>
+      <stampIndex>3-1</stampIndex>
+      <stampName>学习马克思列宁主义</stampName>
+      <stampFaceValue>0.04</stampFaceValue>
+      <stampSize>25.5×34.5</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>350.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-2</stampIndex>
+      <stampName>全世界无产者联合起来</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>25.5×34.5</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>700.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-3</stampIndex>
+      <stampName>庆祝“五一”劳动节</stampName>
+      <stampFaceValue>0.22</stampFaceValue>
+      <stampSize>25.5×34.5</stampSize>
+      <stampPerforation>P14</stampPerforation>
+      <stampAmount>250.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

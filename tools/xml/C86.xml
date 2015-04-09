@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>C86</reference>
+  <name>第26届世界乒乓球锦标赛</name>
+  <format>影写版</format>
+  <nSuite>4</nSuite>
+  <issueDate>1961-04-05</issueDate>
+  <faceValue>0.60元</faceValue>
+  <issuedBy>邮电部</issuedBy>
+  <printedBy>北京邮票厂</printedBy>
+  <author></author>
+  <designer>吴建坤</designer>
+  <layout>75(5×15)</layout>
+  <keyStamps>(4-3)5.00-7.00(元/枚)(旧), (4-4)7.00-10.00(元/枚)(旧)</keyStamps>
+  <notes>(4-1)图中会徽由陈万军设计。</notes>
+  <StampList>
+    <stamp>
+      <stampIndex>4-1</stampIndex>
+      <stampName>会徽及迎春花</stampName>
+      <stampFaceValue>0.08</stampFaceValue>
+      <stampSize>54×20</stampSize>
+      <stampPerforation>P11</stampPerforation>
+      <stampAmount>1200.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>4-2</stampIndex>
+      <stampName>天坛和球拍</stampName>
+      <stampFaceValue>0.1</stampFaceValue>
+      <stampSize>54×20</stampSize>
+      <stampPerforation>P11</stampPerforation>
+      <stampAmount>800.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>4-3</stampIndex>
+      <stampName>比赛</stampName>
+      <stampFaceValue>0.2</stampFaceValue>
+      <stampSize>54×20</stampSize>
+      <stampPerforation>P11</stampPerforation>
+      <stampAmount>500.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>4-4</stampIndex>
+      <stampName>工人体育馆</stampName>
+      <stampFaceValue>0.22</stampFaceValue>
+      <stampSize>54×20</stampSize>
+      <stampPerforation>P11</stampPerforation>
+      <stampAmount>150.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>

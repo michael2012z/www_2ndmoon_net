@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <reference>C3e</reference>
+  <name>世界工联亚洲澳洲工会会议纪念（东北贴用）</name>
+  <format>胶版(无背胶)</format>
+  <nSuite>3</nSuite>
+  <issueDate>1949-11-16(原版)</issueDate>
+  <faceValue>60000圆(东北币)</faceValue>
+  <issuedBy>东北邮政管理总局(原版)</issuedBy>
+  <printedBy>原版：上海商务印书馆</printedBy>
+  <author>孙传哲</author>
+  <designer>曹必慧、王润丰</designer>
+  <layout>100(10×10)</layout>
+  <keyStamps>(3-3)3000-4000(元/枚)(旧)</keyStamps>
+  <notes>下面的发行量为原版票发行量，再版票发行量不详。</notes>
+  <StampList>
+    <stamp>
+      <stampIndex>3-1</stampIndex>
+      <stampName>地球和紧握铁锤的手(红)</stampName>
+      <stampFaceValue>5000.0</stampFaceValue>
+      <stampSize>22×30.5</stampSize>
+      <stampPerforation>P12.5</stampPerforation>
+      <stampAmount>70.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-2</stampIndex>
+      <stampName>地球和紧握铁锤的手(绿)</stampName>
+      <stampFaceValue>20000.0</stampFaceValue>
+      <stampSize>22×30.5</stampSize>
+      <stampPerforation>P12.5</stampPerforation>
+      <stampAmount>25.0</stampAmount>
+    </stamp>
+    <stamp>
+      <stampIndex>3-3</stampIndex>
+      <stampName>地球和紧握铁锤的手(蓝)</stampName>
+      <stampFaceValue>35000.0</stampFaceValue>
+      <stampSize>22×30.5</stampSize>
+      <stampPerforation>P12.5</stampPerforation>
+      <stampAmount>25.0</stampAmount>
+    </stamp>
+  </StampList>
+  <extention></extention>
+</Record>
