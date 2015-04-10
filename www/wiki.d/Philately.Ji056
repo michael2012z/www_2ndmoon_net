@@ -1,0 +1,18 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.89 Safari/537.1
+author=
+charset=UTF-8
+csum=
+ctime=1346947745
+host=121.237.197.244
+name=Philately.Ji056
+rev=2
+targets=
+text=%25width=550px newwin%25 [[Attach:c056.jpg | Attach:c056.jpg]]| [-纪56 北京电报大楼落成纪念-]
+time=1346947957
+author:1346947957=
+diff:1346947957:1346947745:=1c1%0a%3c %25width=550px newwin%25 [[Attach:c056.jpg | Attach:c056.jpg]]| [-纪56 北京电报大楼落成纪念-]%0a\ No newline at end of file%0a---%0a> %25width=550px newwin%25 [[Attach:c056.jpg | Attach:c056.jpg]]| [-纪56 电报-]%0a\ No newline at end of file%0a
+host:1346947957=121.237.197.244
+author:1346947745=
+diff:1346947745:1346947745:=1d0%0a%3c %25width=550px newwin%25 [[Attach:c056.jpg | Attach:c056.jpg]]| [-纪56 电报-]%0a\ No newline at end of file%0a
+host:1346947745=121.237.197.244

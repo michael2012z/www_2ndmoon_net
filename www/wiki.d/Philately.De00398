@@ -1,0 +1,24 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36
+author=
+charset=UTF-8
+csum=
+ctime=1402977740
+host=58.213.51.162
+name=Philately.De00398
+rev=4
+targets=
+text=!! Info%0a|| '''Date''' || '''Print''' || '''Wmk''' || '''Perf.''' ||%0a|| 1933, Apr. 12 || Photo. || N.A. || unknown ||%0a%0a!! List%0a|| '''Scott No.''' || '''Face Value''' || '''Color''' || %0a|| 398 || 6pf || dk green ||%0a|| 399 || 12pf || carmine ||%0a|| 400 || 25pf || ultra ||%0a%0a!! Image%0a%25width=560 newwin%25 [[Attach:de_00398_f.jpg | Attach:de_00398_f.jpg]]%0a%0a!! Background%0a%25rfloat width=150%25 http://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Friedrich_Zweite_Alt.jpg/220px-Friedrich_Zweite_Alt.jpg%0a'''Frederick II''' (German: Friedrich; 24 January 1712 – 17 August 1786) reigned over the Kingdom of Prussia from 1740 until 1786.[1] The third Hohenzollern king, Frederick is best known for his military victories, his reorganization of Prussian armies, his innovative drills and tactics, and his final success against great odds in the Seven Years' War. He became known as Frederick the Great (Friedrich der Große) and was nicknamed Der Alte Fritz ("Old Fritz").%0a
+time=1402978460
+author:1402978460=
+diff:1402978460:1402977808:=13,16d12%0a%3c %0a%3c !! Background%0a%3c %25rfloat width=150%25 http://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Friedrich_Zweite_Alt.jpg/220px-Friedrich_Zweite_Alt.jpg%0a%3c '''Frederick II''' (German: Friedrich; 24 January 1712 – 17 August 1786) reigned over the Kingdom of Prussia from 1740 until 1786.[1] The third Hohenzollern king, Frederick is best known for his military victories, his reorganization of Prussian armies, his innovative drills and tactics, and his final success against great odds in the Seven Years' War. He became known as Frederick the Great (Friedrich der Große) and was nicknamed Der Alte Fritz ("Old Fritz").%0a
+host:1402978460=58.213.51.162
+author:1402977808=
+diff:1402977808:1402977770:=3,4c3,4%0a%3c || 1933, Apr. 12 || Photo. || N.A. || unknown ||%0a%3c %0a---%0a> || 1933, Apr. 12 || Photo. || N.A. || unknown  ||%0a> %0a7c7%0a%3c || 398 || 6pf || dk green ||%0a---%0a> || 398 || 6pf || dk green||%0a
+host:1402977808=58.213.51.162
+author:1402977770=
+diff:1402977770:1402977740:=12c12%0a%3c %25width=560 newwin%25 [[Attach:de_00398_f.jpg | Attach:de_00398_f.jpg]]%0a---%0a> %25width=560 newwin%25 [[Attach:de_00391_f.jpg | Attach:de_00398_f.jpg]]%0a
+host:1402977770=58.213.51.162
+author:1402977740=
+diff:1402977740:1402977740:=1,12d0%0a%3c !! Info%0a%3c || '''Date''' || '''Print''' || '''Wmk''' || '''Perf.''' ||%0a%3c || 1933, Apr. 12 || Photo. || N.A. || unknown  ||%0a%3c %0a%3c !! List%0a%3c || '''Scott No.''' || '''Face Value''' || '''Color''' || %0a%3c || 398 || 6pf || dk green||%0a%3c || 399 || 12pf || carmine ||%0a%3c || 400 || 25pf || ultra ||%0a%3c %0a%3c !! Image%0a%3c %25width=560 newwin%25 [[Attach:de_00391_f.jpg | Attach:de_00398_f.jpg]]%0a
+host:1402977740=58.213.51.162

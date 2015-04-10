@@ -1,0 +1,15 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; SE 2.X)
+author=
+charset=UTF-8
+csum=
+ctime=1289311008
+host=112.2.225.201
+name=Main.Product
+rev=1
+targets=
+text=!! 商品目录%0a%0a%25width=560 newwin%25 [[Attach:2.jpg | Attach:2.jpg]]%0a
+time=1289311008
+author:1289311008=
+diff:1289311008:1289311008:=1,3d0%0a%3c !! 商品目录%0a%3c %0a%3c %25width=560 newwin%25 [[Attach:2.jpg | Attach:2.jpg]]%0a
+host:1289311008=112.2.225.201

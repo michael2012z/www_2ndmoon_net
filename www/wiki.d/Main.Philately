@@ -1,0 +1,45 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36
+author=
+charset=UTF-8
+csum=
+ctime=1345174570
+host=58.213.51.162
+name=Main.Philately
+rev=11
+targets=Philately.PennyBlackStamps,Philately.CoilingDragonStamps,Philately.NaziStamps,Philately.PRChinaStamps
+text=----%0a%25width=520%25[[Philately.PennyBlackStamps | Attach:penny_black_stamps.png ]]%0a----%0a%25width=520%25[[Philately.CoilingDragonStamps | Attach:coiling_dragon_stamps.png ]]%0a----%0a%25width=520%25[[Philately.NaziStamps | Attach:nazi_stamps.png ]]%0a----%0a%25width=520%25[[Philately.PRChinaStamps | Attach:prc_stamps.png ]]%0a%0a
+time=1405483911
+author:1405483911=
+diff:1405483911:1404877900:=2,4c2%0a%3c %25width=520%25[[Philately.PennyBlackStamps | Attach:penny_black_stamps.png ]]%0a%3c ----%0a%3c %25width=520%25[[Philately.CoilingDragonStamps | Attach:coiling_dragon_stamps.png ]]%0a---%0a> %25width=520%25[[Philately.ImperialChinaStamps | Attach:tsing_stamps.png ]]%0a
+host:1405483911=58.213.51.162
+author:1404877900=
+diff:1404877900:1404793811:=7a8,20%0a> %25width=500%25[[Philately.JiNianStamps | Attach:jn_stamps.png ]]%0a> %0a> %25width=500%25[[Philately.TeZhongStamps | Attach:tz_stamps.png ]]%0a> %0a> %25width=500%25[[Philately.WenGeStamps | Attach:wg_stamps.png ]]%0a> %0a> %25width=500%25[[Philately.BianHaoStamps | Attach:bh_stamps.png ]]%0a> %0a> %25width=500%25[[Philately.JiStamps | Attach:jj_stamps.png ]]%0a> %0a> %25width=500%25[[Philately.TeStamps | Attach:tt_stamps.png ]]%0a> %0a> %25width=500%25[[Philately.PuTongStamps | Attach:pt_stamps.png ]]%0a\ No newline at end of file%0a
+host:1404877900=58.213.51.162
+author:1404793811=
+diff:1404793811:1404792972:=1c1%0a%3c ----%0a---%0a> %0a3c3%0a%3c ----%0a---%0a> %0a5c5%0a%3c ----%0a---%0a> %0a
+host:1404793811=58.213.51.162
+author:1404792972=
+diff:1404792972:1404792272:=1,3c1,4%0a%3c %0a%3c %25width=520%25[[Philately.ImperialChinaStamps | Attach:tsing_stamps.png ]]%0a%3c %0a---%0a> [[Philately.PRChinaStamps | 中华人民共和国邮票]]%0a> %0a> [[Philately.ImperialChinaStamps | 清代邮票]]%0a> %0a5,6d5%0a%3c %0a%3c %25width=520%25[[Philately.PRChinaStamps | Attach:prc_stamps.png ]]%0a
+host:1404792972=58.213.51.162
+author:1404792272=
+diff:1404792272:1404792216:=5c5%0a%3c %25width=520%25[[Philately.NaziStamps | Attach:nazi_stamps.png ]]%0a---%0a> %25width=500%25[[Philately.NaziStamps | Attach:nazi_stamps.png ]]%0a
+host:1404792272=58.213.51.162
+author:1404792216=
+diff:1404792216:1402547433:=5c5%0a%3c %25width=500%25[[Philately.NaziStamps | Attach:nazi_stamps.png ]]%0a---%0a> [[Philately.NaziStamps | 纳粹邮票]]%0a
+host:1404792216=58.213.51.162
+author:1402547433=
+diff:1402547433:1402547403:=2d1%0a%3c %0a4d2%0a%3c %0a
+host:1402547433=58.213.51.162
+author:1402547403=
+diff:1402547403:1366907693:=1,3c1%0a%3c [[Philately.PRChinaStamps | 中华人民共和国邮票]]%0a%3c [[Philately.ImperialChinaStamps | 清代邮票]]%0a%3c [[Philately.NaziStamps | 纳粹邮票]]%0a---%0a> [[Philately.test | test]]%0a
+host:1402547403=58.213.51.162
+author:1366907693=
+diff:1366907693:1366906213:=1,2d0%0a%3c [[Philately.test | test]]%0a%3c %0a15c13%0a%3c %25width=500%25[[Philately.PuTongStamps | Attach:pt_stamps.png ]]%0a\ No newline at end of file%0a---%0a> %25width=500%25[[Philately.PuTongStamps | Attach:pt_stamps.png ]]%0a
+host:1366907693=121.225.161.189
+author:1366906213=
+diff:1366906213:1345174570:=13a14,15%0a> %0a> %25width=500%25[[Philately.BianNianStamps | Attach:bn_stamps.png ]]%0a
+host:1366906213=121.225.161.189
+author:1345174570=
+diff:1345174570:1345174570:=1,15d0%0a%3c %25width=500%25[[Philately.JiNianStamps | Attach:jn_stamps.png ]]%0a%3c %0a%3c %25width=500%25[[Philately.TeZhongStamps | Attach:tz_stamps.png ]]%0a%3c %0a%3c %25width=500%25[[Philately.WenGeStamps | Attach:wg_stamps.png ]]%0a%3c %0a%3c %25width=500%25[[Philately.BianHaoStamps | Attach:bh_stamps.png ]]%0a%3c %0a%3c %25width=500%25[[Philately.JiStamps | Attach:jj_stamps.png ]]%0a%3c %0a%3c %25width=500%25[[Philately.TeStamps | Attach:tt_stamps.png ]]%0a%3c %0a%3c %25width=500%25[[Philately.PuTongStamps | Attach:pt_stamps.png ]]%0a%3c %0a%3c %25width=500%25[[Philately.BianNianStamps | Attach:bn_stamps.png ]]%0a
+host:1345174570=58.213.51.162

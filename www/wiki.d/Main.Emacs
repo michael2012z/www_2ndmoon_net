@@ -1,0 +1,24 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.224 Safari/534.10
+author=
+charset=UTF-8
+csum=
+ctime=1292465774
+host=114.80.140.34
+name=Main.Emacs
+rev=4
+targets=Emacs.Design,Emacs.Configuration,Emacs.Plugins,Emacs.History
+text=%25lfloat%25 [[ Emacs.Design | Attach:icon_design.png]] %0a>>center%3c%3c%0a!! Design%0a>>%3c%3c%0a[[%3c%3c]]%0a[[%3c%3c]]%0a%0a%25lfloat%25 [[ Emacs.Configuration | Attach:icon_config.png]] %0a>>center%3c%3c%0a!! Configuration %0a>>%3c%3c%0a[[%3c%3c]]%0a[[%3c%3c]]%0a%0a%25lfloat%25 [[ Emacs.Plugins | Attach:icon_plugin.png]] %0a>>center%3c%3c%0a!! Plugins %0a>>%3c%3c%0a[[%3c%3c]]%0a[[%3c%3c]]%0a%0a%25lfloat%25 [[ Emacs.History | Attach:icon_history.png]] %0a>>center%3c%3c%0a!! History%0a>>%3c%3c%0a[[%3c%3c]]%0a[[%3c%3c]]%0a
+time=1292475869
+author:1292475869=
+diff:1292475869:1292475423:=1,7d0%0a%3c %25lfloat%25 [[ Emacs.Design | Attach:icon_design.png]] %0a%3c >>center%3c%3c%0a%3c !! Design%0a%3c >>%3c%3c%0a%3c [[%3c%3c]]%0a%3c [[%3c%3c]]%0a%3c %0a
+host:1292475869=114.80.140.34
+author:1292475423=
+diff:1292475423:1292465990:=0a1%0a> %0a11,17d11%0a%3c >>%3c%3c%0a%3c [[%3c%3c]]%0a%3c [[%3c%3c]]%0a%3c %0a%3c %25lfloat%25 [[ Emacs.History | Attach:icon_history.png]] %0a%3c >>center%3c%3c%0a%3c !! History%0a
+host:1292475423=114.80.140.34
+author:1292465990=
+diff:1292465990:1292465774:=1,14c1,3%0a%3c %0a%3c %25lfloat%25 [[ Emacs.Configuration | Attach:icon_config.png]] %0a%3c >>center%3c%3c%0a%3c !! Configuration %0a%3c >>%3c%3c%0a%3c [[%3c%3c]]%0a%3c [[%3c%3c]]%0a%3c %0a%3c %25lfloat%25 [[ Emacs.Plugins | Attach:icon_plugin.png]] %0a%3c >>center%3c%3c%0a%3c !! Plugins %0a%3c >>%3c%3c%0a%3c [[%3c%3c]]%0a%3c [[%3c%3c]]%0a---%0a> [[ Emacs.Configuration ]]%0a> %0a> [[ Emacs.Plugins ]]%0a
+host:1292465990=114.80.140.34
+author:1292465774=
+diff:1292465774:1292465774:=1,3d0%0a%3c [[ Emacs.Configuration ]]%0a%3c %0a%3c [[ Emacs.Plugins ]]%0a
+host:1292465774=114.80.140.34

@@ -1,0 +1,27 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.2.6) Gecko/20100625 Firefox/3.6.6
+author=
+charset=UTF-8
+csum=
+ctime=1271762358
+host=194.237.142.17
+name=Enterprise.OpenSource
+rev=5
+targets=Enterprise.EnterpriseOpenSourceEmacs,Enterprise.EnterpriseOpenSourceGit,Enterprise.EnterpriseOpenSourceLinux
+text=[[Enterprise_OpenSource_Emacs | Emacs]]%0a%0a[[Enterprise_OpenSource_Git | Git]]%0a%0a[[Enterprise_OpenSource_Linux | Linux]]%0a
+time=1279168167
+author:1279168167=
+diff:1279168167:1279167348:=4,5d3%0a%3c %0a%3c [[Enterprise_OpenSource_Linux | Linux]]%0a
+host:1279168167=194.237.142.17
+author:1279167348=
+diff:1279167348:1271762523:=2,3d1%0a%3c %0a%3c [[Enterprise_OpenSource_Git | Git]]%0a
+host:1279167348=194.237.142.17
+author:1271762523=
+diff:1271762523:1271762481:=1c1%0a%3c [[Enterprise_OpenSource_Emacs | Emacs]]%0a---%0a> [[Enterprise.OpenSource.Emacs | Emacs]]%0a
+host:1271762523=114.80.140.34
+author:1271762481=
+diff:1271762481:1271762358:=1c1,2%0a%3c [[Enterprise.OpenSource.Emacs | Emacs]]%0a---%0a> %0a> [[Enterprise_OpenSource_Emacs | Emacs]]%0a
+host:1271762481=114.80.140.34
+author:1271762358=
+diff:1271762358:1271762358:=1,2d0%0a%3c %0a%3c [[Enterprise_OpenSource_Emacs | Emacs]]%0a
+host:1271762358=114.80.140.34

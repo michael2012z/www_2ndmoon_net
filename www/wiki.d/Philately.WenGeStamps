@@ -1,0 +1,15 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.64 Safari/537.31
+author=
+charset=UTF-8
+csum=
+ctime=1366906098
+host=121.225.161.189
+name=Philately.WenGeStamps
+rev=1
+targets=Philately.W1,Philately.W2,Philately.W3,Philately.W4,Philately.W5,Philately.W6,Philately.W7,Philately.W8,Philately.W9,Philately.W10,Philately.W11,Philately.W12,Philately.W13,Philately.W14,Philately.W15,Philately.W16,Philately.W17,Philately.W18,Philately.W19
+text=|| border=1 width=100%25%0a||! 志号 ||! 名称 ||%0a|| [[ Philately.W1 | 文1 ]] || 战无不胜的毛泽东思想万岁 ||%0a|| [[ Philately.W2 | 文2 ]] || 毛主席万岁 ||%0a|| [[ Philately.W3 | 文3 ]] || 《在延安文艺座谈会上的讲话》发表二十五周年 ||%0a|| [[ Philately.W4 | 文4 ]] || 祝毛主席万寿无疆 ||%0a|| [[ Philately.W5 | 文5 ]] || 毛主席的革命文艺路线胜利万岁 ||%0a|| [[ Philately.W6 | 文6 ]] || 毛主席与世界人民 ||%0a|| [[ Philately.W7 | 文7 ]] || 毛主席诗词 ||%0a|| [[ Philately.W8 | 文8 ]] || 大海航行靠舵手，干革命靠毛泽东思想 ||%0a|| [[ Philately.W9 | 文9 ]] || 中国共产党中央委员会主席毛泽东同志支持美国黑人抗暴斗争的声明 ||%0a|| [[ Philately.W10 | 文10 ]] || 毛主席最新指示 ||%0a|| [[ Philately.W11 | 文11 ]] || 林彪1965年7月26日为《中国人民解放军》邮票题词 ||%0a|| [[ Philately.W12 | 文12 ]] || 毛主席去安源 ||%0a|| [[ Philately.W13 | 文13 ]] || 毛主席最新指示 ||%0a|| [[ Philately.W14 | 文14 ]] || 南京长江大桥胜利建成 ||%0a|| [[ Philately.W15 | 文15 ]] || 热烈欢呼中共八届十二中全会公报的发表 ||%0a|| [[ Philately.W16 | 文16 ]] || 钢琴伴唱《红灯记》 ||%0a|| [[ Philately.W17 | 文17 ]] || 知识青年在农村 ||%0a|| [[ Philately.W18 | 文18 ]] || 用毛泽东思想武装起来的中国人民是不可战胜的 ||%0a|| [[ Philately.W19 | 文19 ]] || 革命青年的榜样 ||%0a
+time=1366906098
+author:1366906098=
+diff:1366906098:1366906098:=1,21d0%0a%3c || border=1 width=100%25%0a%3c ||! 志号 ||! 名称 ||%0a%3c || [[ Philately.W1 | 文1 ]] || 战无不胜的毛泽东思想万岁 ||%0a%3c || [[ Philately.W2 | 文2 ]] || 毛主席万岁 ||%0a%3c || [[ Philately.W3 | 文3 ]] || 《在延安文艺座谈会上的讲话》发表二十五周年 ||%0a%3c || [[ Philately.W4 | 文4 ]] || 祝毛主席万寿无疆 ||%0a%3c || [[ Philately.W5 | 文5 ]] || 毛主席的革命文艺路线胜利万岁 ||%0a%3c || [[ Philately.W6 | 文6 ]] || 毛主席与世界人民 ||%0a%3c || [[ Philately.W7 | 文7 ]] || 毛主席诗词 ||%0a%3c || [[ Philately.W8 | 文8 ]] || 大海航行靠舵手，干革命靠毛泽东思想 ||%0a%3c || [[ Philately.W9 | 文9 ]] || 中国共产党中央委员会主席毛泽东同志支持美国黑人抗暴斗争的声明 ||%0a%3c || [[ Philately.W10 | 文10 ]] || 毛主席最新指示 ||%0a%3c || [[ Philately.W11 | 文11 ]] || 林彪1965年7月26日为《中国人民解放军》邮票题词 ||%0a%3c || [[ Philately.W12 | 文12 ]] || 毛主席去安源 ||%0a%3c || [[ Philately.W13 | 文13 ]] || 毛主席最新指示 ||%0a%3c || [[ Philately.W14 | 文14 ]] || 南京长江大桥胜利建成 ||%0a%3c || [[ Philately.W15 | 文15 ]] || 热烈欢呼中共八届十二中全会公报的发表 ||%0a%3c || [[ Philately.W16 | 文16 ]] || 钢琴伴唱《红灯记》 ||%0a%3c || [[ Philately.W17 | 文17 ]] || 知识青年在农村 ||%0a%3c || [[ Philately.W18 | 文18 ]] || 用毛泽东思想武装起来的中国人民是不可战胜的 ||%0a%3c || [[ Philately.W19 | 文19 ]] || 革命青年的榜样 ||%0a
+host:1366906098=121.225.161.189

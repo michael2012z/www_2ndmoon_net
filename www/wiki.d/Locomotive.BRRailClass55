@@ -1,0 +1,15 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux i686) AppleWebKit/536.11 (KHTML, like Gecko) Chrome/20.0.1132.57 Safari/536.11
+author=
+charset=UTF-8
+csum=
+ctime=1342278021
+host=114.222.65.59
+name=Locomotive.BRRailClass55
+rev=1
+targets=
+text=%25width=560px newwin%25 http://upload.wikimedia.org/wikipedia/commons/3/38/Class55scraplineZMAug82.jpg%0a%0a%25width=560px newwin%25 http://upload.wikimedia.org/wikipedia/commons/8/88/All_six_preserved_deltics_at_Barrow_Hill.jpg%0a%0a%25width=560px newwin%25 http://upload.wikimedia.org/wikipedia/commons/8/82/55022_Royal_Scots_Grey.jpg%0a%0a%25width=560px newwin%25 http://upload.wikimedia.org/wikipedia/commons/6/6e/55022_at_Castleton_East_Junction.jpg%0a%0a%25width=560px newwin%25 http://upload.wikimedia.org/wikipedia/commons/0/0b/Class_55_no._55022_at_Grosmont%252C_18.09.2009.jpg%0a%0a%25width=560px newwin%25 http://upload.wikimedia.org/wikipedia/commons/8/81/55022_North_Blyth_26Sept2011.jpg%0a%0a%25width=560px newwin%25 http://upload.wikimedia.org/wikipedia/commons/e/ed/55008_%252C_Peterborough.jpg%0a%0a[[ http://en.wikipedia.org/wiki/British_Rail_Class_55 | read more]]%0a
+time=1342278021
+author:1342278021=
+diff:1342278021:1342278021:=1,15d0%0a%3c %25width=560px newwin%25 http://upload.wikimedia.org/wikipedia/commons/3/38/Class55scraplineZMAug82.jpg%0a%3c %0a%3c %25width=560px newwin%25 http://upload.wikimedia.org/wikipedia/commons/8/88/All_six_preserved_deltics_at_Barrow_Hill.jpg%0a%3c %0a%3c %25width=560px newwin%25 http://upload.wikimedia.org/wikipedia/commons/8/82/55022_Royal_Scots_Grey.jpg%0a%3c %0a%3c %25width=560px newwin%25 http://upload.wikimedia.org/wikipedia/commons/6/6e/55022_at_Castleton_East_Junction.jpg%0a%3c %0a%3c %25width=560px newwin%25 http://upload.wikimedia.org/wikipedia/commons/0/0b/Class_55_no._55022_at_Grosmont%252C_18.09.2009.jpg%0a%3c %0a%3c %25width=560px newwin%25 http://upload.wikimedia.org/wikipedia/commons/8/81/55022_North_Blyth_26Sept2011.jpg%0a%3c %0a%3c %25width=560px newwin%25 http://upload.wikimedia.org/wikipedia/commons/e/ed/55008_%252C_Peterborough.jpg%0a%3c %0a%3c [[ http://en.wikipedia.org/wiki/British_Rail_Class_55 | read more]]%0a
+host:1342278021=114.222.65.59

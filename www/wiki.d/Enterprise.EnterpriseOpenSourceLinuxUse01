@@ -1,0 +1,15 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.2.6) Gecko/20100625 Firefox/3.6.6
+author=
+charset=UTF-8
+csum=
+ctime=1279168266
+host=194.237.142.17
+name=Enterprise.EnterpriseOpenSourceLinuxUse01
+rev=1
+targets=
+text=安装和配置scim（汉字输入法）%0a%0a首先安装两个包：\\%0ascim 和 scim-chinese-tables \\%0a安装完并重启之后，手动运行scim发现在系统托盘里可以出现一个新的键盘图标，但无法切换成中文输入法。\\%0a这时可以看下/etc/X11/Xsession.d目录里是否有95xinput文件，如果没有就手动创建一个，并编辑如下：\\%0a%0aexport XMODIFIERS=@im=SCIM \\%0aexport XIM=scim \\%0aexport XIM_PROGRAM=scim \\%0aexport GTK_IM_MODULE=”scim” \\%0aexport QT_IM_MODULE=”scim” \\%0ascim -d%0a%0a重新启动x11，按ctrl-space，输入法切换成功。
+time=1279168266
+author:1279168266=
+diff:1279168266:1279168266:=1,15d0%0a%3c 安装和配置scim（汉字输入法）%0a%3c %0a%3c 首先安装两个包：\\%0a%3c scim 和 scim-chinese-tables \\%0a%3c 安装完并重启之后，手动运行scim发现在系统托盘里可以出现一个新的键盘图标，但无法切换成中文输入法。\\%0a%3c 这时可以看下/etc/X11/Xsession.d目录里是否有95xinput文件，如果没有就手动创建一个，并编辑如下：\\%0a%3c %0a%3c export XMODIFIERS=@im=SCIM \\%0a%3c export XIM=scim \\%0a%3c export XIM_PROGRAM=scim \\%0a%3c export GTK_IM_MODULE=”scim” \\%0a%3c export QT_IM_MODULE=”scim” \\%0a%3c scim -d%0a%3c %0a%3c 重新启动x11，按ctrl-space，输入法切换成功。%0a\ No newline at end of file%0a
+host:1279168266=194.237.142.17

@@ -1,0 +1,15 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36
+author=
+charset=UTF-8
+csum=
+ctime=1405499285
+host=58.213.51.162
+name=Philately.CoilingDragon7Cents
+rev=1
+targets=
+text=%25newwin width=560%25 [[Attach:coiling_dragon_7c_mint.jpg | Attach:coiling_dragon_7c_mint.jpg]]%0a
+time=1405499285
+author:1405499285=
+diff:1405499285:1405499285:=1d0%0a%3c %25newwin width=560%25 [[Attach:coiling_dragon_7c_mint.jpg | Attach:coiling_dragon_7c_mint.jpg]]%0a
+host:1405499285=58.213.51.162

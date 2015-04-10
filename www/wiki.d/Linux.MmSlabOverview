@@ -1,0 +1,18 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/534.7 (KHTML, like Gecko) Chrome/7.0.517.41 Safari/534.7
+author=
+charset=UTF-8
+csum=
+ctime=1289102019
+host=112.21.41.85
+name=Linux.MmSlabOverview
+rev=2
+targets=
+text=!! Slab Overview%0a%0aWhy we need Slab?%0a%0aThe kernel must also frequently allocate memory but cannot resort to the standard library functions. The buddy system resources described above support the allocation of memory in pages, but this unit is much too big. If space is needed for a string with 10 characters, reserving a full page with 4 KiB or more is not only wasteful but absolutely unacceptable. The obvious solution is to split the memory in a page into smaller units that can then hold large numbers of small objects.%0a%0aTo this end, it is necessary to introduce new management mechanisms that place a greater overhead on the kernel. To minimize the impact of this extra burden on system performance, the implementation of the management layer should be as compact as possible so that there is little noticeable effect on the caches and TLBs of the processor. At the same time, the kernel must ensure that memory is utilized speedily and efficiently. Not only Linux but look-alikes and all other operating systems face this problem.%0a%0aOver the course of time, some good solutions and some bad solutions have been proposed and are described in the general operating system literature (e.g., [Tan07]). One such proposal — slab allocation — has proved to be very efficient for many workloads. It was devised and implemented for Solaris 2.4 by Jeff Bonwick, a Sun employee. Because he publicly documented his method [Bon94], it was also possible to implement a version for Linux.%0a%0a%25width=560 newwin%25 [[Attach:mm_slaboverview.png | Attach:mm_slaboverview.png]]%0a
+time=1289102438
+author:1289102438=
+diff:1289102438:1289102019:=10,11d9%0a%3c %0a%3c %25width=560 newwin%25 [[Attach:mm_slaboverview.png | Attach:mm_slaboverview.png]]%0a
+host:1289102438=112.21.41.85
+author:1289102019=
+diff:1289102019:1289102019:=1,9d0%0a%3c !! Slab Overview%0a%3c %0a%3c Why we need Slab?%0a%3c %0a%3c The kernel must also frequently allocate memory but cannot resort to the standard library functions. The buddy system resources described above support the allocation of memory in pages, but this unit is much too big. If space is needed for a string with 10 characters, reserving a full page with 4 KiB or more is not only wasteful but absolutely unacceptable. The obvious solution is to split the memory in a page into smaller units that can then hold large numbers of small objects.%0a%3c %0a%3c To this end, it is necessary to introduce new management mechanisms that place a greater overhead on the kernel. To minimize the impact of this extra burden on system performance, the implementation of the management layer should be as compact as possible so that there is little noticeable effect on the caches and TLBs of the processor. At the same time, the kernel must ensure that memory is utilized speedily and efficiently. Not only Linux but look-alikes and all other operating systems face this problem.%0a%3c %0a%3c Over the course of time, some good solutions and some bad solutions have been proposed and are described in the general operating system literature (e.g., [Tan07]). One such proposal — slab allocation — has proved to be very efficient for many workloads. It was devised and implemented for Solaris 2.4 by Jeff Bonwick, a Sun employee. Because he publicly documented his method [Bon94], it was also possible to implement a version for Linux.%0a
+host:1289102019=112.21.41.85

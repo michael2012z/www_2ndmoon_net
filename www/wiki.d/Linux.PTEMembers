@@ -1,0 +1,15 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/534.7 (KHTML, like Gecko) Chrome/7.0.517.41 Safari/534.7
+author=
+charset=UTF-8
+csum=
+ctime=1288321486
+host=114.80.140.34
+name=Linux.PTEMembers
+rev=1
+targets=
+text=❑ pte_present checks if the page to which the page table entry points is present in memory. This function can, for instance, be used to detect if a page has been swapped out.\\%0a❑ pte_dirty checks if the page associated with the page table entry is dirty, that is, its contents have been modified since the kernel checked last time. Note that this function may only be called if pte_present has ensured that the page is available.\\%0a❑ pte_write checks if the kernel may write to the page.\\%0a❑ pte_file is employed for nonlinear mappings that provide a different view on file contents by manipulating the page table (this mechanism is discussed in more detail in Section 4.7.3). The function checks if a page table entry belongs to such a mapping.
+time=1288321486
+author:1288321486=
+diff:1288321486:1288321486:=1,4d0%0a%3c ❑ pte_present checks if the page to which the page table entry points is present in memory. This function can, for instance, be used to detect if a page has been swapped out.\\%0a%3c ❑ pte_dirty checks if the page associated with the page table entry is dirty, that is, its contents have been modified since the kernel checked last time. Note that this function may only be called if pte_present has ensured that the page is available.\\%0a%3c ❑ pte_write checks if the kernel may write to the page.\\%0a%3c ❑ pte_file is employed for nonlinear mappings that provide a different view on file contents by manipulating the page table (this mechanism is discussed in more detail in Section 4.7.3). The function checks if a page table entry belongs to such a mapping.%0a\ No newline at end of file%0a
+host:1288321486=114.80.140.34

@@ -1,0 +1,45 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36
+author=
+charset=UTF-8
+csum=
+ctime=1292399644
+host=114.80.140.35
+name=Main.Interest
+rev=11
+targets=Main.Locomotive,Main.Philately,Main.Plant
+text=%25lfloat%25 [[Locomotive | http://farm2.staticflickr.com/1156/1406071248_dbe7e60903_q.jpg]] %0a>>center%3c%3c%0a!! Locomotive%0a>>%3c%3c%0a[[%3c%3c]] %0a[+Why English?+]\\%0aI collect these text and picture about locomotive from other web sites, my aim is to learn, enjoy and share. But if translate them from English to Chinese, this interesting hobby will become endless and boring translation job. That's not what I want.\\%0a[+为什么不写汉字？+]\\%0a我在这里收集了很多关于火车的材料，这些文字和图片来自不同的国外网站，当然目前主要来源是wikipedia。我的目的在于学习和分享，并乐此不疲。但如果我把所有收集到的材料都先翻译成汉字的话，这个爱好就退化成了繁琐和无聊的翻译工作。那并不是我想做的。%0a%0a----%0a%0a%25lfloat width=150%25 [[Philately | Attach:icon_philately.png]] %0a>>center%3c%3c%0a!! 集邮 Philately%0a!! 我收藏的邮票和邮识%0a>>%3c%3c%0a[[%3c%3c]]%0a%0a----%0a%0a%25lfloat width=150%25 [[Plant| Attach:icon_plant.png]] %0a>>center%3c%3c%0a!! 植物%0a!! 美丽的植物世界%0a>>%3c%3c%0a[[%3c%3c]]%0a
+time=1401949770
+author:1401949770=
+diff:1401949770:1345089066:=18,27c18%0a%3c [[%3c%3c]]%0a%3c %0a%3c ----%0a%3c %0a%3c %25lfloat width=150%25 [[Plant| Attach:icon_plant.png]] %0a%3c >>center%3c%3c%0a%3c !! 植物%0a%3c !! 美丽的植物世界%0a%3c >>%3c%3c%0a%3c [[%3c%3c]]%0a---%0a> [[%3c%3c]]%0a\ No newline at end of file%0a
+host:1401949770=114.80.140.35
+author:1345089066=
+diff:1345089066:1344953359:=13c13%0a%3c %25lfloat width=150%25 [[Philately | Attach:icon_philately.png]] %0a---%0a> %25lfloat width=150%25 [[Philately | http://imgsrc.baidu.com/baike/pic/item/034965f4f7607084f3d38534.jpg]] %0a
+host:1345089066=58.213.51.162
+author:1344953359=
+diff:1344953359:1344953342:=10,11d9%0a%3c %0a%3c ----%0a
+host:1344953359=121.237.53.228
+author:1344953342=
+diff:1344953342:1340636177:=9,16c9%0a%3c 我在这里收集了很多关于火车的材料，这些文字和图片来自不同的国外网站，当然目前主要来源是wikipedia。我的目的在于学习和分享，并乐此不疲。但如果我把所有收集到的材料都先翻译成汉字的话，这个爱好就退化成了繁琐和无聊的翻译工作。那并不是我想做的。%0a%3c %0a%3c %25lfloat width=150%25 [[Philately | http://imgsrc.baidu.com/baike/pic/item/034965f4f7607084f3d38534.jpg]] %0a%3c >>center%3c%3c%0a%3c !! 集邮 Philately%0a%3c !! 我收藏的邮票和邮识%0a%3c >>%3c%3c%0a%3c [[%3c%3c]] %0a\ No newline at end of file%0a---%0a> 我在这里收集了很多关于火车的材料，这些文字和图片来自不同的国外网站，当然目前主要来源是wikipedia。我的目的在于学习和分享，并乐此不疲。但如果我把所有收集到的材料都先翻译成汉字的话，这个爱好就退化成了繁琐和无聊的翻译工作。那并不是我想做的。%0a\ No newline at end of file%0a
+host:1344953342=121.237.53.228
+author:1340636177=
+diff:1340636177:1340635679:=1c1%0a%3c %25lfloat%25 [[Locomotive | http://farm2.staticflickr.com/1156/1406071248_dbe7e60903_q.jpg]] %0a---%0a> %25lfloat%25 [[Locomotive | Attach:icon_linux.png]] %0a
+host:1340636177=180.111.239.186
+author:1340635679=
+diff:1340635679:1340635634:=
+host:1340635679=180.111.239.186
+author:1340635634=
+diff:1340635634:1340635575:=6,8c6,8%0a%3c [+Why English?+]\\%0a%3c I collect these text and picture about locomotive from other web sites, my aim is to learn, enjoy and share. But if translate them from English to Chinese, this interesting hobby will become endless and boring translation job. That's not what I want.\\%0a%3c [+为什么不写汉字？+]\\%0a---%0a> Why English?\\%0a> I collect these text and picture about locomotive from other web sites, my aim is to learn, enjoy and share. But if translate them from English to Chinese, this interesting hobby will become endless and boring translation job. That's not what I want.\\\%0a> 为什么不写汉字？\\%0a
+host:1340635634=180.111.239.186
+author:1340635575=
+diff:1340635575:1330355210:=5,9c5,6%0a%3c [[%3c%3c]] %0a%3c Why English?\\%0a%3c I collect these text and picture about locomotive from other web sites, my aim is to learn, enjoy and share. But if translate them from English to Chinese, this interesting hobby will become endless and boring translation job. That's not what I want.\\\%0a%3c 为什么不写汉字？\\%0a%3c 我在这里收集了很多关于火车的材料，这些文字和图片来自不同的国外网站，当然目前主要来源是wikipedia。我的目的在于学习和分享，并乐此不疲。但如果我把所有收集到的材料都先翻译成汉字的话，这个爱好就退化成了繁琐和无聊的翻译工作。那并不是我想做的。%0a\ No newline at end of file%0a---%0a> [[%3c%3c]]%0a> [[%3c%3c]]%0a\ No newline at end of file%0a
+host:1340635575=180.111.239.186
+author:1330355210=
+diff:1330355210:1320250250:=1,6d0%0a%3c %25lfloat%25 [[Locomotive | Attach:icon_linux.png]] %0a%3c >>center%3c%3c%0a%3c !! Locomotive%0a%3c >>%3c%3c%0a%3c [[%3c%3c]]%0a%3c [[%3c%3c]]%0a\ No newline at end of file%0a
+host:1330355210=121.237.52.138
+author:1320250250=
+diff:1320250250:1292399644:=0a1,6%0a> %25lfloat%25 [[Wordsworth | Attach:icon_wordsworth.png]] %0a> >>center%3c%3c%0a> !! William Wordsworth%0a> >>%3c%3c%0a> [[%3c%3c]]%0a> [[%3c%3c]]%0a
+host:1320250250=180.109.107.73
+author:1292399644=
+diff:1292399644:1292399644:=1,6d0%0a%3c %25lfloat%25 [[Wordsworth | Attach:icon_wordsworth.png]] %0a%3c >>center%3c%3c%0a%3c !! William Wordsworth%0a%3c >>%3c%3c%0a%3c [[%3c%3c]]%0a%3c [[%3c%3c]]%0a
+host:1292399644=114.80.140.34

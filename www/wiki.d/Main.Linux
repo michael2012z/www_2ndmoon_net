@@ -1,0 +1,57 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.0) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/14.0.835.202 Safari/535.1
+author=
+charset=UTF-8
+csum=
+ctime=1288266018
+host=180.111.15.214
+name=Main.Linux
+rev=15
+targets=Linux.MemoryManagement,Linux.ProcessVirtualMemory,Linux.Locking,Linux.Booting,Linux.ProcessManagement,Linux.Time,Linux.FileSystem
+text=(:table border=0 width=540 align=center bgcolor=#cccc99 cellspacing=0 :)%0a(:cellnr width=180 height=180 align=center style='background-image: url([=http://the2ndmoon.net/uploads/Main/bg_green_block.png=])':)%0a\\%0a\\%0a\\%0a\\%0a[[Linux.MemoryManagement | %25color=yellow%25 [+++'''Memory'''+++] %25%25]]%0a%0a(:cell width=180 height=180 align=center style='background-image: url([=http://the2ndmoon.net/uploads/Main/bg_green_block.png=])':)%0a\\%0a\\%0a\\%0a\\%0a[[Linux.ProcessVirtualMemory | %25color=yellow%25 [+++'''Virtual Memory'''+++] %25%25]]%0a%0a(:cell width=180 height=180 align=center style='background-image: url([=http://the2ndmoon.net/uploads/Main/bg_green_block.png=])':)%0a\\%0a\\%0a\\%0a\\%0a[[Linux.Locking | %25color=yellow%25 [+++'''Locking'''+++] %25%25]]%0a%0a(:cellnr width=180 height=180 align=center style='background-image: url([=http://the2ndmoon.net/uploads/Main/bg_green_block.png=])':)%0a\\%0a\\%0a\\%0a\\%0a[[Linux.Booting | %25color=yellow%25 [+++'''Booting'''+++] %25%25]]%0a%0a(:cell width=180 height=180 align=center style='background-image: url([=http://the2ndmoon.net/uploads/Main/bg_green_block_center.png=])':)%0a\\%0a\\%0a\\%0a\\%0a[[Linux.ProcessManagement | %25color=yellow%25 [+++'''Process'''+++] %25%25]]%0a%0a(:cell width=180 height=180 align=center style='background-image: url([=http://the2ndmoon.net/uploads/Main/bg_green_block.png=])':)%0a\\%0a\\%0a\\%0a\\%0a[[Linux.Time | %25color=yellow%25 [+++'''Time'''+++] %25%25]]%0a%0a(:cellnr width=180 height=180 align=center style='background-image: url([=http://the2ndmoon.net/uploads/Main/bg_green_block.png=])':)%0a\\%0a\\%0a\\%0a\\%0a[[Linux.FileSystem | %25color=yellow%25 [+++'''Interrupt'''+++] %25%25]]%0a%0a(:cell width=180 height=180 align=center style='background-image: url([=http://the2ndmoon.net/uploads/Main/bg_green_block.png=])':)%0a\\%0a\\%0a\\%0a\\%0a[[Linux.FileSystem | %25color=yellow%25 [+++'''File System'''+++] %25%25]]%0a%0a(:cell width=180 height=180 align=center style='background-image: url([=http://the2ndmoon.net/uploads/Main/bg_green_block.png=])':)%0a\\%0a\\%0a\\%0a\\%0a[[Linux.FileSystem | %25color=yellow%25 [+++'''File System'''+++] %25%25]]%0a%0a(:tableend:)%0a
+time=1318862149
+author:1318862149=
+diff:1318862149:1318666444:=49c49%0a%3c [[Linux.FileSystem | %25color=yellow%25 [+++'''Interrupt'''+++] %25%25]]%0a---%0a> [[Linux.FileSystem | %25color=yellow%25 [+++'''File System'''+++] %25%25]]%0a
+host:1318862149=180.111.15.214
+author:1318666444=
+diff:1318666444:1318664785:=0a1%0a> %0a30c31%0a%3c (:cell width=180 height=180 align=center style='background-image: url([=http://the2ndmoon.net/uploads/Main/bg_green_block_center.png=])':)%0a---%0a> (:cell width=180 height=180 align=center style='background-image: url([=http://the2ndmoon.net/uploads/Main/bg_green_block.png=])':)%0a
+host:1318666444=180.109.149.105
+author:1318664785=
+diff:1318664785:1318664762:=0a1,16%0a> [[Linux.MemoryManagement | MemoryManagement]]%0a> %0a> [[Linux.ProcessVirtualMemory | Process Virtual Memory Space]]%0a> %0a> [[Linux.Locking | Locking Mechanisms]]%0a> %0a> [[Linux.Booting | Booting]]%0a> %0a> [[Linux.Time | Time]]%0a> %0a> [[Linux.ProcessManagement | Process Management]]%0a> %0a> %0a> %0a> %0a> %0a
+host:1318664785=180.109.149.105
+author:1318664762=
+diff:1318664762:1318664694:=51a52%0a> %25color=yellow%25 [+++'''Navigation Links Management'''+++] %25%25%0a66,67c67,68%0a%3c [[Linux.FileSystem | %25color=yellow%25 [+++'''File System'''+++] %25%25]]%0a%3c %0a---%0a> %25color=yellow%25 [+++'''Example'''+++] %25%25%0a> %0a73,74c74,75%0a%3c [[Linux.FileSystem | %25color=yellow%25 [+++'''File System'''+++] %25%25]]%0a%3c %0a---%0a> %25color=yellow%25 [+++'''Example'''+++] %25%25%0a> %0a80c81%0a%3c [[Linux.FileSystem | %25color=yellow%25 [+++'''File System'''+++] %25%25]]%0a---%0a> %25color=yellow%25 [+++'''Example'''+++] %25%25%0a
+host:1318664762=180.109.149.105
+author:1318664694=
+diff:1318664694:1318664664:=30a31%0a> %25color=yellow%25 [+++'''Navigation Links Management'''+++] %25%25%0a
+host:1318664694=180.109.149.105
+author:1318664664=
+diff:1318664664:1318664339:=24,25c24,25%0a%3c [[Linux.MemoryManagement | %25color=yellow%25 [+++'''Memory'''+++] %25%25]]%0a%3c %0a---%0a> %25color=yellow%25 [+++'''Navigation Links Management'''+++] %25%25%0a> %0a32,33c32%0a%3c [[Linux.ProcessVirtualMemory | %25color=yellow%25 [+++'''Virtual Memory'''+++] %25%25]]%0a%3c %0a---%0a> %0a39,40c38,39%0a%3c [[Linux.Locking | %25color=yellow%25 [+++'''Locking'''+++] %25%25]]%0a%3c %0a---%0a> %25color=yellow%25 [+++'''Navigation Links Management'''+++] %25%25%0a> %0a46,47c45,46%0a%3c [[Linux.Booting | %25color=yellow%25 [+++'''Booting'''+++] %25%25]]%0a%3c %0a---%0a> %25color=yellow%25 [+++'''Navigation Links Management'''+++] %25%25%0a> %0a54,55c53%0a%3c [[Linux.ProcessManagement | %25color=yellow%25 [+++'''Process'''+++] %25%25]]%0a%3c %0a---%0a> %0a61,62c59,60%0a%3c [[Linux.Time | %25color=yellow%25 [+++'''Time'''+++] %25%25]]%0a%3c %0a---%0a> %25color=yellow%25 [+++'''Navigation Links Management'''+++] %25%25%0a> %0a68,69c66,67%0a%3c %25color=yellow%25 [+++'''Example'''+++] %25%25%0a%3c %0a---%0a> %25color=yellow%25 [+++'''Navigation Links Management'''+++] %25%25%0a> %0a75,76c73,74%0a%3c %25color=yellow%25 [+++'''Example'''+++] %25%25%0a%3c %0a---%0a> %25color=yellow%25 [+++'''Navigation Links Management'''+++] %25%25%0a> %0a82c80%0a%3c %25color=yellow%25 [+++'''Example'''+++] %25%25%0a---%0a> %25color=yellow%25 [+++'''Navigation Links Management'''+++] %25%25%0a
+host:1318664664=180.109.149.105
+author:1318664339=
+diff:1318664339:1300861974:=12,82d11%0a%3c %0a%3c %0a%3c %0a%3c %0a%3c %0a%3c %0a%3c (:table border=0 width=540 align=center bgcolor=#cccc99 cellspacing=0 :)%0a%3c (:cellnr width=180 height=180 align=center style='background-image: url([=http://the2ndmoon.net/uploads/Main/bg_green_block.png=])':)%0a%3c \\%0a%3c \\%0a%3c \\%0a%3c \\%0a%3c %25color=yellow%25 [+++'''Navigation Links Management'''+++] %25%25%0a%3c %0a%3c (:cell width=180 height=180 align=center style='background-image: url([=http://the2ndmoon.net/uploads/Main/bg_green_block.png=])':)%0a%3c \\%0a%3c \\%0a%3c \\%0a%3c \\%0a%3c %25color=yellow%25 [+++'''Navigation Links Management'''+++] %25%25%0a%3c %0a%3c (:cell width=180 height=180 align=center style='background-image: url([=http://the2ndmoon.net/uploads/Main/bg_green_block.png=])':)%0a%3c \\%0a%3c \\%0a%3c \\%0a%3c \\%0a%3c %25color=yellow%25 [+++'''Navigation Links Management'''+++] %25%25%0a%3c %0a%3c (:cellnr width=180 height=180 align=center style='background-image: url([=http://the2ndmoon.net/uploads/Main/bg_green_block.png=])':)%0a%3c \\%0a%3c \\%0a%3c \\%0a%3c \\%0a%3c %25color=yellow%25 [+++'''Navigation Links Management'''+++] %25%25%0a%3c %0a%3c (:cell width=180 height=180 align=center style='background-image: url([=http://the2ndmoon.net/uploads/Main/bg_green_block.png=])':)%0a%3c \\%0a%3c \\%0a%3c \\%0a%3c \\%0a%3c %25color=yellow%25 [+++'''Navigation Links Management'''+++] %25%25%0a%3c %0a%3c (:cell width=180 height=180 align=center style='background-image: url([=http://the2ndmoon.net/uploads/Main/bg_green_block.png=])':)%0a%3c \\%0a%3c \\%0a%3c \\%0a%3c \\%0a%3c %25color=yellow%25 [+++'''Navigation Links Management'''+++] %25%25%0a%3c %0a%3c (:cellnr width=180 height=180 align=center style='background-image: url([=http://the2ndmoon.net/uploads/Main/bg_green_block.png=])':)%0a%3c \\%0a%3c \\%0a%3c \\%0a%3c \\%0a%3c %25color=yellow%25 [+++'''Navigation Links Management'''+++] %25%25%0a%3c %0a%3c (:cell width=180 height=180 align=center style='background-image: url([=http://the2ndmoon.net/uploads/Main/bg_green_block.png=])':)%0a%3c \\%0a%3c \\%0a%3c \\%0a%3c \\%0a%3c %25color=yellow%25 [+++'''Navigation Links Management'''+++] %25%25%0a%3c %0a%3c (:cell width=180 height=180 align=center style='background-image: url([=http://the2ndmoon.net/uploads/Main/bg_green_block.png=])':)%0a%3c \\%0a%3c \\%0a%3c \\%0a%3c \\%0a%3c %25color=yellow%25 [+++'''Navigation Links Management'''+++] %25%25%0a%3c %0a%3c (:tableend:)%0a
+host:1318664339=180.109.149.105
+author:1300861974=
+diff:1300861974:1300090679:=10,11d9%0a%3c %0a%3c [[Linux.ProcessManagement | Process Management]]%0a
+host:1300861974=114.80.140.34
+author:1300090679=
+diff:1300090679:1293429232:=8,9d7%0a%3c %0a%3c [[Linux.Time | Time]]%0a
+host:1300090679=114.80.140.34
+author:1293429232=
+diff:1293429232:1290588965:=6,7d5%0a%3c %0a%3c [[Linux.Booting | Booting]]%0a
+host:1293429232=114.80.140.34
+author:1290588965=
+diff:1290588965:1289105825:=5d4%0a%3c [[Linux.Locking | Locking Mechanisms]]%0a
+host:1290588965=194.237.142.10
+author:1289105825=
+diff:1289105825:1289104518:=4d3%0a%3c %0a
+host:1289105825=112.21.41.85
+author:1289104518=
+diff:1289104518:1289104442:=3c3%0a%3c [[Linux.ProcessVirtualMemory | Process Virtual Memory Space]]%0a---%0a> [[Linux.ProcessVirtualSpace | Process Virtual Space]]%0a
+host:1289104518=112.21.41.85
+author:1289104442=
+diff:1289104442:1288266018:=1,3c1%0a%3c [[Linux.MemoryManagement | MemoryManagement]]%0a%3c %0a%3c [[Linux.ProcessVirtualSpace | Process Virtual Space]]%0a---%0a> [[Linux.MemoryManagement | MemoryManagement]]%0a\ No newline at end of file%0a
+host:1289104442=112.21.41.85
+author:1288266018=
+diff:1288266018:1288266018:=1d0%0a%3c [[Linux.MemoryManagement | MemoryManagement]]%0a\ No newline at end of file%0a
+host:1288266018=114.80.140.34

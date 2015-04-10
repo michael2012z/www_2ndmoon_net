@@ -1,0 +1,15 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.0.04506; .NET CLR 1.1.4322; InfoPath.1; OfficeLiveConnector.1.3; OfficeLivePatch.0.0)
+author=
+charset=UTF-8
+csum=
+ctime=1257468912
+host=114.80.140.34
+name=Log.DailyLog20091106
+rev=1
+targets=
+text=今天SQR已经有几个人都到了5级，给我的压力还是挺大的，而我的两个模块却莫名其妙地被降到了1级和0级，但是什么都没有改，相信是评级的标准或者网页故障。%0a%0a不过RelocationTo被降到了3级倒是真的，不过这其实也是因为有所改进，因为以前的flexlint没有编完，只报出了一小部分错，现在可以编完了，可是错误数也提高了上去。%0a%0a加油吧。%0a%0a今天的安排：%0a上午改一些RelocationFrom的flexlint error，并把RelocationTo的两个Must Warning改好。%0a下午研究一下几个RoseRT的编译警告，一定要弄明白。%0a
+time=1257468912
+author:1257468912=
+diff:1257468912:1257468912:=1,9d0%0a%3c 今天SQR已经有几个人都到了5级，给我的压力还是挺大的，而我的两个模块却莫名其妙地被降到了1级和0级，但是什么都没有改，相信是评级的标准或者网页故障。%0a%3c %0a%3c 不过RelocationTo被降到了3级倒是真的，不过这其实也是因为有所改进，因为以前的flexlint没有编完，只报出了一小部分错，现在可以编完了，可是错误数也提高了上去。%0a%3c %0a%3c 加油吧。%0a%3c %0a%3c 今天的安排：%0a%3c 上午改一些RelocationFrom的flexlint error，并把RelocationTo的两个Must Warning改好。%0a%3c 下午研究一下几个RoseRT的编译警告，一定要弄明白。%0a
+host:1257468912=114.80.140.34

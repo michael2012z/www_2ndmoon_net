@@ -1,0 +1,15 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.13) Gecko/2009080315 Ubuntu/9.04 (jaunty) Firefox/3.0.13
+author=
+charset=UTF-8
+csum=
+ctime=1259398295
+host=114.221.146.63
+name=Enterprise.EnterpriseAndroidSyncNews
+rev=1
+targets=
+text=SyncNews will be improved in these aspect:\\%0a1 Enhance RSS parsing library: I think current library has much problem, I need to do much test. I need to reference other open source implementation.\\%0a2 Change architecture of the software: New software will be composed with there parts: service, content provider and UI. With service, software can update feeds even if application is closed by user. With content provider, the architecture will be open and uniform.
+time=1259398295
+author:1259398295=
+diff:1259398295:1259398295:=1,3d0%0a%3c SyncNews will be improved in these aspect:\\%0a%3c 1 Enhance RSS parsing library: I think current library has much problem, I need to do much test. I need to reference other open source implementation.\\%0a%3c 2 Change architecture of the software: New software will be composed with there parts: service, content provider and UI. With service, software can update feeds even if application is closed by user. With content provider, the architecture will be open and uniform.%0a\ No newline at end of file%0a
+host:1259398295=114.221.146.63

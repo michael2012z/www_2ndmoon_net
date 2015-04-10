@@ -1,0 +1,15 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux i686) AppleWebKit/536.11 (KHTML, like Gecko) Chrome/20.0.1132.57 Safari/536.11
+author=
+charset=UTF-8
+csum=
+ctime=1342277099
+host=114.222.65.59
+name=Locomotive.GWRTheGreatBear
+rev=1
+targets=
+text=[[ http://en.wikipedia.org/wiki/GWR_111_The_Great_Bear | read more]]
+time=1342277099
+author:1342277099=
+diff:1342277099:1342277099:=1d0%0a%3c [[ http://en.wikipedia.org/wiki/GWR_111_The_Great_Bear | read more]]%0a\ No newline at end of file%0a
+host:1342277099=114.222.65.59

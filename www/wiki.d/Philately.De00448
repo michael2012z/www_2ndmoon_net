@@ -1,0 +1,18 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36
+author=
+charset=UTF-8
+csum=
+ctime=1403583684
+host=58.213.51.162
+name=Philately.De00448
+rev=2
+targets=
+text=!! Info%0a|| '''Date''' || '''Print''' || '''Wmk''' || '''Perf.''' ||%0a|| 1935, Jan. 16 || Photo. || none || unknown ||%0a%0a!! List%0a|| '''Scott No.''' || '''design''' || '''Face Value''' || '''Color''' || %0a|| 448 || Germania Welcoming Home the Saar || 3pf || brown ||%0a|| 449 || Germania Welcoming Home the Saar || 6pf || dark green ||%0a|| 450 || Germania Welcoming Home the Saar || 12pf || lake ||%0a|| 451 || Germania Welcoming Home the Saar || 25pf || dark blue ||%0a%0a!! Image%0a%25width=560 newwin%25[[Attach:de_00448_f.jpg | Attach:de_00448_f.jpg]]%0a%0a!! Background%0a%0aThe stamps were issued to commemorate the return of the Saar to Germany.%0a
+time=1403583697
+author:1403583697=
+diff:1403583697:1403583684:=10c10%0a%3c || 451 || Germania Welcoming Home the Saar || 25pf || dark blue ||%0a---%0a> || 451 || Germania Welcoming Home the Saar || 25pf || dark blue||%0a
+host:1403583697=58.213.51.162
+author:1403583684=
+diff:1403583684:1403583684:=1,17d0%0a%3c !! Info%0a%3c || '''Date''' || '''Print''' || '''Wmk''' || '''Perf.''' ||%0a%3c || 1935, Jan. 16 || Photo. || none || unknown ||%0a%3c %0a%3c !! List%0a%3c || '''Scott No.''' || '''design''' || '''Face Value''' || '''Color''' || %0a%3c || 448 || Germania Welcoming Home the Saar || 3pf || brown ||%0a%3c || 449 || Germania Welcoming Home the Saar || 6pf || dark green ||%0a%3c || 450 || Germania Welcoming Home the Saar || 12pf || lake ||%0a%3c || 451 || Germania Welcoming Home the Saar || 25pf || dark blue||%0a%3c %0a%3c !! Image%0a%3c %25width=560 newwin%25[[Attach:de_00448_f.jpg | Attach:de_00448_f.jpg]]%0a%3c %0a%3c !! Background%0a%3c %0a%3c The stamps were issued to commemorate the return of the Saar to Germany.%0a
+host:1403583684=58.213.51.162

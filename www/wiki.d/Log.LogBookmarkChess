@@ -1,0 +1,15 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; InfoPath.1; OfficeLiveConnector.1.3; OfficeLivePatch.0.0; .NET CLR 3.5.30729; .NET CLR 3.0.30618) chromeframe/5.0.366.0
+author=
+charset=UTF-8
+csum=
+ctime=1271057744
+host=114.80.140.34
+name=Log.LogBookmarkChess
+rev=1
+targets=
+text=* [[ http://www.fishxx68.com/ | 大侠小鱼儿国际象棋首页 ]]
+time=1271057744
+author:1271057744=
+diff:1271057744:1271057744:=1d0%0a%3c * [[ http://www.fishxx68.com/ | 大侠小鱼儿国际象棋首页 ]]%0a\ No newline at end of file%0a
+host:1271057744=114.80.140.34

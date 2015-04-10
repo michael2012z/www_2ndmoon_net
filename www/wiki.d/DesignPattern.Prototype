@@ -1,0 +1,15 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.0) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/14.0.835.202 Safari/535.1
+author=
+charset=UTF-8
+csum=
+ctime=1319031214
+host=117.89.207.43
+name=DesignPattern.Prototype
+rev=1
+targets=
+text=\\%0a%0a[+++'''原型模式/Prototype'''+++]%0a%0a[+++''意图/适用场景：''+++]%0a%0a原型模式即是由一个已有的对象复制出一个相同的对象。这是一种对象的创建模式，即由已存在的对象动态构造新的对象。%0a%0a这种方法在面向对象的语言中已经应用得非常普遍，比如Java中的clone()方法以及C++中的拷贝初始化等等。%0a%0a不再详细描述。%0a 
+time=1319031214
+author:1319031214=
+diff:1319031214:1319031214:=1,12d0%0a%3c \\%0a%3c %0a%3c [+++'''原型模式/Prototype'''+++]%0a%3c %0a%3c [+++''意图/适用场景：''+++]%0a%3c %0a%3c 原型模式即是由一个已有的对象复制出一个相同的对象。这是一种对象的创建模式，即由已存在的对象动态构造新的对象。%0a%3c %0a%3c 这种方法在面向对象的语言中已经应用得非常普遍，比如Java中的clone()方法以及C++中的拷贝初始化等等。%0a%3c %0a%3c 不再详细描述。%0a%3c  %0a\ No newline at end of file%0a
+host:1319031214=117.89.207.43
