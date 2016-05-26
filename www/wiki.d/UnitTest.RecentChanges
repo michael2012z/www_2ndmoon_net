@@ -1,8 +1,0 @@
-version=pmwiki-2.2.6 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.77 Safari/535.7
-ctime=1323100907
-host=180.109.150.190
-name=UnitTest.RecentChanges
-rev=8
-text=* [[UnitTest/JUnitTutorial]]  . . . February 02, 2012, at 10:06 PM by ?: [==]%0a* [[UnitTest/JUnit]]  . . . February 02, 2012, at 10:02 PM by ?: [==]%0a* [[UnitTest/CUnit]]  . . . December 06, 2011, at 12:09 AM by ?: [==]%0a
-time=1328191614
