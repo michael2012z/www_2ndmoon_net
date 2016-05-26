@@ -1,0 +1,100 @@
+article,aside,details,figcaption,figure,footer,header,hgroup,nav,main,section {
+	display:block
+}
+.center-txt,.content h1,.entries,.pages,.home-icon,.post h5,.post h2,footer .container {
+	text-align:center
+}
+body {
+	margin:0;
+	font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size:14px;
+	line-height:20px;
+	color:#333;
+	background-color:#fff
+}
+.top-strip {
+	background-color:#0D0D0D;
+	height:1em
+}
+.common-interval-5 {
+	background-color:#fff;
+	height:5em
+}
+.common-interval-2 {
+	background-color:#fff;
+	height:2em
+}
+.common-interval-1 {
+	background-color:#fff;
+	height:1em
+}
+.container {
+	margin-right:auto;
+	margin-left:auto;
+	*zoom:1
+}
+main.container,main.content>.container {
+	width:70em
+}
+footer .container {
+	font-family:'Noto Serif';
+	color:#fff;
+	background-color:#000;
+	padding:1em 0;
+	font-size:1em
+}
+h1,h2,h3,h4,h5,h6,slogan-normal {
+	margin:10px 0;
+	font-family:inherit;
+	font-weight:bold;
+	line-height:1;
+	color:inherit;
+	text-rendering:optimizelegibility
+}
+h1 {
+	font-size:36px
+}
+h2 {
+	font-size:30px
+}
+h3,.slogan-normal {
+	font-size:24px
+}
+h4 {
+	font-size:18px;
+	line-height:20px
+}
+h5 {
+	font-size:14px;
+	line-height:20px
+}
+h6 {
+	font-size:12px;
+	line-height:20px
+}
+.slogan-small {
+	font-size:18px;
+	line-height:10px
+}
+.slogan-large {
+	font-family:Georgia,"Times New Roman",Times,serif;
+	font-size:6em;
+	margin-top:1em;
+	border-bottom:1px solid #222;
+	padding-bottom:0.6em;
+	letter-spacing:0.04em
+}
+img {
+	max-width:100%;
+	width:auto\9;
+	height:auto;
+	vertical-align:middle;
+	border:0;
+	-ms-interpolation-mode:bicubic
+}
+.frontpage-wiki-pic,.frontpage-blog-pic {
+	width:30em
+}
+.frontpage-or-pic {
+	width:10em
+}
