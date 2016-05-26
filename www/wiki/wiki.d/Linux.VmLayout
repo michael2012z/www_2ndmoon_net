@@ -1,0 +1,15 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/534.7 (KHTML, like Gecko) Chrome/7.0.517.41 Safari/534.7
+author=
+charset=UTF-8
+csum=
+ctime=1289105339
+host=112.21.41.85
+name=Linux.VmLayout
+rev=1
+targets=
+text=%25width=560 newwin%25 [[Attach:vm_layout.png | Attach:vm_layout.png]]%0a
+time=1289105339
+author:1289105339=
+diff:1289105339:1289105339:=1d0%0a%3c %25width=560 newwin%25 [[Attach:vm_layout.png | Attach:vm_layout.png]]%0a
+host:1289105339=112.21.41.85

@@ -1,0 +1,18 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.2.12) Gecko/20101026 Firefox/3.6.12
+author=
+charset=UTF-8
+csum=
+ctime=1290589147
+host=194.237.142.10
+name=Linux.Locking
+rev=2
+targets=Linux.LockAtom,Linux.LockSpinlocks,Linux.LockSemaphores,Linux.LockRWLocks
+text=[[Linux.LockAtom | Atomic Operations]]%0a%0a— These are the simplest locking operations. They guarantee that simple operations, such as incrementing a counter, are performed atomically without interruption even if the operation is made up of several assembly language statements.%0a%0a----%0a%0a[[Linux.LockSpinlocks | Spinlocks]]%0a%0a— These are the most frequently used locking option. They are designed for the shortterm protection of sections against access by other processors. While the kernel is waiting for a spinlock to be released, it repeatedly checks whether it can acquire the lock without going to sleep in the meantime (busy waiting). Of course, this is not very efficient if waits are long.%0a%0a----%0a%0a[[Linux.LockSemaphores | Semaphores]]%0a%0a— These are implemented in the classical way. While waiting for a semaphore to be released, the kernel goes to sleep until it is woken. Only then does it attempt to acquire the semaphore. Mutexes are a special case of semaphores—only one user at a time can be in the critical region protected by them.%0a%0a----%0a%0a[[Linux.LockRWLocks | Reader/Writer Locks]]%0a%0a— These are locks that distinguish between two types of access to data structures. Any number of processors may perform concurrent read access to a data structure, but write access is restricted to a single CPU. Naturally, the data structure cannot be read while it is being written.%0a
+time=1290589579
+author:1290589579=
+diff:1290589579:1290589147:=3,6d2%0a%3c — These are the simplest locking operations. They guarantee that simple operations, such as incrementing a counter, are performed atomically without interruption even if the operation is made up of several assembly language statements.%0a%3c %0a%3c ----%0a%3c %0a9,12d4%0a%3c — These are the most frequently used locking option. They are designed for the shortterm protection of sections against access by other processors. While the kernel is waiting for a spinlock to be released, it repeatedly checks whether it can acquire the lock without going to sleep in the meantime (busy waiting). Of course, this is not very efficient if waits are long.%0a%3c %0a%3c ----%0a%3c %0a15,18d6%0a%3c — These are implemented in the classical way. While waiting for a semaphore to be released, the kernel goes to sleep until it is woken. Only then does it attempt to acquire the semaphore. Mutexes are a special case of semaphores—only one user at a time can be in the critical region protected by them.%0a%3c %0a%3c ----%0a%3c %0a20,21d7%0a%3c %0a%3c — These are locks that distinguish between two types of access to data structures. Any number of processors may perform concurrent read access to a data structure, but write access is restricted to a single CPU. Naturally, the data structure cannot be read while it is being written.%0a
+host:1290589579=194.237.142.10
+author:1290589147=
+diff:1290589147:1290589147:=1,7d0%0a%3c [[Linux.LockAtom | Atomic Operations]]%0a%3c %0a%3c [[Linux.LockSpinlocks | Spinlocks]]%0a%3c %0a%3c [[Linux.LockSemaphores | Semaphores]]%0a%3c %0a%3c [[Linux.LockRWLocks | Reader/Writer Locks]]%0a
+host:1290589147=194.237.142.10

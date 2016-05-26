@@ -1,0 +1,15 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.0.04506; .NET CLR 1.1.4322; InfoPath.1; OfficeLiveConnector.1.3; OfficeLivePatch.0.0)
+author=
+charset=UTF-8
+csum=
+ctime=1256005265
+host=202.109.110.2
+name=Log.DailyLog20091020
+rev=1
+targets=
+text=今天得把大部分时间花在SQR上面了。%0a%0a早上丁炎炎给我们几个有SQR任务的新手开了个小会，告诉我们这事现在非常急，要重视，而且找了一些外援，下午答疑。%0a%0a
+time=1256005265
+author:1256005265=
+diff:1256005265:1256005265:=1,4d0%0a%3c 今天得把大部分时间花在SQR上面了。%0a%3c %0a%3c 早上丁炎炎给我们几个有SQR任务的新手开了个小会，告诉我们这事现在非常急，要重视，而且找了一些外援，下午答疑。%0a%3c %0a
+host:1256005265=202.109.110.2

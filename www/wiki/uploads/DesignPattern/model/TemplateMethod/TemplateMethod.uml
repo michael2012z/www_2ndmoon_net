@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="2.1" xmlns:xmi="http://schema.omg.org/spec/XMI/2.1" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmi:id="_222R4es1EeC04cSPUlhXOg" name="TemplateMethod">
+  <elementImport xmi:id="_29nBMOs1EeC04cSPUlhXOg">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+  </elementImport>
+  <elementImport xmi:id="_29wyMOs1EeC04cSPUlhXOg">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+  </elementImport>
+  <elementImport xmi:id="_29xZQOs1EeC04cSPUlhXOg">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#UnlimitedNatural"/>
+  </elementImport>
+  <elementImport xmi:id="_29xZQes1EeC04cSPUlhXOg">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+  </elementImport>
+  <packagedElement xmi:type="uml:Class" xmi:id="__cvwsOs1EeC04cSPUlhXOg" name="AbstractTemplate">
+    <ownedOperation xmi:id="_Hx3okOs2EeC04cSPUlhXOg" name="templateMethod">
+      <ownedParameter xmi:id="_JiqQwOs2EeC04cSPUlhXOg" direction="return"/>
+    </ownedOperation>
+    <ownedOperation xmi:id="_KHeOAOs2EeC04cSPUlhXOg" name="abstractMethod" isAbstract="true">
+      <ownedParameter xmi:id="_MSsvcOs2EeC04cSPUlhXOg" direction="return"/>
+    </ownedOperation>
+    <ownedOperation xmi:id="_M4MpMOs2EeC04cSPUlhXOg" name="hookMethod">
+      <ownedParameter xmi:id="_OOKWkOs2EeC04cSPUlhXOg" direction="return"/>
+    </ownedOperation>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_TbsLYOs2EeC04cSPUlhXOg" name="ConcreteClassA">
+    <generalization xmi:id="_hHkskOs2EeC04cSPUlhXOg" general="__cvwsOs1EeC04cSPUlhXOg"/>
+    <ownedOperation xmi:id="_WGZeIOs2EeC04cSPUlhXOg" name="abstractMethod">
+      <ownedParameter xmi:id="_ZkEe4Os2EeC04cSPUlhXOg" direction="return"/>
+    </ownedOperation>
+    <ownedOperation xmi:id="_aVy2wOs2EeC04cSPUlhXOg" name="hookMethod">
+      <ownedParameter xmi:id="_bral4Os2EeC04cSPUlhXOg" direction="return"/>
+    </ownedOperation>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_cUWOIOs2EeC04cSPUlhXOg" name="ConcreteClassB">
+    <generalization xmi:id="_hofoUOs2EeC04cSPUlhXOg" general="__cvwsOs1EeC04cSPUlhXOg"/>
+    <ownedOperation xmi:id="_d4COcOs2EeC04cSPUlhXOg" name="abstractMethod">
+      <ownedParameter xmi:id="_fZeMAOs2EeC04cSPUlhXOg" direction="return"/>
+    </ownedOperation>
+  </packagedElement>
+</uml:Model>

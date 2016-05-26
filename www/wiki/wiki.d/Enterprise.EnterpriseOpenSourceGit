@@ -1,0 +1,15 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.2.6) Gecko/20100625 Firefox/3.6.6
+author=
+charset=UTF-8
+csum=
+ctime=1279167477
+host=194.237.142.17
+name=Enterprise.EnterpriseOpenSourceGit
+rev=1
+targets=Enterprise.EnterpriseOpenSourceGitUse01
+text=[[Enterprise_OpenSource_Git_Use_01 | 在Ubuntu 10上搭建git服务器]]%0a%0a
+time=1279167477
+author:1279167477=
+diff:1279167477:1279167477:=1,2d0%0a%3c [[Enterprise_OpenSource_Git_Use_01 | 在Ubuntu 10上搭建git服务器]]%0a%3c %0a
+host:1279167477=194.237.142.17

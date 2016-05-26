@@ -1,0 +1,15 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.89 Safari/537.1
+author=
+charset=UTF-8
+csum=
+ctime=1346946408
+host=121.237.197.244
+name=Philately.Ji057
+rev=1
+targets=
+text=%25width=550px newwin%25 [[Attach:c057.jpg | Attach:c057.jpg]]| [-纪57 志愿军-]
+time=1346946408
+author:1346946408=
+diff:1346946408:1346946408:=1d0%0a%3c %25width=550px newwin%25 [[Attach:c057.jpg | Attach:c057.jpg]]| [-纪57 志愿军-]%0a\ No newline at end of file%0a
+host:1346946408=121.237.197.244

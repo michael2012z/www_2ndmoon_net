@@ -1,0 +1,15 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.89 Safari/537.1
+author=
+charset=UTF-8
+csum=
+ctime=1347251947
+host=58.213.51.162
+name=Philately.Ji026
+rev=1
+targets=
+text=%25width=550px newwin%25 [[Attach:c026.jpg | Attach:c026.jpg]]| [-纪26 列宁逝世三十周年纪念-]
+time=1347251947
+author:1347251947=
+diff:1347251947:1347251947:=1d0%0a%3c %25width=550px newwin%25 [[Attach:c026.jpg | Attach:c026.jpg]]| [-纪26 列宁逝世三十周年纪念-]%0a\ No newline at end of file%0a
+host:1347251947=58.213.51.162

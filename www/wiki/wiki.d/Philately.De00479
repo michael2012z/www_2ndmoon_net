@@ -1,0 +1,15 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36
+author=
+charset=UTF-8
+csum=
+ctime=1404124371
+host=58.213.51.162
+name=Philately.De00479
+rev=1
+targets=
+text=!! Image%0a%25width=420 newwin%25[[Attach:de_00479_f.jpg | Attach:de_00479_f.jpg]]%0a
+time=1404124371
+author:1404124371=
+diff:1404124371:1404124371:=1,2d0%0a%3c !! Image%0a%3c %25width=420 newwin%25[[Attach:de_00479_f.jpg | Attach:de_00479_f.jpg]]%0a
+host:1404124371=58.213.51.162

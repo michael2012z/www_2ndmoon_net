@@ -1,0 +1,15 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux i686) AppleWebKit/536.11 (KHTML, like Gecko) Chrome/20.0.1132.57 Safari/536.11
+author=
+charset=UTF-8
+csum=
+ctime=1342276841
+host=114.222.65.59
+name=Locomotive.GWRCityClass
+rev=1
+targets=
+text=%25width=560px newwin%25 http://upload.wikimedia.org/wikipedia/commons/4/4d/GWR_City_of_Truro_at_Didcot.jpg%0a%25width=560px newwin%25 http://upload.wikimedia.org/wikipedia/commons/4/40/GWR_3440_City_of_Truro_-_geograph.org.uk_-_1479746.jpg%0a%0a[[ http://en.wikipedia.org/wiki/GWR_3700_Class | read more]]
+time=1342276841
+author:1342276841=
+diff:1342276841:1342276841:=1,4d0%0a%3c %25width=560px newwin%25 http://upload.wikimedia.org/wikipedia/commons/4/4d/GWR_City_of_Truro_at_Didcot.jpg%0a%3c %25width=560px newwin%25 http://upload.wikimedia.org/wikipedia/commons/4/40/GWR_3440_City_of_Truro_-_geograph.org.uk_-_1479746.jpg%0a%3c %0a%3c [[ http://en.wikipedia.org/wiki/GWR_3700_Class | read more]]%0a\ No newline at end of file%0a
+host:1342276841=114.222.65.59

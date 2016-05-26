@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="2.1" xmlns:xmi="http://schema.omg.org/spec/XMI/2.1" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmi:id="_2AYtIMPnEeCGesoDiljOMg" name="ObjectAdapter">
+  <elementImport xmi:id="_2BpRYMPnEeCGesoDiljOMg">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+  </elementImport>
+  <elementImport xmi:id="_2BpRYcPnEeCGesoDiljOMg">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+  </elementImport>
+  <elementImport xmi:id="_2BpRYsPnEeCGesoDiljOMg">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#UnlimitedNatural"/>
+  </elementImport>
+  <elementImport xmi:id="_2BpRY8PnEeCGesoDiljOMg">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+  </elementImport>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_UPEc0MPpEeCGesoDiljOMg" name="Target">
+    <ownedOperation xmi:id="_UPEc0cPpEeCGesoDiljOMg" name="operation1">
+      <ownedParameter xmi:id="_UPEc0sPpEeCGesoDiljOMg" direction="return"/>
+    </ownedOperation>
+    <ownedOperation xmi:id="_UPEc08PpEeCGesoDiljOMg" name="operation2">
+      <ownedParameter xmi:id="_UPEc1MPpEeCGesoDiljOMg" direction="return"/>
+    </ownedOperation>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_UPEc1cPpEeCGesoDiljOMg" name="Adaptee">
+    <ownedOperation xmi:id="_UPFD4MPpEeCGesoDiljOMg" name="operation1">
+      <ownedParameter xmi:id="_UPFD4cPpEeCGesoDiljOMg" direction="return"/>
+    </ownedOperation>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_UPFD4sPpEeCGesoDiljOMg" name="Adapter" clientDependency="_UPFD5MPpEeCGesoDiljOMg">
+    <generalization xmi:id="_UPFD48PpEeCGesoDiljOMg" general="_UPEc1cPpEeCGesoDiljOMg"/>
+    <ownedAttribute xmi:id="_Z_ZcsMPpEeCGesoDiljOMg" name="adaptee" visibility="private" type="_UPEc1cPpEeCGesoDiljOMg" aggregation="composite"/>
+    <interfaceRealization xmi:id="_UPFD5MPpEeCGesoDiljOMg" supplier="_UPEc0MPpEeCGesoDiljOMg" client="_UPFD4sPpEeCGesoDiljOMg" contract="_UPEc0MPpEeCGesoDiljOMg"/>
+    <ownedOperation xmi:id="_UPFD5cPpEeCGesoDiljOMg" name="operation1">
+      <ownedParameter xmi:id="_vvPF4MPsEeCGesoDiljOMg" direction="return"/>
+    </ownedOperation>
+    <ownedOperation xmi:id="_s-NIsMPsEeCGesoDiljOMg" name="operation2">
+      <ownedParameter xmi:id="_uSnW4MPsEeCGesoDiljOMg" direction="return"/>
+    </ownedOperation>
+  </packagedElement>
+</uml:Model>

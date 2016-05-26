@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="2.1" xmlns:xmi="http://schema.omg.org/spec/XMI/2.1" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmi:id="_jbYMwe_MEeCrEqVnZFHGog" name="Observer">
+  <elementImport xmi:id="_jih9oO_MEeCrEqVnZFHGog">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+  </elementImport>
+  <elementImport xmi:id="_ji0RgO_MEeCrEqVnZFHGog">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+  </elementImport>
+  <elementImport xmi:id="_ji0Rge_MEeCrEqVnZFHGog">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#UnlimitedNatural"/>
+  </elementImport>
+  <elementImport xmi:id="_ji0Rgu_MEeCrEqVnZFHGog">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+  </elementImport>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_vAi5EO_MEeCrEqVnZFHGog" name="Observable">
+    <ownedOperation xmi:id="_4BacoO_MEeCrEqVnZFHGog" name="addObserver">
+      <ownedParameter xmi:id="_kklbEO_NEeCrEqVnZFHGog" direction="return"/>
+      <ownedParameter xmi:id="_kkmCIO_NEeCrEqVnZFHGog" name="Observer"/>
+    </ownedOperation>
+    <ownedOperation xmi:id="_6WrD0O_MEeCrEqVnZFHGog" name="deleteObserver">
+      <ownedParameter xmi:id="_rp4CwO_NEeCrEqVnZFHGog" direction="return"/>
+      <ownedParameter xmi:id="_rp4p0O_NEeCrEqVnZFHGog" name="Observer"/>
+    </ownedOperation>
+    <ownedOperation xmi:id="_8DVZ8O_MEeCrEqVnZFHGog" name="notifyObservers">
+      <ownedParameter xmi:id="_9zK_4O_MEeCrEqVnZFHGog" direction="return"/>
+    </ownedOperation>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_w7WY4O_MEeCrEqVnZFHGog" name="Observer">
+    <ownedOperation xmi:id="_DVziAO_NEeCrEqVnZFHGog" name="update">
+      <ownedParameter xmi:id="_ELP8QO_NEeCrEqVnZFHGog" direction="return"/>
+    </ownedOperation>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_yX4oUO_MEeCrEqVnZFHGog" name="ConcreteObserver" clientDependency="_-QuCEO_NEeCrEqVnZFHGog">
+    <interfaceRealization xmi:id="_-QuCEO_NEeCrEqVnZFHGog" supplier="_w7WY4O_MEeCrEqVnZFHGog" client="_yX4oUO_MEeCrEqVnZFHGog" contract="_w7WY4O_MEeCrEqVnZFHGog"/>
+    <ownedOperation xmi:id="_Em6kkO_NEeCrEqVnZFHGog" name="update">
+      <ownedParameter xmi:id="_FtRvsO_NEeCrEqVnZFHGog" direction="return"/>
+    </ownedOperation>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_z8t4IO_MEeCrEqVnZFHGog" name="ConcreteObservable" clientDependency="_9aasMO_NEeCrEqVnZFHGog">
+    <ownedAttribute xmi:id="_NKDDQO_NEeCrEqVnZFHGog" name="obs" type="_w7WY4O_MEeCrEqVnZFHGog" aggregation="composite"/>
+    <interfaceRealization xmi:id="_9aasMO_NEeCrEqVnZFHGog" supplier="_vAi5EO_MEeCrEqVnZFHGog" client="_z8t4IO_MEeCrEqVnZFHGog" contract="_vAi5EO_MEeCrEqVnZFHGog"/>
+    <ownedOperation xmi:id="_-URh0O_MEeCrEqVnZFHGog" name="addObserver">
+      <ownedParameter xmi:id="_tEzvsO_NEeCrEqVnZFHGog" direction="return"/>
+      <ownedParameter xmi:id="_tEzvse_NEeCrEqVnZFHGog" name="Observer"/>
+    </ownedOperation>
+    <ownedOperation xmi:id="_AO5bcO_NEeCrEqVnZFHGog" name="deleteObserver">
+      <ownedParameter xmi:id="_t27wMO_NEeCrEqVnZFHGog" direction="return"/>
+      <ownedParameter xmi:id="_t28XQO_NEeCrEqVnZFHGog" name="Observer"/>
+    </ownedOperation>
+    <ownedOperation xmi:id="_Bq1N8O_NEeCrEqVnZFHGog" name="notifyObservers">
+      <ownedParameter xmi:id="_C11ogO_NEeCrEqVnZFHGog" direction="return"/>
+    </ownedOperation>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="__tHuoO_NEeCrEqVnZFHGog" memberEnd="__tKK4O_NEeCrEqVnZFHGog __tLZAO_NEeCrEqVnZFHGog">
+    <ownedEnd xmi:id="__tKK4O_NEeCrEqVnZFHGog" name="src" type="_z8t4IO_MEeCrEqVnZFHGog" association="__tHuoO_NEeCrEqVnZFHGog">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="__tKx8e_NEeCrEqVnZFHGog" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="__tKx8O_NEeCrEqVnZFHGog" value="1"/>
+    </ownedEnd>
+    <ownedEnd xmi:id="__tLZAO_NEeCrEqVnZFHGog" name="dst" type="_w7WY4O_MEeCrEqVnZFHGog" aggregation="composite" association="__tHuoO_NEeCrEqVnZFHGog">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="__tLZAu_NEeCrEqVnZFHGog" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="__tLZAe_NEeCrEqVnZFHGog" value="1"/>
+    </ownedEnd>
+  </packagedElement>
+</uml:Model>

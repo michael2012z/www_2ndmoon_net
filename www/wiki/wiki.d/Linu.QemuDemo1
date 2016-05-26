@@ -1,0 +1,15 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2.10) Gecko/20100922 Ubuntu/10.10 (maverick) Firefox/3.6.10
+author=
+charset=UTF-8
+csum=
+ctime=1292650243
+host=112.21.63.130
+name=Linu.QemuDemo1
+rev=1
+targets=
+text=!!!1. Build the kernel:%0aIn linux kernel directory:\\%0a%25blue%25$ make versatile_defconfig%25%25\\%0aVersatile is a kind of ARM board. Qemu is simulating it.\\%0aThen make.\\%0a%25blue%25$ make -j4%25%25\\%0aIf there is any build error, avoid it by changing config.\\%0a%25blue%25$ make menuconfig%25%25\\%0aFinally, a zImage is generated. It's the kernel.%0a%0a!!!2. Build file system:%0aBusybox can do that for you.\\%0aDownload source code of Busybox. And build it:\\%0a%25blue%25$ make ARCH=arm CROSS_COMPILE=/usr/local/arm/4.2.2-eabi/usr/bin/arm-linux- defconfig%25%25\\%0aCROSS_COMPILE option is the prefix of your cross-compiler, it depends on your own environment.\\%0aThen, install:\\%0a%25blue%25$ make ARCH=arm CROSS_COMPILE=/usr/local/arm/4.2.2-eabi/usr/bin/arm-linux- install%25%25\\%0aThe result is a folder _install, a simplest file system is there.\\%0aThen, you compress it:\\%0a%25blue%25$ find . | cpio -o --format=newc | gzip > ../../rootfs.img.gz%25%25\\%0aThat's it! rootfs.img.gz is the fs image.%0a%0a!!!3. Start Qemu:%0a%25blue%25$ qemu-system-arm -M versatilepb -m 32M -kernel zImage -initrd rootfs.img.gz -append "root=/dev/ram rdinit=/sbin/init console=ttyAMA0" -nographic%25%25%0a
+time=1292650243
+author:1292650243=
+diff:1292650243:1292650243:=1,24d0%0a%3c !!!1. Build the kernel:%0a%3c In linux kernel directory:\\%0a%3c %25blue%25$ make versatile_defconfig%25%25\\%0a%3c Versatile is a kind of ARM board. Qemu is simulating it.\\%0a%3c Then make.\\%0a%3c %25blue%25$ make -j4%25%25\\%0a%3c If there is any build error, avoid it by changing config.\\%0a%3c %25blue%25$ make menuconfig%25%25\\%0a%3c Finally, a zImage is generated. It's the kernel.%0a%3c %0a%3c !!!2. Build file system:%0a%3c Busybox can do that for you.\\%0a%3c Download source code of Busybox. And build it:\\%0a%3c %25blue%25$ make ARCH=arm CROSS_COMPILE=/usr/local/arm/4.2.2-eabi/usr/bin/arm-linux- defconfig%25%25\\%0a%3c CROSS_COMPILE option is the prefix of your cross-compiler, it depends on your own environment.\\%0a%3c Then, install:\\%0a%3c %25blue%25$ make ARCH=arm CROSS_COMPILE=/usr/local/arm/4.2.2-eabi/usr/bin/arm-linux- install%25%25\\%0a%3c The result is a folder _install, a simplest file system is there.\\%0a%3c Then, you compress it:\\%0a%3c %25blue%25$ find . | cpio -o --format=newc | gzip > ../../rootfs.img.gz%25%25\\%0a%3c That's it! rootfs.img.gz is the fs image.%0a%3c %0a%3c !!!3. Start Qemu:%0a%3c %25blue%25$ qemu-system-arm -M versatilepb -m 32M -kernel zImage -initrd rootfs.img.gz -append "root=/dev/ram rdinit=/sbin/init console=ttyAMA0" -nographic%25%25%0a
+host:1292650243=112.21.63.130

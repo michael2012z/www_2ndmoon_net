@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="2.1" xmlns:xmi="http://schema.omg.org/spec/XMI/2.1" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmi:id="_6yHBwMJdEeCz19nBp5F2TQ" name="Singleton">
+  <elementImport xmi:id="_6zzD0MJdEeCz19nBp5F2TQ">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+  </elementImport>
+  <elementImport xmi:id="_60KQMMJdEeCz19nBp5F2TQ">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+  </elementImport>
+  <elementImport xmi:id="_60KQMcJdEeCz19nBp5F2TQ">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#UnlimitedNatural"/>
+  </elementImport>
+  <elementImport xmi:id="_60KQMsJdEeCz19nBp5F2TQ">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+  </elementImport>
+  <packagedElement xmi:type="uml:Class" xmi:id="_PcmT0MJeEeCz19nBp5F2TQ" name="Singleton">
+    <ownedAttribute xmi:id="_S95QUMJeEeCz19nBp5F2TQ" name="instance" visibility="private" isStatic="true" type="_PcmT0MJeEeCz19nBp5F2TQ" aggregation="composite"/>
+    <ownedOperation xmi:id="_f7I2sMMKEeCF-8mGiDTdog" name="Singleton" visibility="private">
+      <ownedParameter xmi:id="_ptT7YMMKEeCF-8mGiDTdog" direction="return"/>
+    </ownedOperation>
+    <ownedOperation xmi:id="_6_vsgMMKEeCF-8mGiDTdog" name="getInstance">
+      <ownedParameter xmi:id="_BWfMIMMLEeCF-8mGiDTdog" type="_PcmT0MJeEeCz19nBp5F2TQ" direction="return"/>
+    </ownedOperation>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_iiAgYMMMEeCF-8mGiDTdog" memberEnd="_iiBHcMMMEeCF-8mGiDTdog _iiBugcMMEeCF-8mGiDTdog">
+    <ownedEnd xmi:id="_iiBHcMMMEeCF-8mGiDTdog" name="src" type="_PcmT0MJeEeCz19nBp5F2TQ" association="_iiAgYMMMEeCF-8mGiDTdog">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_iiBugMMMEeCF-8mGiDTdog" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_iiBHccMMEeCF-8mGiDTdog" value="1"/>
+    </ownedEnd>
+    <ownedEnd xmi:id="_iiBugcMMEeCF-8mGiDTdog" name="dst" type="_PcmT0MJeEeCz19nBp5F2TQ" aggregation="composite" association="_iiAgYMMMEeCF-8mGiDTdog">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_iiCVkMMMEeCF-8mGiDTdog" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_iiBugsMMEeCF-8mGiDTdog"/>
+    </ownedEnd>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_Wu5oQMMYEeCF-8mGiDTdog" name="User" clientDependency="_sea80MMlEeCF-8mGiDTdog">
+    <ownedAttribute xmi:id="_eSJ-UMMYEeCF-8mGiDTdog" name="singleton" type="_PcmT0MJeEeCz19nBp5F2TQ" aggregation="composite"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Usage" xmi:id="_sea80MMlEeCF-8mGiDTdog" supplier="_PcmT0MJeEeCz19nBp5F2TQ" client="_Wu5oQMMYEeCF-8mGiDTdog"/>
+</uml:Model>

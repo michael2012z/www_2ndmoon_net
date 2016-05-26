@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="2.1" xmlns:xmi="http://schema.omg.org/spec/XMI/2.1" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmi:id="_8a8psPIyEeCeBtLLVqqCXQ" name="Builder">
+  <elementImport xmi:id="_8bnYEPIyEeCeBtLLVqqCXQ">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+  </elementImport>
+  <elementImport xmi:id="_8bnYEfIyEeCeBtLLVqqCXQ">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+  </elementImport>
+  <elementImport xmi:id="_8bnYEvIyEeCeBtLLVqqCXQ">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#UnlimitedNatural"/>
+  </elementImport>
+  <elementImport xmi:id="_8bnYE_IyEeCeBtLLVqqCXQ">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+  </elementImport>
+  <packagedElement xmi:type="uml:Class" xmi:id="__q1GEPIyEeCeBtLLVqqCXQ" name="Director"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_A5yMgPIzEeCeBtLLVqqCXQ" name="ConcreteBuilder" clientDependency="_aCSiAPIzEeCeBtLLVqqCXQ">
+    <interfaceRealization xmi:id="_aCSiAPIzEeCeBtLLVqqCXQ" supplier="_DBhVEPIzEeCeBtLLVqqCXQ" client="_A5yMgPIzEeCeBtLLVqqCXQ" contract="_DBhVEPIzEeCeBtLLVqqCXQ"/>
+    <ownedOperation xmi:id="_QKRUAPIzEeCeBtLLVqqCXQ" name="getProduct">
+      <ownedParameter xmi:id="_Q5Zq4PIzEeCeBtLLVqqCXQ" type="_EHqdwPIzEeCeBtLLVqqCXQ" direction="return"/>
+    </ownedOperation>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_DBhVEPIzEeCeBtLLVqqCXQ" name="Builder">
+    <ownedOperation xmi:id="_MPVvgPIzEeCeBtLLVqqCXQ" name="buildPart1">
+      <ownedParameter xmi:id="_OYTnIPIzEeCeBtLLVqqCXQ" direction="return"/>
+    </ownedOperation>
+    <ownedOperation xmi:id="_Ox39sPIzEeCeBtLLVqqCXQ" name="buildPart2">
+      <ownedParameter xmi:id="_Pqb9YPIzEeCeBtLLVqqCXQ" direction="return"/>
+    </ownedOperation>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_EHqdwPIzEeCeBtLLVqqCXQ" name="Product"/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_ZDv2IPIzEeCeBtLLVqqCXQ" memberEnd="_ZDv2IfIzEeCeBtLLVqqCXQ _ZDv2JPIzEeCeBtLLVqqCXQ">
+    <ownedEnd xmi:id="_ZDv2IfIzEeCeBtLLVqqCXQ" name="src" type="__q1GEPIyEeCeBtLLVqqCXQ" association="_ZDv2IPIzEeCeBtLLVqqCXQ">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_ZDv2I_IzEeCeBtLLVqqCXQ" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_ZDv2IvIzEeCeBtLLVqqCXQ" value="1"/>
+    </ownedEnd>
+    <ownedEnd xmi:id="_ZDv2JPIzEeCeBtLLVqqCXQ" name="dst" type="_DBhVEPIzEeCeBtLLVqqCXQ" aggregation="composite" association="_ZDv2IPIzEeCeBtLLVqqCXQ">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_ZDwdMfIzEeCeBtLLVqqCXQ" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_ZDwdMPIzEeCeBtLLVqqCXQ" value="1"/>
+    </ownedEnd>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_bH6GQPIzEeCeBtLLVqqCXQ" memberEnd="_bH6GQfIzEeCeBtLLVqqCXQ _bH6GRPIzEeCeBtLLVqqCXQ">
+    <ownedEnd xmi:id="_bH6GQfIzEeCeBtLLVqqCXQ" name="src" type="_A5yMgPIzEeCeBtLLVqqCXQ" association="_bH6GQPIzEeCeBtLLVqqCXQ">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_bH6GQ_IzEeCeBtLLVqqCXQ" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_bH6GQvIzEeCeBtLLVqqCXQ" value="1"/>
+    </ownedEnd>
+    <ownedEnd xmi:id="_bH6GRPIzEeCeBtLLVqqCXQ" name="dst" type="_EHqdwPIzEeCeBtLLVqqCXQ" association="_bH6GQPIzEeCeBtLLVqqCXQ">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_bH6GRvIzEeCeBtLLVqqCXQ" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_bH6GRfIzEeCeBtLLVqqCXQ" value="1"/>
+    </ownedEnd>
+  </packagedElement>
+</uml:Model>

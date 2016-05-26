@@ -1,0 +1,18 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; InfoPath.1; OfficeLiveConnector.1.3; OfficeLivePatch.0.0; .NET CLR 3.5.30729; .NET CLR 3.0.30618) chromeframe/5.0.317.0
+author=
+charset=UTF-8
+csum=
+ctime=1264591312
+host=180.109.104.29
+name=Enterprise.EnterpriseAndroidGoldMiner
+rev=2
+targets=
+text=Current plan: \\%0a1 By reference flash game, finish game scripts; \\%0a2 Debug "Mine" activity for all scenarios; \\%0a3 Make "Result" activity; \\%0a4 Make "Market" activity; \\%0a5 Make image resource; \\%0a6 Apply image resource; \\%0a7 Test.%0a%0aCurrent plan: (2010 02 22)\\%0a1 Make UI resource, implement animation;\\%0a2 Implement "market" feature;\\%0a3 Adjust parameters of current 2 scenarios;\\%0a4 Debug current games;\\%0a5 Add more scenarios.%0a
+time=1266840081
+author:1266840081=
+diff:1266840081:1264591312:=8,15c8%0a%3c 7 Test.%0a%3c %0a%3c Current plan: (2010 02 22)\\%0a%3c 1 Make UI resource, implement animation;\\%0a%3c 2 Implement "market" feature;\\%0a%3c 3 Adjust parameters of current 2 scenarios;\\%0a%3c 4 Debug current games;\\%0a%3c 5 Add more scenarios.%0a---%0a> 7 Test.%0a\ No newline at end of file%0a
+host:1266840081=180.109.104.29
+author:1264591312=
+diff:1264591312:1264591312:=1,8d0%0a%3c Current plan: \\%0a%3c 1 By reference flash game, finish game scripts; \\%0a%3c 2 Debug "Mine" activity for all scenarios; \\%0a%3c 3 Make "Result" activity; \\%0a%3c 4 Make "Market" activity; \\%0a%3c 5 Make image resource; \\%0a%3c 6 Apply image resource; \\%0a%3c 7 Test.%0a\ No newline at end of file%0a
+host:1264591312=114.80.140.34

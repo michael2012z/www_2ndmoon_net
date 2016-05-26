@@ -1,0 +1,30 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/534.7 (KHTML, like Gecko) Chrome/7.0.517.41 Safari/534.7
+author=
+charset=UTF-8
+csum=
+ctime=1288319563
+host=112.2.92.173
+name=Linux.VirtualAddrStructure
+rev=6
+targets=
+text=!! Virtual Address Structure%0a%0a%25width=560 newwin%25 [[Attach:mm_VAddrStruct.png | Attach:mm_VAddrStruct.png]]%0a%0aFigure 3-7 shows how the positions of the address elements are defined by bit shifts. BITS_PER_LONG specifies the number of bits used for an unsigned long variable and therefore also for a generic pointer to virtual address space.%0a%0aAt the end of each pointer there are several bits to specify the position within the selected frame page. The number of bits required is held in PAGE_SHIFT. %0a%0aPMD_SHIFT specifies the total number of bits used by a page and by an entry in the last level of the page tables. This number can be subtracted from PAGE_SHIFT to determine the number of bits required by an entry in the last hierarchy level of the page table. More important is the fact that the value indicates the size of the partial address space managed by an entry in the middle page table, namely, 2PMD_SHIFT bytes.%0a%0aPUD_SHIFT adds together the bit lengths of PAGE_OFFSET and PMD_SHIFT, whereas PGDIR_SHIFT combines the bit lengths of PAGE_OFFSET, PUD_SHIFT, and PMD_SHIFT with the bit number of an entry in the page middle directory. The value is the binary logarithm of the size of the partial address space that can be addressed via an entry in the page global directory.%0a%0aThe number of pointers that can be stored in the various directories of the page table is also determined by macro definitions. PTRS_PER_PGD specifies the number of entries in the page global directory, PTRS_PER_PMD the number in the page middle directory, PTRS_PER_PUD the number in the page upper directory, and PTRS_PER_PTE the number in the page table entry.%0a%0aIn 32 bits system, PUD usually doesn't appear, so have only 2 level page tables.%0a
+time=1288515831
+author:1288515831=
+diff:1288515831:1288515776:=3c3%0a%3c %25width=560 newwin%25 [[Attach:mm_VAddrStruct.png | Attach:mm_VAddrStruct.png]]%0a---%0a> %25width=560%25 [[Attach:mm_VAddrStruct.png | Attach:mm_VAddrStruct.png]]%0a
+host:1288515831=112.2.92.173
+author:1288515776=
+diff:1288515776:1288515699:=3c3%0a%3c %25width=560%25 [[Attach:mm_VAddrStruct.png | Attach:mm_VAddrStruct.png]]%0a---%0a> %25width=560%25 Attach:mm_VAddrStruct.png%0a
+host:1288515776=112.2.92.173
+author:1288515699=
+diff:1288515699:1288515661:=3c3%0a%3c %25width=560%25 Attach:mm_VAddrStruct.png%0a---%0a> %25width=560 newwin%25 Attach:mm_VAddrStruct.png%0a
+host:1288515699=112.2.92.173
+author:1288515661=
+diff:1288515661:1288320494:=3c3%0a%3c %25width=560 newwin%25 Attach:mm_VAddrStruct.png%0a---%0a> Attach:mm_VAddrStruct.png%0a
+host:1288515661=112.2.92.173
+author:1288320494=
+diff:1288320494:1288319563:=15c15%0a%3c In 32 bits system, PUD usually doesn't appear, so have only 2 level page tables.%0a---%0a> In 32 bits system, PUD usually doesn't appear.%0a
+host:1288320494=114.80.140.34
+author:1288319563=
+diff:1288319563:1288319563:=1,15d0%0a%3c !! Virtual Address Structure%0a%3c %0a%3c Attach:mm_VAddrStruct.png%0a%3c %0a%3c Figure 3-7 shows how the positions of the address elements are defined by bit shifts. BITS_PER_LONG specifies the number of bits used for an unsigned long variable and therefore also for a generic pointer to virtual address space.%0a%3c %0a%3c At the end of each pointer there are several bits to specify the position within the selected frame page. The number of bits required is held in PAGE_SHIFT. %0a%3c %0a%3c PMD_SHIFT specifies the total number of bits used by a page and by an entry in the last level of the page tables. This number can be subtracted from PAGE_SHIFT to determine the number of bits required by an entry in the last hierarchy level of the page table. More important is the fact that the value indicates the size of the partial address space managed by an entry in the middle page table, namely, 2PMD_SHIFT bytes.%0a%3c %0a%3c PUD_SHIFT adds together the bit lengths of PAGE_OFFSET and PMD_SHIFT, whereas PGDIR_SHIFT combines the bit lengths of PAGE_OFFSET, PUD_SHIFT, and PMD_SHIFT with the bit number of an entry in the page middle directory. The value is the binary logarithm of the size of the partial address space that can be addressed via an entry in the page global directory.%0a%3c %0a%3c The number of pointers that can be stored in the various directories of the page table is also determined by macro definitions. PTRS_PER_PGD specifies the number of entries in the page global directory, PTRS_PER_PMD the number in the page middle directory, PTRS_PER_PUD the number in the page upper directory, and PTRS_PER_PTE the number in the page table entry.%0a%3c %0a%3c In 32 bits system, PUD usually doesn't appear.%0a
+host:1288319563=114.80.140.34

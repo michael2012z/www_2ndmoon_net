@@ -1,0 +1,15 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.13) Gecko/2009080315 Ubuntu/9.04 (jaunty) Firefox/3.0.13
+author=
+charset=UTF-8
+csum=
+ctime=1259398559
+host=114.221.146.63
+name=Enterprise.EnterpriseAndroidOverview
+rev=1
+targets=
+text=Currently, on Android platform I have 2 plans:%0a%0aDevelop a new software named PowerOak(it may be changed to a better one in future), which is a power indicator. I got the idea of this program from Banban, my wife.%0a%0aImprove SyncNews.%0a%0aMake web pages for them.%0a
+time=1259398559
+author:1259398559=
+diff:1259398559:1259398559:=1,7d0%0a%3c Currently, on Android platform I have 2 plans:%0a%3c %0a%3c Develop a new software named PowerOak(it may be changed to a better one in future), which is a power indicator. I got the idea of this program from Banban, my wife.%0a%3c %0a%3c Improve SyncNews.%0a%3c %0a%3c Make web pages for them.%0a
+host:1259398559=114.221.146.63

@@ -1,0 +1,21 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/534.7 (KHTML, like Gecko) Chrome/7.0.517.41 Safari/534.7
+author=
+charset=UTF-8
+csum=
+ctime=1288316937
+host=114.80.140.34
+name=Linux.PageLock
+rev=3
+targets=
+text=!! Page Lock%0a%0aOften it is necessary to wait until the state of a page changes, and then resume work. Two auxiliary functions provided by the kernel are of particular interest for us:%0a%0a->%3cpagemap.h>\\%0avoid wait_on_page_locked(struct page *page);\\%0avoid wait_on_page_writeback(struct page *page);%0a%0a-%3cAssume that one part of the kernel wants to wait until a locked page has been unlocked. %0a%0await_on_page_locked allows for doing this. While how this is technically done is discussed in Chapter 14, it suffices to know here that after calling the function, the kernel will go to sleep if the page%0ais locked. Once the page becomes unlocked, the sleeper is automatically woken up and can continue its work.%0a%0await_on_page_writeback works similarly, but waits until any pending writeback operations in which the data contained in the page are synchronized with a block device — a hard disk, for instance — have%0abeen finished.
+time=1288317002
+author:1288317002=
+diff:1288317002:1288316962:=9,11c9%0a%3c -%3cAssume that one part of the kernel wants to wait until a locked page has been unlocked. %0a%3c %0a%3c wait_on_page_locked allows for doing this. While how this is technically done is discussed in Chapter 14, it suffices to know here that after calling the function, the kernel will go to sleep if the page%0a---%0a> -%3cAssume that one part of the kernel wants to wait until a locked page has been unlocked. wait_on_page_locked allows for doing this. While how this is technically done is discussed in Chapter 14, it suffices to know here that after calling the function, the kernel will go to sleep if the page%0a
+host:1288317002=114.80.140.34
+author:1288316962=
+diff:1288316962:1288316937:=4,8c4,6%0a%3c %0a%3c ->%3cpagemap.h>\\%0a%3c void wait_on_page_locked(struct page *page);\\%0a%3c void wait_on_page_writeback(struct page *page);%0a%3c %0a---%0a> ->%3cpagemap.h>%0a> void wait_on_page_locked(struct page *page);%0a> void wait_on_page_writeback(struct page *page)%0a
+host:1288316962=114.80.140.34
+author:1288316937=
+diff:1288316937:1288316937:=1,11d0%0a%3c !! Page Lock%0a%3c %0a%3c Often it is necessary to wait until the state of a page changes, and then resume work. Two auxiliary functions provided by the kernel are of particular interest for us:%0a%3c ->%3cpagemap.h>%0a%3c void wait_on_page_locked(struct page *page);%0a%3c void wait_on_page_writeback(struct page *page)%0a%3c -%3cAssume that one part of the kernel wants to wait until a locked page has been unlocked. wait_on_page_locked allows for doing this. While how this is technically done is discussed in Chapter 14, it suffices to know here that after calling the function, the kernel will go to sleep if the page%0a%3c is locked. Once the page becomes unlocked, the sleeper is automatically woken up and can continue its work.%0a%3c %0a%3c wait_on_page_writeback works similarly, but waits until any pending writeback operations in which the data contained in the page are synchronized with a block device — a hard disk, for instance — have%0a%3c been finished.%0a\ No newline at end of file%0a
+host:1288316937=114.80.140.34

@@ -1,0 +1,15 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36
+author=
+charset=UTF-8
+csum=
+ctime=1403671741
+host=58.213.51.162
+name=Philately.De00465
+rev=1
+targets=
+text=!! Info%0a|| '''Date''' || '''Print''' || '''Wmk''' || '''Perf.''' ||%0a|| 1935, Aug 30 || Engr. || none || unknown ||%0a%0a!! List%0a|| '''Scott No.''' || '''design''' || '''Face Value''' || '''Color''' || %0a|| 465 || Eagle and Swastika over Nuremberg || 6pf || deep green ||%0a|| 466 || Eagle and Swastika over Nuremberg || 12pf || dark carmine ||%0a%0a!! Image%0a%25width=420 newwin%25[[Attach:de_00465_f.jpg | Attach:de_00465_f.jpg]]%0a%0a!! Background%0aIssued for 1935 Nazi Congress at Nuremberg.
+time=1403671741
+author:1403671741=
+diff:1403671741:1403671741:=1,14d0%0a%3c !! Info%0a%3c || '''Date''' || '''Print''' || '''Wmk''' || '''Perf.''' ||%0a%3c || 1935, Aug 30 || Engr. || none || unknown ||%0a%3c %0a%3c !! List%0a%3c || '''Scott No.''' || '''design''' || '''Face Value''' || '''Color''' || %0a%3c || 465 || Eagle and Swastika over Nuremberg || 6pf || deep green ||%0a%3c || 466 || Eagle and Swastika over Nuremberg || 12pf || dark carmine ||%0a%3c %0a%3c !! Image%0a%3c %25width=420 newwin%25[[Attach:de_00465_f.jpg | Attach:de_00465_f.jpg]]%0a%3c %0a%3c !! Background%0a%3c Issued for 1935 Nazi Congress at Nuremberg.%0a\ No newline at end of file%0a
+host:1403671741=58.213.51.162

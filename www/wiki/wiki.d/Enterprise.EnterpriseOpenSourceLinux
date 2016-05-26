@@ -1,0 +1,15 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.2.6) Gecko/20100625 Firefox/3.6.6
+author=
+charset=UTF-8
+csum=
+ctime=1279168229
+host=194.237.142.17
+name=Enterprise.EnterpriseOpenSourceLinux
+rev=1
+targets=Enterprise.EnterpriseOpenSourceLinuxUse01
+text=[[Enterprise_OpenSource_Linux_Use_01 | 安装和配置scim]]
+time=1279168229
+author:1279168229=
+diff:1279168229:1279168229:=1d0%0a%3c [[Enterprise_OpenSource_Linux_Use_01 | 安装和配置scim]]%0a\ No newline at end of file%0a
+host:1279168229=194.237.142.17

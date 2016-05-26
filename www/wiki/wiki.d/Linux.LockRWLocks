@@ -1,0 +1,15 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.2.12) Gecko/20101026 Firefox/3.6.12
+author=
+charset=UTF-8
+csum=
+ctime=1290592824
+host=194.237.142.10
+name=Linux.LockRWLocks
+rev=1
+targets=
+text=The mechanisms described above have one disadvantage. They do not differentiate between situations in which data structures are simply read and those in which they are actively manipulated. Usually, any number of processes are granted concurrent read access to data structures, whereas write access must be restricted exclusively to a single task.%0a%0aThe kernel therefore provides additional semaphore and spinlock versions to cater for the above — these are known accordingly as Reader/Writer semaphores and Reader/Writer spinlocks.%0a%0aThe rwlock_t data type is defined for Reader/Writer spinlocks. Locks must be acquired in different ways in order to differentiate between read and write access.%0a%0a# read_lock and read_unlock must be executed before and after a critical region to which a process requires read access. The kernel grants any number of read processes concurrent access to the critical region.%0a%0a# write_lock and write_unlock are used for write access. The kernel ensures that only one writer (and no readers) is in the region.%0a
+time=1290592824
+author:1290592824=
+diff:1290592824:1290592824:=1,9d0%0a%3c The mechanisms described above have one disadvantage. They do not differentiate between situations in which data structures are simply read and those in which they are actively manipulated. Usually, any number of processes are granted concurrent read access to data structures, whereas write access must be restricted exclusively to a single task.%0a%3c %0a%3c The kernel therefore provides additional semaphore and spinlock versions to cater for the above — these are known accordingly as Reader/Writer semaphores and Reader/Writer spinlocks.%0a%3c %0a%3c The rwlock_t data type is defined for Reader/Writer spinlocks. Locks must be acquired in different ways in order to differentiate between read and write access.%0a%3c %0a%3c # read_lock and read_unlock must be executed before and after a critical region to which a process requires read access. The kernel grants any number of read processes concurrent access to the critical region.%0a%3c %0a%3c # write_lock and write_unlock are used for write access. The kernel ensures that only one writer (and no readers) is in the region.%0a
+host:1290592824=194.237.142.10

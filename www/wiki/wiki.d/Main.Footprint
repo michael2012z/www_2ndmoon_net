@@ -1,0 +1,18 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Chrome/10.0.648.151 Safari/534.16
+author=
+charset=UTF-8
+csum=
+ctime=1300865235
+host=114.80.140.34
+name=Main.Footprint
+rev=2
+targets=Footprint.Sweden,Footprint.France,Footprint.Finland,Footprint.Japan,Footprint.China
+text=!!!海外%0a----%0a%0a%0a%25lfloat%25 [[Footprint.Sweden | Attach:icon_flag_sweden.png]] %0a>>center%3c%3c%0a!! 瑞典%0a>>%3c%3c%0a[[%3c%3c]]%0a[[%3c%3c]]%0a%0a%25lfloat%25 [[Footprint.France | Attach:icon_flag_france.png]] %0a>>center%3c%3c%0a!! 法国%0a>>%3c%3c%0a[[%3c%3c]]%0a[[%3c%3c]]%0a%0a%25lfloat%25 [[Footprint.Finland | Attach:icon_flag_finland.png]] %0a>>center%3c%3c%0a!! 芬兰%0a>>%3c%3c%0a[[%3c%3c]]%0a[[%3c%3c]]%0a%0a%25lfloat%25 [[Footprint.Japan | Attach:icon_flag_japan.png]] %0a>>center%3c%3c%0a!! 日本%0a>>%3c%3c%0a[[%3c%3c]]%0a[[%3c%3c]]%0a%0a!!!国内%0a----%0a%0a%25lfloat%25 [[Footprint.China | Attach:icon_flag_china.png]] %0a>>center%3c%3c%0a!! 中国%0a>>%3c%3c%0a[[%3c%3c]]%0a[[%3c%3c]]%0a
+time=1300866449
+author:1300866449=
+diff:1300866449:1300865235:=12,24d11%0a%3c %25lfloat%25 [[Footprint.France | Attach:icon_flag_france.png]] %0a%3c >>center%3c%3c%0a%3c !! 法国%0a%3c >>%3c%3c%0a%3c [[%3c%3c]]%0a%3c [[%3c%3c]]%0a%3c %0a%3c %25lfloat%25 [[Footprint.Finland | Attach:icon_flag_finland.png]] %0a%3c >>center%3c%3c%0a%3c !! 芬兰%0a%3c >>%3c%3c%0a%3c [[%3c%3c]]%0a%3c [[%3c%3c]]%0a
+host:1300866449=114.80.140.34
+author:1300865235=
+diff:1300865235:1300865235:=1,28d0%0a%3c !!!海外%0a%3c ----%0a%3c %0a%3c %0a%3c %25lfloat%25 [[Footprint.Sweden | Attach:icon_flag_sweden.png]] %0a%3c >>center%3c%3c%0a%3c !! 瑞典%0a%3c >>%3c%3c%0a%3c [[%3c%3c]]%0a%3c [[%3c%3c]]%0a%3c %0a%3c %0a%3c %25lfloat%25 [[Footprint.Japan | Attach:icon_flag_japan.png]] %0a%3c >>center%3c%3c%0a%3c !! 日本%0a%3c >>%3c%3c%0a%3c [[%3c%3c]]%0a%3c [[%3c%3c]]%0a%3c %0a%3c !!!国内%0a%3c ----%0a%3c %0a%3c %25lfloat%25 [[Footprint.China | Attach:icon_flag_china.png]] %0a%3c >>center%3c%3c%0a%3c !! 中国%0a%3c >>%3c%3c%0a%3c [[%3c%3c]]%0a%3c [[%3c%3c]]%0a
+host:1300865235=114.80.140.34

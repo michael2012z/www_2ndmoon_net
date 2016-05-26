@@ -1,0 +1,21 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0
+author=
+charset=UTF-8
+csum=
+ctime=1450311643
+host=58.213.51.163
+name=Reading.HouseOfCards
+rev=3
+targets=
+text=There are two kinds of pain. The sort of pain makes you strong. Or useless pain, the sort of pain that's only suffering.%0a%0aYou are stunning.%0a%0aDo I believe in him? That's beside the point.%0a%0aI clung to him early on, and made myself vital.%0a%0aYou look handsome in that suit.%0a%0aThis is going to be a big year for us.%0a%0aWe were pleased to win by double digits.%0a%0aThe president-elect running late?%0a%0aWe are not nominating you for Secretory of State.%0a%0aLet's be absolutely clear, you wouldn't have won without me.%0a%0aWill you stand beside us or not?%0a
+time=1450313252
+author:1450313252=
+diff:1450313252:1450312267:=13,21d12%0a%3c We were pleased to win by double digits.%0a%3c %0a%3c The president-elect running late?%0a%3c %0a%3c We are not nominating you for Secretory of State.%0a%3c %0a%3c Let's be absolutely clear, you wouldn't have won without me.%0a%3c %0a%3c Will you stand beside us or not?%0a
+host:1450313252=58.213.51.163
+author:1450312267=
+diff:1450312267:1450311643:=2,12d1%0a%3c %0a%3c You are stunning.%0a%3c %0a%3c Do I believe in him? That's beside the point.%0a%3c %0a%3c I clung to him early on, and made myself vital.%0a%3c %0a%3c You look handsome in that suit.%0a%3c %0a%3c This is going to be a big year for us.%0a%3c %0a
+host:1450312267=58.213.51.163
+author:1450311643=
+diff:1450311643:1450311643:=1d0%0a%3c There are two kinds of pain. The sort of pain makes you strong. Or useless pain, the sort of pain that's only suffering.%0a
+host:1450311643=58.213.51.163

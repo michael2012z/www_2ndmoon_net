@@ -1,0 +1,24 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.79 Safari/537.4
+author=
+charset=UTF-8
+csum=
+ctime=1320249557
+host=114.222.215.89
+name=Reading.Refactoring
+rev=4
+targets=
+text=%25lfloat width=260%25 http://2ndmoon.net/uploads/Reading/reading_Refactoring_bg.jpg %0a%0aTest text.%0a%0aTest text.%0a%0aTest text.%0a%0aTest text.%0a%0aTest text.%0a%0aTest text.%0a%0aTest text.%0a%0aTest text.%0a%0aTest text.%0a%0aTest text.%0a%0aTest text.%0a%0aTest text.%0a%0aTest text.%0a%0aTest text.%0a%0a%0a
+time=1350791863
+author:1350791863=
+diff:1350791863:1320307342:=1c1%0a%3c %25lfloat width=260%25 http://2ndmoon.net/uploads/Reading/reading_Refactoring_bg.jpg %0a---%0a> %25lfloat width=260%25 http://the2ndmoon.net/uploads/Reading/reading_Refactoring_bg.jpg %0a
+host:1350791863=114.222.215.89
+author:1320307342=
+diff:1320307342:1320307094:=1c1%0a%3c %25lfloat width=260%25 http://the2ndmoon.net/uploads/Reading/reading_Refactoring_bg.jpg %0a---%0a> %25lfloat width=260%25 http://the2ndmoon.net/uploads/Reading/reading_Refactoring_bg.png %0a
+host:1320307342=202.96.60.37
+author:1320307094=
+diff:1320307094:1320249557:=1,31c1%0a%3c %25lfloat width=260%25 http://the2ndmoon.net/uploads/Reading/reading_Refactoring_bg.png %0a%3c %0a%3c Test text.%0a%3c %0a%3c Test text.%0a%3c %0a%3c Test text.%0a%3c %0a%3c Test text.%0a%3c %0a%3c Test text.%0a%3c %0a%3c Test text.%0a%3c %0a%3c Test text.%0a%3c %0a%3c Test text.%0a%3c %0a%3c Test text.%0a%3c %0a%3c Test text.%0a%3c %0a%3c Test text.%0a%3c %0a%3c Test text.%0a%3c %0a%3c Test text.%0a%3c %0a%3c Test text.%0a%3c %0a%3c %0a---%0a> http://the2ndmoon.net/uploads/Main/reading_Refactoring_bg.png%0a\ No newline at end of file%0a
+host:1320307094=202.96.60.37
+author:1320249557=
+diff:1320249557:1320249557:=1d0%0a%3c http://the2ndmoon.net/uploads/Main/reading_Refactoring_bg.png%0a\ No newline at end of file%0a
+host:1320249557=180.109.107.73

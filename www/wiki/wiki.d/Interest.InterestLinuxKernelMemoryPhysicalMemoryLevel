@@ -1,0 +1,15 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; InfoPath.1; OfficeLiveConnector.1.3; OfficeLivePatch.0.0; .NET CLR 3.5.30729; .NET CLR 3.0.30618) chromeframe/5.0.375.15
+author=
+charset=UTF-8
+csum=
+ctime=1272990006
+host=194.237.142.20
+name=Interest.InterestLinuxKernelMemoryPhysicalMemoryLevel
+rev=1
+targets=
+text=Linux内核对物理内存的描述可以分为三个层次：node，zone和page。%0a
+time=1272990006
+author:1272990006=
+diff:1272990006:1272990006:=1d0%0a%3c Linux内核对物理内存的描述可以分为三个层次：node，zone和page。%0a
+host:1272990006=194.237.142.20

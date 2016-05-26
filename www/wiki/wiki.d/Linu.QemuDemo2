@@ -1,0 +1,15 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2.10) Gecko/20100922 Ubuntu/10.10 (maverick) Firefox/3.6.10
+author=
+charset=UTF-8
+csum=
+ctime=1292650315
+host=112.21.63.130
+name=Linu.QemuDemo2
+rev=1
+targets=
+text=http://blog.chinaunix.net/u3/117969/showart.php?id=2331136%0a
+time=1292650315
+author:1292650315=
+diff:1292650315:1292650315:=1d0%0a%3c http://blog.chinaunix.net/u3/117969/showart.php?id=2331136%0a
+host:1292650315=112.21.63.130

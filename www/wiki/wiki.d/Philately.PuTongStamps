@@ -1,0 +1,21 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.89 Safari/537.1
+author=
+charset=UTF-8
+csum=
+ctime=1347458792
+host=58.213.51.162
+name=Philately.PuTongStamps
+rev=3
+targets=Philately.Pu014,Philately.Pu016,Philately.Pu018,Philately.Hg001
+text=|| border=1 width=100%25%0a||! 志号 ||! 名称 ||%0a|| [[ Philately.Pu014 | 普14 ]] || 革命圣地图案普通邮票（第三组） ||%0a|| [[ Philately.Pu016 | 普16 ]] || 革命纪念地图案普通邮票 ||%0a|| [[ Philately.Pu018 | 普18 ]] || 工农业建设图案普通邮票 ||%0a%0a|| border=1 width=100%25%0a||! 志号 ||! 名称 ||%0a|| [[ Philately.Hg001 | 航1 ]] || 航空邮票 ||%0a
+time=1348202266
+author:1348202266=
+diff:1348202266:1347460309:=5,9c5%0a%3c || [[ Philately.Pu018 | 普18 ]] || 工农业建设图案普通邮票 ||%0a%3c %0a%3c || border=1 width=100%25%0a%3c ||! 志号 ||! 名称 ||%0a%3c || [[ Philately.Hg001 | 航1 ]] || 航空邮票 ||%0a---%0a> || [[ Philately.Pu018 | 普18 ]] || 工农业建设图案普通邮票 ||%0a\ No newline at end of file%0a
+host:1348202266=58.213.51.162
+author:1347460309=
+diff:1347460309:1347458792:=3d2%0a%3c || [[ Philately.Pu014 | 普14 ]] || 革命圣地图案普通邮票（第三组） ||%0a
+host:1347460309=117.89.152.102
+author:1347458792=
+diff:1347458792:1347458792:=1,4d0%0a%3c || border=1 width=100%25%0a%3c ||! 志号 ||! 名称 ||%0a%3c || [[ Philately.Pu016 | 普16 ]] || 革命纪念地图案普通邮票 ||%0a%3c || [[ Philately.Pu018 | 普18 ]] || 工农业建设图案普通邮票 ||%0a\ No newline at end of file%0a
+host:1347458792=117.89.152.102

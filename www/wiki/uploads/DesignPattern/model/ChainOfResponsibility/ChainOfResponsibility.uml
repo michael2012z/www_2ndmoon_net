@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="2.1" xmlns:xmi="http://schema.omg.org/spec/XMI/2.1" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmi:id="_83WQMfAhEeCcosOLibl_Tw" name="ChainOfResponsibility">
+  <elementImport xmi:id="_9CrWcPAhEeCcosOLibl_Tw">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+  </elementImport>
+  <elementImport xmi:id="_9DcLcPAhEeCcosOLibl_Tw">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+  </elementImport>
+  <elementImport xmi:id="_9DcygPAhEeCcosOLibl_Tw">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#UnlimitedNatural"/>
+  </elementImport>
+  <elementImport xmi:id="_9DcygfAhEeCcosOLibl_Tw">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+  </elementImport>
+  <packagedElement xmi:type="uml:Class" xmi:id="_y4Bq4PAiEeCcosOLibl_Tw" name="Handler">
+    <ownedAttribute xmi:id="_8oEooPAiEeCcosOLibl_Tw" name="successor" type="_y4Bq4PAiEeCcosOLibl_Tw" aggregation="composite"/>
+    <ownedOperation xmi:id="_0bPKEPAiEeCcosOLibl_Tw" name="handleRequest" isAbstract="true">
+      <ownedParameter xmi:id="_2QSnMPAiEeCcosOLibl_Tw" direction="return"/>
+    </ownedOperation>
+    <ownedOperation xmi:id="_4r8xUPAiEeCcosOLibl_Tw" name="setSuccessor">
+      <ownedParameter xmi:id="_5qVsMPAiEeCcosOLibl_Tw" direction="return"/>
+    </ownedOperation>
+    <ownedOperation xmi:id="_6DLC8PAiEeCcosOLibl_Tw" name="getSuccessor">
+      <ownedParameter xmi:id="_6zuWIPAiEeCcosOLibl_Tw" direction="return"/>
+    </ownedOperation>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_I9rTYPAjEeCcosOLibl_Tw" name="ConcreteHandler">
+    <generalization xmi:id="_PsG6QPAjEeCcosOLibl_Tw" general="_y4Bq4PAiEeCcosOLibl_Tw"/>
+    <ownedOperation xmi:id="_LDctEPAjEeCcosOLibl_Tw" name="handleRequest">
+      <ownedParameter xmi:id="_MelOUPAjEeCcosOLibl_Tw" direction="return"/>
+    </ownedOperation>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_U-L34PAjEeCcosOLibl_Tw" memberEnd="_U-OUIPAjEeCcosOLibl_Tw _U-PiQfAjEeCcosOLibl_Tw">
+    <ownedEnd xmi:id="_U-OUIPAjEeCcosOLibl_Tw" name="src" type="_y4Bq4PAiEeCcosOLibl_Tw" association="_U-L34PAjEeCcosOLibl_Tw">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_U-PiQPAjEeCcosOLibl_Tw" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_U-O7MPAjEeCcosOLibl_Tw" value="1"/>
+    </ownedEnd>
+    <ownedEnd xmi:id="_U-PiQfAjEeCcosOLibl_Tw" name="dst" type="_y4Bq4PAiEeCcosOLibl_Tw" aggregation="composite" association="_U-L34PAjEeCcosOLibl_Tw">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_U-QJUfAjEeCcosOLibl_Tw" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_U-QJUPAjEeCcosOLibl_Tw" value="1"/>
+    </ownedEnd>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_lKmcIPAjEeCcosOLibl_Tw" name="Request"/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_qfcZ4PAjEeCcosOLibl_Tw" memberEnd="_qfdA8PAjEeCcosOLibl_Tw _qfdoAfAjEeCcosOLibl_Tw">
+    <ownedEnd xmi:id="_qfdA8PAjEeCcosOLibl_Tw" name="src" type="_y4Bq4PAiEeCcosOLibl_Tw" association="_qfcZ4PAjEeCcosOLibl_Tw">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_qfdoAPAjEeCcosOLibl_Tw" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_qfdA8fAjEeCcosOLibl_Tw" value="1"/>
+    </ownedEnd>
+    <ownedEnd xmi:id="_qfdoAfAjEeCcosOLibl_Tw" name="dst" type="_lKmcIPAjEeCcosOLibl_Tw" association="_qfcZ4PAjEeCcosOLibl_Tw">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_qfePEPAjEeCcosOLibl_Tw" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_qfdoAvAjEeCcosOLibl_Tw" value="1"/>
+    </ownedEnd>
+  </packagedElement>
+</uml:Model>

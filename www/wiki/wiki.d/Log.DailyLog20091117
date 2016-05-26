@@ -1,0 +1,15 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; InfoPath.1; OfficeLiveConnector.1.3; OfficeLivePatch.0.0; .NET CLR 3.5.30729; .NET CLR 3.0.30618)
+author=
+charset=UTF-8
+csum=
+ctime=1258449717
+host=114.80.140.34
+name=Log.DailyLog20091117
+rev=1
+targets=
+text=编译*_solaris_exe blocks。%0a%0a一开始， 所有block都依赖-luehwega，编不过，但这个.a可以通过目录下的一个脚本来产生，不知道如何通过定义dependency来让它自动产生。%0a%0aUehIratHoUtranGsmTest_solaris_exe编不过。
+time=1258449717
+author:1258449717=
+diff:1258449717:1258449717:=1,5d0%0a%3c 编译*_solaris_exe blocks。%0a%3c %0a%3c 一开始， 所有block都依赖-luehwega，编不过，但这个.a可以通过目录下的一个脚本来产生，不知道如何通过定义dependency来让它自动产生。%0a%3c %0a%3c UehIratHoUtranGsmTest_solaris_exe编不过。%0a\ No newline at end of file%0a
+host:1258449717=114.80.140.34

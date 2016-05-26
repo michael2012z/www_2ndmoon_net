@@ -1,0 +1,30 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36
+author=
+charset=UTF-8
+csum=
+ctime=1403494482
+host=58.213.51.162
+name=Philately.De00442
+rev=6
+targets=
+text=!! Info%0a|| '''Date''' || '''Print''' || '''Wmk''' || '''Perf.''' ||%0a|| 1934, Sep 1 || Photo. || none || unknown ||%0a%0a!! List%0a|| '''Scott No.''' || '''design''' || '''Face Value''' || '''Color''' || %0a|| 442 || Swastika, Sun and Nuremberg Castle || 6pf || dark green ||%0a|| 443 || Swastika, Sun and Nuremberg Castle || 12pf || dark carmine ||%0a%0a!! Image%0a%25width=320 newwin%25[[Attach:de_00442_f.jpg | Attach:de_00442_f.jpg]]%0a%0a!! Background%0a'''Nuremberg Castle'''%0a%25width=560 newwin%25 [[ http://upload.wikimedia.org/wikipedia/commons/5/50/N%25C3%25BCrnberg_Burg_ArM.jpg || http://upload.wikimedia.org/wikipedia/commons/5/50/N%25C3%25BCrnberg_Burg_ArM.jpg ]]%0aNuremberg Castle (German: Nürnberger Burg) is a historical building on a sandstone rock in the north of the historical city of Nuremberg, Bavaria, Germany. It comprises three sections: the Imperial castle ("Kaiserburg"), some buildings of the Burgraves of Nuremberg ("Burggrafenburg"), and the municipal buildings of the Imperial City at the eastern site ("Reichsstädtische Bauten"). The castle together with the City walls of Nuremberg is meant to be one of Europes most considerable medieval war systems.
+time=1403495099
+author:1403495099=
+diff:1403495099:1403495023:=11c11%0a%3c %25width=320 newwin%25[[Attach:de_00442_f.jpg | Attach:de_00442_f.jpg]]%0a---%0a> %25width=420 newwin%25[[Attach:de_00442_f.jpg | Attach:de_00442_f.jpg]]%0a
+host:1403495099=58.213.51.162
+author:1403495023=
+diff:1403495023:1403495008:=11c11%0a%3c %25width=420 newwin%25[[Attach:de_00442_f.jpg | Attach:de_00442_f.jpg]]%0a---%0a> %25width=480 newwin%25[[Attach:de_00442_f.jpg | Attach:de_00442_f.jpg]]%0a
+host:1403495023=58.213.51.162
+author:1403495008=
+diff:1403495008:1403494973:=11c11%0a%3c %25width=480 newwin%25[[Attach:de_00442_f.jpg | Attach:de_00442_f.jpg]]%0a---%0a> %25width=560 newwin%25[[Attach:de_00442_f.jpg | Attach:de_00442_f.jpg]]%0a
+host:1403495008=58.213.51.162
+author:1403494973=
+diff:1403494973:1403494951:=15c15%0a%3c %25width=560 newwin%25 [[ http://upload.wikimedia.org/wikipedia/commons/5/50/N%25C3%25BCrnberg_Burg_ArM.jpg || http://upload.wikimedia.org/wikipedia/commons/5/50/N%25C3%25BCrnberg_Burg_ArM.jpg ]]%0a---%0a> %25width=560 newwin%25 http://upload.wikimedia.org/wikipedia/commons/5/50/N%25C3%25BCrnberg_Burg_ArM.jpg%0a
+host:1403494973=58.213.51.162
+author:1403494951=
+diff:1403494951:1403494482:=14,16d13%0a%3c '''Nuremberg Castle'''%0a%3c %25width=560 newwin%25 http://upload.wikimedia.org/wikipedia/commons/5/50/N%25C3%25BCrnberg_Burg_ArM.jpg%0a%3c Nuremberg Castle (German: Nürnberger Burg) is a historical building on a sandstone rock in the north of the historical city of Nuremberg, Bavaria, Germany. It comprises three sections: the Imperial castle ("Kaiserburg"), some buildings of the Burgraves of Nuremberg ("Burggrafenburg"), and the municipal buildings of the Imperial City at the eastern site ("Reichsstädtische Bauten"). The castle together with the City walls of Nuremberg is meant to be one of Europes most considerable medieval war systems.%0a\ No newline at end of file%0a
+host:1403494951=58.213.51.162
+author:1403494482=
+diff:1403494482:1403494482:=1,13d0%0a%3c !! Info%0a%3c || '''Date''' || '''Print''' || '''Wmk''' || '''Perf.''' ||%0a%3c || 1934, Sep 1 || Photo. || none || unknown ||%0a%3c %0a%3c !! List%0a%3c || '''Scott No.''' || '''design''' || '''Face Value''' || '''Color''' || %0a%3c || 442 || Swastika, Sun and Nuremberg Castle || 6pf || dark green ||%0a%3c || 443 || Swastika, Sun and Nuremberg Castle || 12pf || dark carmine ||%0a%3c %0a%3c !! Image%0a%3c %25width=560 newwin%25[[Attach:de_00442_f.jpg | Attach:de_00442_f.jpg]]%0a%3c %0a%3c !! Background%0a
+host:1403494482=58.213.51.162

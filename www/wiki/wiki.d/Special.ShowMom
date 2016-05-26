@@ -1,0 +1,18 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:39.0) Gecko/20100101 Firefox/39.0
+author=
+charset=UTF-8
+csum=
+ctime=1438240010
+host=58.213.51.162
+name=Special.ShowMom
+rev=2
+targets=
+text=! [[ http://photo.163.com/michael2012zhao/#m=0&p=1 | (点这行字)这是新的相册，里面照片还不多，有空我再慢慢传。]]
+time=1438837659
+author:1438837659=
+diff:1438837659:1438240010:=1c1%0a%3c ! [[ http://photo.163.com/michael2012zhao/#m=0&p=1 | (点这行字)这是新的相册，里面照片还不多，有空我再慢慢传。]]%0a\ No newline at end of file%0a---%0a> %25width=720 newwin%25 Attach:DSC_0108.jpg%0a\ No newline at end of file%0a
+host:1438837659=58.213.51.162
+author:1438240010=
+diff:1438240010:1438240010:=1d0%0a%3c %25width=720 newwin%25 Attach:DSC_0108.jpg%0a\ No newline at end of file%0a
+host:1438240010=59.45.73.186

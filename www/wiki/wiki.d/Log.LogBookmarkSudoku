@@ -1,0 +1,15 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; InfoPath.1; OfficeLiveConnector.1.3; OfficeLivePatch.0.0; .NET CLR 3.5.30729; .NET CLR 3.0.30618) chromeframe/5.0.366.0
+author=
+charset=UTF-8
+csum=
+ctime=1271058320
+host=114.80.140.34
+name=Log.LogBookmarkSudoku
+rev=1
+targets=
+text=* [[ http://www.techfinesse.com/game/sudoku_solver.php | A Sudoku Solver in C ]]%0a* [[ http://davidbau.com/archives/2006/09/04/sudoku_generator.html | davidbau.com- Sudoku Generator ]]%0a* [[ http://en.wikipedia.org/wiki/Mathematics_of_Sudoku | Mathematics of Sudoku - Wikipedia, the free encyclopedia ]]%0a* [[ http://www.eddaardvark.co.uk/sudokusolver.html | Sudoku Solver ]]%0a* [[ http://numenzq.javaeye.com/blog/162169 | sudoku相关算法 - Missing in Action - JavaEye技术网站 ]]%0a* [[ http://wallimn.javaeye.com/blog/327749 | 使用Java生成全部数独(Sudoku)布局 - 隔壁老王 - JavaEye技术网站 ]]%0a* [[ http://hi.baidu.com/vinfo/blog/item/f5d83bd1d6925c389b502799.html/cmtid/e2968f268ace09128a82a113 | 数独游戏的生成算法_minix宝刀不老 ]]%0a* [[ http://www.cnblogs.com/dah/archive/2007/03/08/668653.html | 数独游戏局的建立算法 (Sudoku Generating Algorithm Using Backtracking) - Adrian's Tech Blog - 博客园 ]]%0a* [[ http://net538.blogspot.com/ | 數獨題目及解題技巧 ]]%0a* [[ http://blog.csdn.net/Solstice/archive/2008/02/15/2096209.aspx | 谈谈数独(Sudoku) - 陈硕的Blog - CSDNBlog ]]%0a
+time=1271058320
+author:1271058320=
+diff:1271058320:1271058320:=1,10d0%0a%3c * [[ http://www.techfinesse.com/game/sudoku_solver.php | A Sudoku Solver in C ]]%0a%3c * [[ http://davidbau.com/archives/2006/09/04/sudoku_generator.html | davidbau.com- Sudoku Generator ]]%0a%3c * [[ http://en.wikipedia.org/wiki/Mathematics_of_Sudoku | Mathematics of Sudoku - Wikipedia, the free encyclopedia ]]%0a%3c * [[ http://www.eddaardvark.co.uk/sudokusolver.html | Sudoku Solver ]]%0a%3c * [[ http://numenzq.javaeye.com/blog/162169 | sudoku相关算法 - Missing in Action - JavaEye技术网站 ]]%0a%3c * [[ http://wallimn.javaeye.com/blog/327749 | 使用Java生成全部数独(Sudoku)布局 - 隔壁老王 - JavaEye技术网站 ]]%0a%3c * [[ http://hi.baidu.com/vinfo/blog/item/f5d83bd1d6925c389b502799.html/cmtid/e2968f268ace09128a82a113 | 数独游戏的生成算法_minix宝刀不老 ]]%0a%3c * [[ http://www.cnblogs.com/dah/archive/2007/03/08/668653.html | 数独游戏局的建立算法 (Sudoku Generating Algorithm Using Backtracking) - Adrian's Tech Blog - 博客园 ]]%0a%3c * [[ http://net538.blogspot.com/ | 數獨題目及解題技巧 ]]%0a%3c * [[ http://blog.csdn.net/Solstice/archive/2008/02/15/2096209.aspx | 谈谈数独(Sudoku) - 陈硕的Blog - CSDNBlog ]]%0a
+host:1271058320=114.80.140.34

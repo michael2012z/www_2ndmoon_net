@@ -1,0 +1,18 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/534.7 (KHTML, like Gecko) Chrome/7.0.517.41 Safari/534.7
+author=
+charset=UTF-8
+csum=
+ctime=1288321150
+host=114.80.140.34
+name=Linux.PageTableEntry
+rev=2
+targets=Linux.PTEFlags,Linux.PTEMembers
+text=[[Linux.PTEFlags | PTE Properties]]%0a%0a[[Linux.PTEMembers | PTE Members]]%0a%0a
+time=1288321572
+author:1288321572=
+diff:1288321572:1288321150:=4a5%0a> [[Linux.PTEManipulating | PTE Manipulating]]%0a
+host:1288321572=114.80.140.34
+author:1288321150=
+diff:1288321150:1288321150:=1,5d0%0a%3c [[Linux.PTEFlags | PTE Properties]]%0a%3c %0a%3c [[Linux.PTEMembers | PTE Members]]%0a%3c %0a%3c [[Linux.PTEManipulating | PTE Manipulating]]%0a
+host:1288321150=114.80.140.34
