@@ -1,15 +1,30 @@
-version=pmwiki-2.2.6 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36
+version=pmwiki-2.2.86 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 author=
 charset=UTF-8
 csum=
 ctime=1401952728
-host=58.213.51.162
+host=58.213.51.163
 name=Main.Plant
-rev=16
-targets=Plant.General,Plant.Chrysanthemum,Plant.Peony
-text=! [[Plant.General | 植物概述]]%0a%0a从一望无际的草原到广阔的江河湖海，从赤日炎炎的沙漠到冰雪覆盖的极地，处处都有植物的生根之地。通常以根扎与土地，吸收养分。植物有动物所没有的叶绿素和基质，能进行光合作用。植物有细胞壁，没有神经系统，没有感觉。分藻类、地衣、苔藓、蕨类和种子植物，种子植物又分为裸子植物和被子植物，有30多万种。%0a%0a%25width=560px newwin%25 Attach:plant_decorate_001.jpg%0a----%0a%0a! 美丽的花卉%0a\\%0a%0a%25lfloat width=300%25 [[Plant.Chrysanthemum| Attach:icon_chrysanthemum_300x300.png]] %0a>>center%3c%3c%0a!! [[Plant.Chrysanthemum| 菊花]]%0a\\%0a%0a!!! 黄花无主为谁容，%0a!!! 冷落疏篱曲径中； %0a!!! 尽把金钱买脂粉，%0a!!! 一生颜色付西风。%0a!!!         —— 唐寅%0a>>%3c%3c%0a[[%3c%3c]]%0a%0a%0a%25lfloat width=300%25 [[Plant.Peony| Attach:icon_peony_300x300.png]] %0a>>center%3c%3c%0a!! [[Plant.Peony| 牡丹]]%0a\\%0a%0a!!! 黄花无主为谁容，%0a!!! 冷落疏篱曲径中； %0a!!! 尽把金钱买脂粉，%0a!!! 一生颜色付西风。%0a!!!         —— 唐寅%0a>>%3c%3c%0a[[%3c%3c]]%0a%0a
-time=1401955985
+rev=21
+targets=Plant.Chrysanthemum,Plant.Peony
+text=>>left%3c%3c%0a!! [[Plant.Chrysanthemum| 菊花]]%0a>>%3c%3c%0a>>center%3c%3c%0a!!! 黄花无主为谁容，%0a!!! 冷落疏篱曲径中； %0a!!! 尽把金钱买脂粉，%0a!!! 一生颜色付西风。%0a!!!         —— 唐寅%0a>>%3c%3c%0a[[%3c%3c]]%0a%0a%0a>>left%3c%3c%0a!! [[Plant.Peony| 牡丹]]%0a>>%3c%3c%0a>>center%3c%3c%0a!!! ......%0a>>%3c%3c%0a[[%3c%3c]]%0a%0a
+time=1465730046
+author:1465730046=
+diff:1465730046:1465730034:=14c14%0a%3c >>left%3c%3c%0a---%0a> >>center%3c%3c%0a
+host:1465730046=58.213.51.163
+author:1465730034=
+diff:1465730034:1465729927:=1c1%0a%3c >>left%3c%3c%0a---%0a> >>center%3c%3c%0a3,4c3,4%0a%3c >>%3c%3c%0a%3c >>center%3c%3c%0a---%0a> \\%0a> %0a16,18c16,22%0a%3c >>%3c%3c%0a%3c >>center%3c%3c%0a%3c !!! ......%0a---%0a> \\%0a> %0a> !!! 黄花无主为谁容，%0a> !!! 冷落疏篱曲径中； %0a> !!! 尽把金钱买脂粉，%0a> !!! 一生颜色付西风。%0a> !!!         —— 唐寅%0a
+host:1465730034=58.213.51.163
+author:1465729927=
+diff:1465729927:1465729865:=0a1,2%0a> %0a> %25lfloat width=300%25 [[Plant.Chrysanthemum| Attach:icon_chrysanthemum_300x300.png]] %0a13a16%0a> %25lfloat width=300%25 [[Plant.Peony| Attach:icon_peony_300x300.png]] %0a
+host:1465729927=58.213.51.163
+author:1465729865=
+diff:1465729865:1465729732:=0a1,35%0a> ----%0a> !! 植物的分类%0a> %0a> 以生物性状差异的程度和亲缘关系的远近为依据，将不同的生物加以分门别类的。生物学家将地球上现存的生物依次分为：界、门、纲、目、科、属、种7个等级。其中，种是生物分类的基本单位。%0a> %0a> [+'''界''' +]：所有的动物都属于动物界，动物界中包含许多门。\\%0a> [+'''门''' +]：具有一些共同特征来自不同纲的动物，归入同一个门。\\%0a> [+'''纲''' +]：具有一些共同特征的来自不同目的动物，归入同一个纲。\\%0a> [+'''目''' +]：具有一些共同特征的来自不同科的动物，归入同一个目。\\%0a> [+'''科''' +]：具有一些共同特征的来自不同属的动物，归入同一个科。\\%0a> [+'''属''' +]：一些不同种类的动物，例如狗与狼的特征很相似，它们归入同一个属。\\%0a> [+'''种''' +]：每只狗是一个动物体，所有的狗属于同一个物种。%0a> %0a> 详细的分类为：%0a> ||界 ||Kingdom ||%0a> ||门 ||Phylum ||%0a> ||亚门 ||Subphylum ||%0a> ||总纲 ||Superclass ||%0a> ||纲 ||Class ||%0a> ||亚纲 ||Subclass ||%0a> ||总目 ||Superorder ||%0a> ||目 ||Order ||%0a> ||亚目 ||Suborder ||%0a> ||总科 ||Superfamily ||%0a> ||科 ||Family ||%0a> ||亚科 ||Subfamily ||%0a> ||属 ||Genus ||%0a> ||亚属 ||Subgenus ||%0a> ||种 ||Species ||%0a> ||变种 ||varietas ||%0a> %0a> ----%0a> %0a> ! 美丽的花卉%0a> \\%0a
+host:1465729865=58.213.51.163
+author:1465729732=
+diff:1465729732:1401955985:=1,31c1,5%0a%3c ----%0a%3c !! 植物的分类%0a%3c %0a%3c 以生物性状差异的程度和亲缘关系的远近为依据，将不同的生物加以分门别类的。生物学家将地球上现存的生物依次分为：界、门、纲、目、科、属、种7个等级。其中，种是生物分类的基本单位。%0a%3c %0a%3c [+'''界''' +]：所有的动物都属于动物界，动物界中包含许多门。\\%0a%3c [+'''门''' +]：具有一些共同特征来自不同纲的动物，归入同一个门。\\%0a%3c [+'''纲''' +]：具有一些共同特征的来自不同目的动物，归入同一个纲。\\%0a%3c [+'''目''' +]：具有一些共同特征的来自不同科的动物，归入同一个目。\\%0a%3c [+'''科''' +]：具有一些共同特征的来自不同属的动物，归入同一个科。\\%0a%3c [+'''属''' +]：一些不同种类的动物，例如狗与狼的特征很相似，它们归入同一个属。\\%0a%3c [+'''种''' +]：每只狗是一个动物体，所有的狗属于同一个物种。%0a%3c %0a%3c 详细的分类为：%0a%3c ||界 ||Kingdom ||%0a%3c ||门 ||Phylum ||%0a%3c ||亚门 ||Subphylum ||%0a%3c ||总纲 ||Superclass ||%0a%3c ||纲 ||Class ||%0a%3c ||亚纲 ||Subclass ||%0a%3c ||总目 ||Superorder ||%0a%3c ||目 ||Order ||%0a%3c ||亚目 ||Suborder ||%0a%3c ||总科 ||Superfamily ||%0a%3c ||科 ||Family ||%0a%3c ||亚科 ||Subfamily ||%0a%3c ||属 ||Genus ||%0a%3c ||亚属 ||Subgenus ||%0a%3c ||种 ||Species ||%0a%3c ||变种 ||varietas ||%0a%3c %0a---%0a> ! [[Plant.General | 植物概述]]%0a> %0a> 从一望无际的草原到广阔的江河湖海，从赤日炎炎的沙漠到冰雪覆盖的极地，处处都有植物的生根之地。通常以根扎与土地，吸收养分。植物有动物所没有的叶绿素和基质，能进行光合作用。植物有细胞壁，没有神经系统，没有感觉。分藻类、地衣、苔藓、蕨类和种子植物，种子植物又分为裸子植物和被子植物，有30多万种。%0a> %0a> %25width=560px newwin%25 Attach:plant_decorate_001.jpg%0a
+host:1465729732=58.213.51.163
 author:1401955985=
 diff:1401955985:1401955559:=14,27d13%0a%3c \\%0a%3c %0a%3c !!! 黄花无主为谁容，%0a%3c !!! 冷落疏篱曲径中； %0a%3c !!! 尽把金钱买脂粉，%0a%3c !!! 一生颜色付西风。%0a%3c !!!         —— 唐寅%0a%3c >>%3c%3c%0a%3c [[%3c%3c]]%0a%3c %0a%3c %0a%3c %25lfloat width=300%25 [[Plant.Peony| Attach:icon_peony_300x300.png]] %0a%3c >>center%3c%3c%0a%3c !! [[Plant.Peony| 牡丹]]%0a
 host:1401955985=58.213.51.162
